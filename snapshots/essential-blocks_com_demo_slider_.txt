@@ -1,0 +1,608 @@
+{
+  "role": "WebArea",
+  "name": "Slider | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 1"
+    },
+    {
+      "role": "heading",
+      "name": "Slider",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display all your beautiful images with eye-catching motion effects and dazzle your audiences instantly using Essential Blocks Slider. This amazing block will help you showcase images stunningly without compromising the style."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 2"
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 3"
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Slider",
+      "description": "Slider 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Slider",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add A Slider In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Image Slider In Fade Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With Testimonials block from Essential Blocks, you will get the options to design an elegant customers feedback section and become reliable to your visitors"
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Dual Slideshow With Auto-Play",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With EB Slider, you can show dual sliders to show multiple images with auto play facility and add more images as well."
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 3",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Slideshow Having Left Content",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Showcase beautiful images along with descriptions on the left side to impress your audiences spontaneously."
+        },
+        {
+          "role": "link",
+          "name": "See More"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 3",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 3"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 3"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Rightside Content Slideshow",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Present impressive images along with descriptions on the right side to make it more appealing for the viewers."
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Slideshow Having Contents Within",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display impressive sliders along with descriptions within it to make the slider more effective, impressive and attractive for the viewers."
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Daily Life Shopping",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Made of expensive & best quality wood"
+        },
+        {
+          "role": "link",
+          "name": "See More"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Latest Releases",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "All our latest updates and released are here"
+        },
+        {
+          "role": "link",
+          "name": "See More"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "3D Art Portrait",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Indulge in the dazzling art we created"
+        },
+        {
+          "role": "link",
+          "name": "See More"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Multiple Sliders",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Multiple sliders to showcase multiple images with contents to display all your beautiful images in front of the visitors and engage them more."
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Cookbook",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Tasty, yummy and delicious"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Home Decor",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Essential Blocks Slider Subtitle Goes Here"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Art & Crafts",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Essential Blocks Slider Subtitle Goes Here"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Paintings",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Essential Blocks Slider Subtitle Goes Here"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Display Vertical Slideshow",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Besides horizontal slideshow, you can display a vertical slideshow for your beautiful images with stunning style and color combination."
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 3"
+    },
+    {
+      "role": "tab",
+      "name": "1 of 3",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 3"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 3"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

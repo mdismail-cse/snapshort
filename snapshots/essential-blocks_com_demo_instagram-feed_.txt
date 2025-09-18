@@ -1,0 +1,473 @@
+{
+  "role": "WebArea",
+  "name": "Instagram Feed | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Instagram Feed 1"
+    },
+    {
+      "role": "heading",
+      "name": "Instagram Feed",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Connect your visitors socially with Instagram Feed block from Essential Blocks and convert your visitors into customers. With an advanced sorting process and versatile overlay, increase your sales with credibility and trust with social proof."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Instagram Feed",
+      "description": "Instagram Feed 2"
+    },
+    {
+      "role": "image",
+      "name": "Instagram Feed",
+      "description": "Instagram Feed 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Instagram Feed 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Instagram Feed 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Instagram Feed 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Instagram Feed 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Add Instagram Feed On Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Display Instagram Feed On WordPress Website"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Instagram Feed Sort (Least Recent)",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Sort your news feed as per your preference to keep your potential customers updated about your upcoming offers and sales"
+    },
+    {
+      "role": "link",
+      "name": "Breathtaking #nature"
+    },
+    {
+      "role": "link",
+      "name": "Where the earth rises to meet the sky"
+    },
+    {
+      "role": "link",
+      "name": "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+    },
+    {
+      "role": "link",
+      "name": "Little beauty"
+    },
+    {
+      "role": "link",
+      "name": "Tranquility"
+    },
+    {
+      "role": "link",
+      "name": "#mountainscape #nature #mountainlife"
+    },
+    {
+      "role": "link",
+      "name": "Silver lining"
+    },
+    {
+      "role": "link",
+      "name": "Peaceful"
+    },
+    {
+      "role": "heading",
+      "name": "Instagram Feed Sort (Most Recent)",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add as many images you want with a responsive and customizable square thumbnail to give your Instagram feed a charming look"
+    },
+    {
+      "role": "link",
+      "name": "A breathtaking mountainview #nature #mountainscape"
+    },
+    {
+      "role": "link",
+      "name": "#mountainscape #nature #mountainlife"
+    },
+    {
+      "role": "link",
+      "name": "Can never get tired of watching the sunset #beautifulsunsetview"
+    },
+    {
+      "role": "heading",
+      "name": "Instagram Overlay Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Provide your Instagram content in a beautiful overlay layout with stunning and versatile border style with Instagram Feed and increase engagement"
+    },
+    {
+      "role": "link",
+      "name": "A breathtaking mountainview #nature #mountainscape"
+    },
+    {
+      "role": "link",
+      "name": "#mountainscape #nature #mountainlife"
+    },
+    {
+      "role": "link",
+      "name": "Can never get tired of watching the sunset #beautifulsunsetview"
+    },
+    {
+      "role": "link",
+      "name": "Instagram Feed"
+    },
+    {
+      "role": "link",
+      "name": "Instagram Feed"
+    },
+    {
+      "role": "link",
+      "name": "Instagram Feed"
+    },
+    {
+      "role": "link",
+      "name": "Majestic"
+    },
+    {
+      "role": "link",
+      "name": "Peaceful"
+    },
+    {
+      "role": "heading",
+      "name": "Instagram Card Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Change your caption, meta & header to gain you a boost in the local search engines. Choose any stylish typography or background image you want"
+    },
+    {
+      "role": "link",
+      "name": "eademo2020"
+    },
+    {
+      "role": "link",
+      "name": "EADEMO2020"
+    },
+    {
+      "role": "link",
+      "name": "Breathtaking #nature Breathtaking #nature"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "eademo2020"
+    },
+    {
+      "role": "link",
+      "name": "EADEMO2020"
+    },
+    {
+      "role": "link",
+      "name": "Where the earth rises to meet the sky Where the earth rises to meet the sky"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "eademo2020"
+    },
+    {
+      "role": "link",
+      "name": "EADEMO2020"
+    },
+    {
+      "role": "link",
+      "name": "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me. Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Instagram With Feed Styling",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style your feed with proper margin & hover border style to give your customers an outstanding look as well as increase content readability"
+    },
+    {
+      "role": "link",
+      "name": "Breathtaking #nature"
+    },
+    {
+      "role": "link",
+      "name": "Where the earth rises to meet the sky"
+    },
+    {
+      "role": "link",
+      "name": "Cause I am a sunflower, a little funny. If I was a rose, maybe you'd pick me."
+    },
+    {
+      "role": "link",
+      "name": "Little beauty"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

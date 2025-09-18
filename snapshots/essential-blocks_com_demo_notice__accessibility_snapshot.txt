@@ -1,0 +1,497 @@
+{
+  "role": "WebArea",
+  "name": "Notice | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Notice 1"
+    },
+    {
+      "role": "heading",
+      "name": "Notice",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display all exciting Notices with Essential Blocks for Gutenberg. Let your visitors know about announcements, offers, special deals, discounts, etc, and make your site look more interesting with the Gutenberg notice bar."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Notice",
+      "description": "Notice 2"
+    },
+    {
+      "role": "image",
+      "name": "Notice",
+      "description": "Notice 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Notice 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Notice 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Notice 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Notice 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Notice By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create A Notice In Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Configure Notice With Default Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase any notice with ‘Default’ layout from the general settings of Essential Blocks Notice by customizing text and color with full freedom"
+    },
+    {
+      "role": "text",
+      "name": "Save 20%"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Free shipping on all orders"
+    },
+    {
+      "role": "text",
+      "name": "Save Up To 50%"
+    },
+    {
+      "role": "text",
+      "name": "Free shipping on all orders"
+    },
+    {
+      "role": "text",
+      "name": "Save Up TO 70%"
+    },
+    {
+      "role": "text",
+      "name": "Free shipping on all orders"
+    },
+    {
+      "role": "heading",
+      "name": "Design Announcement With Success Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Share your success with visitors by showcasing an eye-catchy announcement by styling it and let your customers know about your achievements"
+    },
+    {
+      "role": "text",
+      "name": "Congratulations! "
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "You Have Got A New Coupon"
+    },
+    {
+      "role": "text",
+      "name": "Hurray!"
+    },
+    {
+      "role": "text",
+      "name": "You Have Been Promoted To Platinum User!"
+    },
+    {
+      "role": "text",
+      "name": "Congratulations"
+    },
+    {
+      "role": "text",
+      "name": "You Have Successfully Purchased. Thank You"
+    },
+    {
+      "role": "heading",
+      "name": "Display Notice Using Warning Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick ‘Warning’ Layout for displaying any deading of discounts and special deals so that your visitors don’t miss the offers"
+    },
+    {
+      "role": "text",
+      "name": "Hurry Up!"
+    },
+    {
+      "role": "text",
+      "name": "Last Day Of Flat 50% Discount!"
+    },
+    {
+      "role": "text",
+      "name": "Warning!"
+    },
+    {
+      "role": "text",
+      "name": "Stormy Weather Today"
+    },
+    {
+      "role": "text",
+      "name": "URGENT !"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Our Outlet Is Close Till Next Notice!"
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Alarming Notice With Danger Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Notify any red alert with the ‘Danger’ layout of Essential Blocks Notice and protect your visitors from anything harmful"
+    },
+    {
+      "role": "text",
+      "name": "ATTENTION PLEASE !"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Our Online Payment Is Currently Closed"
+    },
+    {
+      "role": "text",
+      "name": "DANGEROUS CURRENT"
+    },
+    {
+      "role": "text",
+      "name": " Don’t Swim 4-7 PM"
+    },
+    {
+      "role": "text",
+      "name": "DANGER ALERT"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Strong Stream Time. Stay Safe"
+    },
+    {
+      "role": "text",
+      "name": "ATTENTION!"
+    },
+    {
+      "role": "text",
+      "name": "We Don’t Have Agent! So, Pay Wisely!"
+    },
+    {
+      "role": "heading",
+      "name": "Declare Important News With Info Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase important news with ‘Info’ layout and customize it with different shapes, also check out the crossable options for notices"
+    },
+    {
+      "role": "text",
+      "name": "Get New Blogs Everyday!"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Keep Visiting Us!"
+    },
+    {
+      "role": "text",
+      "name": "New Arrivals Coming Soon!"
+    },
+    {
+      "role": "text",
+      "name": "Keep Eyes On Our Website"
+    },
+    {
+      "role": "text",
+      "name": "We Are Close Today!"
+    },
+    {
+      "role": "text",
+      "name": "Hope To See You Tomorrow!"
+    },
+    {
+      "role": "text",
+      "name": "We Are Open Till 10 PM!"
+    },
+    {
+      "role": "text",
+      "name": "×"
+    },
+    {
+      "role": "text",
+      "name": "Visit Us Soon!"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

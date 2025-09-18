@@ -1,0 +1,725 @@
+{
+  "role": "WebArea",
+  "name": "Flipbox | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Flipbox 1"
+    },
+    {
+      "role": "heading",
+      "name": "Flipbox",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase an interactive Flipbox with Essential Blocks for Gutenberg and bring life to monotonous content. Make your site look outstanding and more interesting with an animated box that flips over when you hover over it."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "link",
+      "name": "Learn More "
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 2"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Flipbox 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Flipbox 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Flipbox 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Flipbox 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Flipbox By Following This Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Interactive Flipbox In Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Configure Flipbox With Fade Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase an interactive Flipbox with ‘Fade’ style, add images, content on front & backside, insert link & style in advance"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 8"
+    },
+    {
+      "role": "heading",
+      "name": "Fade Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Customize the Flipbox style from style tab and make it more attractive"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 9"
+    },
+    {
+      "role": "heading",
+      "name": "Fade Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Modify the front icon style from style tab and make the box outstanding"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 10"
+    },
+    {
+      "role": "heading",
+      "name": "Fade Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Add the Flipbox Border from style tab and make the box more stunning"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 11"
+    },
+    {
+      "role": "heading",
+      "name": "Fade Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Revamp the Flipbox typography from style tab and make it interesting"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Design In Left Or Right Flip Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Try out ‘Flip Left’ or ‘Flip Right’ style from ‘Flipbox Type’ dropdown options in the setting tab & make a different outlook"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 12"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Left",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 13"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Left Style",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Flip Right",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Quickly Make An Interactive Flipbox in one click with Essential Blocks for Gutenberg. Add your preferred content, customize the block and showcase an attractive Flipbox for your site visitors."
+    },
+    {
+      "role": "heading",
+      "name": "Flip Right Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Quickly Make An Interactive Flipbox in one click with Essential Blocks for Gutenberg. Add your preferred content, customize the block and showcase an attractive Flipbox for your site visitors."
+    },
+    {
+      "role": "heading",
+      "name": "Use Flip Up Or Flip Bottom Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose ‘Flip Up’ or ‘Flip Bottom’ as your Flipbox type, customize it according to your choice & style as you want"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 14"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Up Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Customize link setting from general tab to make it interactive"
+    },
+    {
+      "role": "link",
+      "name": "Read More"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 15"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Bottom Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Revamp the Flipbox height and width to make it more attractive"
+    },
+    {
+      "role": "link",
+      "name": "Read More"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 16"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Up Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Modify the front icon size to give the Flipbox a stunning look"
+    },
+    {
+      "role": "link",
+      "name": "Read More"
+    },
+    {
+      "role": "heading",
+      "name": "Display Zoom In & Zoom Out Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick ‘Zoom In’ or ‘Zoom Out’ as your desired Flipbox type, choose alignment, box height, width, and many more"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 12"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Customize Flipbox setting from general tab to make it attractive"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 12"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In Style",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 19"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom Out Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Modify Flipbox content from general tab to make it interesting"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 19"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom Out Style",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 21"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In Style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Add colors to the Flipbox to and give it an outstanding outlook"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 21"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In Style",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Check Out All Flip Styles In A Glance",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase an interactive Flipbox with different styles, images, and content on frontside & backside to make your website more attractive"
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 23"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Left",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 23"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Left",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 25"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Right",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 25"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Right",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 27"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Up",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 27"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Up",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 29"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Bottom",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 29"
+    },
+    {
+      "role": "heading",
+      "name": "Flip Bottom",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 31"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 31"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom In",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 33"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom Out",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 33"
+    },
+    {
+      "role": "heading",
+      "name": "Zoom Out",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 35"
+    },
+    {
+      "role": "heading",
+      "name": "Fade In",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Flipbox",
+      "description": "Flipbox 35"
+    },
+    {
+      "role": "heading",
+      "name": "Fade In",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

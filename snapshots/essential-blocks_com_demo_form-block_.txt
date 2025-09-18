@@ -1,0 +1,340 @@
+{
+  "role": "WebArea",
+  "name": "Form Block | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Form Block",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Streamline Data Gathering & Formulate Insights With The Form Block",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Transform data collection into an art form with Essential Blocks’ Form Block! Encourage effortless submissions and subscriptions, while wielding limitless customization options to master every pixel. Gather data with style & ease!"
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 1"
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 2"
+    },
+    {
+      "role": "heading",
+      "name": "Contact Form",
+      "level": 6
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 3"
+    },
+    {
+      "role": "heading",
+      "name": "RSVP Form",
+      "level": 6
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 4"
+    },
+    {
+      "role": "heading",
+      "name": "Subscription Form Form Block",
+      "level": 6
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 6"
+    },
+    {
+      "role": "heading",
+      "name": "Multi-Step Form Form Block",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Exploring The Rich Diversity Of More Additional Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Dive into a world of endless possibilities with our expanding variety of 9 inner blocks to make your Gutenberg experience more interactive!"
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 13"
+    },
+    {
+      "role": "heading",
+      "name": "Unlock Valuable Insights From Responses",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Connect directly with your audience by accessing valuable Form Responses effortlessly from your WordPress dashboard, in real time!"
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 14"
+    },
+    {
+      "role": "heading",
+      "name": "Optimize Security & Engagement With Google ReCAPTCHA & MailChimp",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unlock Premium Power with Form Block, Google reCAPTCHA & Mailchimp for enhanced security and engagement"
+    },
+    {
+      "role": "image",
+      "name": "Form Block",
+      "description": "Form Block 15"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

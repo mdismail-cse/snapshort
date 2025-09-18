@@ -1,0 +1,324 @@
+{
+  "role": "WebArea",
+  "name": "Data Table | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 1"
+    },
+    {
+      "role": "heading",
+      "name": "Data Table",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With the EB Data Table block, you can present a large set of important data elegantly and in a user-friendly manner on your website. This super useful block offers seamless customization options to create visually stunning tables."
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 2"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks data table",
+      "description": "Data Table 3"
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Data Table",
+      "description": "Data Table 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Tutorial To Learn How To Use EB Data Table",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Show Relevant Data With Data Table In Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Data Table With A Highlighted Even Column",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Effortlessly showcase important data in a beautifully structured and customizable format with the EB Data Table and highlight all even column."
+    },
+    {
+      "role": "heading",
+      "name": "Data Table With Highlighted Even Row & Pagination",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add pagination and highlight even rows to allow visitors easily navigate through the table and transform raw data into visually appealing insights."
+    },
+    {
+      "role": "heading",
+      "name": "Effective Search Bar With Data Table",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Deliver an immersive data browsing experience with an advanced search bar and present data in a way that improves user experience."
+    },
+    {
+      "role": "heading",
+      "name": "Customized Data Table",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Take control of your data presentation and customize the design with the feature-rich block to add details as needed stunningly."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

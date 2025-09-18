@@ -1,0 +1,333 @@
+{
+  "role": "WebArea",
+  "name": "Google Maps | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Google Maps 1"
+    },
+    {
+      "role": "heading",
+      "name": "Google Maps",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display preferred location using Google Maps, pin any location with marker, and so on to provide easy navigation for site customers. Enhance the credibility of your business and boost engagement of your website by showcasing the location."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Google Maps",
+      "description": "Google Maps 2"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks Google Maps",
+      "description": "Google Maps 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Google Maps 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Google Maps 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Google Maps 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Google Maps 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Google Maps By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Google Maps In WordPress With Essential Blocks?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Google Maps Road Map Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase Google Maps with versatile layout types and let your visitors find you at the exact location easily and effortlessly"
+    },
+    {
+      "role": "heading",
+      "name": "Satellite View Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display Google Maps on your website pointing to the Latitude & Longitude and let your visitors reach you effortlessly in your location"
+    },
+    {
+      "role": "heading",
+      "name": "Google Maps Hybrid Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Adjust the map zoom level and map height to perfectly fit the Google Maps on your company website while showing it to your visitors"
+    },
+    {
+      "role": "heading",
+      "name": "Google Maps Terrain Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style Google Maps according to your choice to match the color and style theme with your website so that it looks good to the visitors"
+    },
+    {
+      "role": "heading",
+      "name": "Marker To Pin Location",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Mark the location where you want to pin it on Google Maps with exclusive styling features. Add as many markers as you want to provide your desired location to visitors"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

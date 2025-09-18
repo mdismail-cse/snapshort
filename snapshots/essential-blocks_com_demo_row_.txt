@@ -1,0 +1,787 @@
+{
+  "role": "WebArea",
+  "name": "Row | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Row 1"
+    },
+    {
+      "role": "heading",
+      "name": "Row",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make responsive rows in Gutenberg using the Row block from Essential Blocks. With this amazing block, you can easily build advanced sections, multiple columns & more on your WordPress website and customize just the way you want."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 2"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Row 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Row 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Row 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Row 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Row",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "Design Websites In Gutenberg With Essential Blocks Row"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Row With Single Column",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a single column with the Row block from Essential Blocks and adjust the width to build a customized section on your website"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 8"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 9"
+    },
+    {
+      "role": "heading",
+      "name": "Row With Double Columns",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Build sections with multiple columns on your website and make your page building experience with Gutenberg editor even better"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 10"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 10"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 12"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 13"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 14"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 15"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 16"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 17"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 15"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 14"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 20"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 21"
+    },
+    {
+      "role": "heading",
+      "name": "Row With Triple Columns",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design your web page with 3 columns and adjust the columns gap just the way you want to create complex layouts at ease"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 22"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 22"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 22"
+    },
+    {
+      "role": "heading",
+      "name": "Marketing Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Enhance your marketing skills with our marketing courses and shine on your career immediately. We have designed our course plan with everything that you need to become successful."
+    },
+    {
+      "role": "link",
+      "name": " Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Language Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Start learning multiple languages from our dedicated instructors to enhance your communication skills to easily connect with people from all around the world without having any difficulties."
+    },
+    {
+      "role": "link",
+      "name": " Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "UI UX Design",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Supercharge your design skills and become a successful UI UX Designer by taking our premium course. You will get all the resources that you need to kickstart your career from the scratch."
+    },
+    {
+      "role": "link",
+      "name": " Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 26"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "heading",
+      "name": "Original Classic Sunglass",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Fashionable Sunglass For Man",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Get 20% Off Now",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Round Shape Sunglass",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 26"
+    },
+    {
+      "role": "heading",
+      "name": "Most Stylish Accessories",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Best Essential Gadgets",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Wireless Headphone",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Get 25% Off Now",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 26"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 25"
+    },
+    {
+      "role": "heading",
+      "name": "Aesthetic T-Shirts For Man",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Get 15% Off Now",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Women Beautiful Tops",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "heading",
+      "name": "Simple Ash Color T-Shirt",
+      "level": 3
+    },
+    {
+      "role": "link",
+      "name": " Shop Now"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 34"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 35"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 34"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 37"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 38"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 39"
+    },
+    {
+      "role": "heading",
+      "name": "Row With Quadruple Columns",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add a complex four columns layout on your website using Row block and stunningly present your content without any code"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 40"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 40"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 40"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 40"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 44"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 45"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 46"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 47"
+    },
+    {
+      "role": "heading",
+      "name": "Row With Quintuple Columns",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design your web pages according to your imagination by adding 5 columns on a single row with Row block from Essential Block"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 48"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 48"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 48"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 48"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 48"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 53"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 54"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 55"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 56"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 57"
+    },
+    {
+      "role": "heading",
+      "name": "Row With Sextuple Columns",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unlock your web building capabilities using the Row block and build super complex layout on your web page without a single line of code"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 58"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 64"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 65"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 66"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 67"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 68"
+    },
+    {
+      "role": "image",
+      "name": "Row",
+      "description": "Row 69"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

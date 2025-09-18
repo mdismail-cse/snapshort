@@ -1,0 +1,586 @@
+{
+  "role": "WebArea",
+  "name": "Dual Button | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 1"
+    },
+    {
+      "role": "heading",
+      "name": "Dual Button",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create an attractive call to action through the Essential Blocks Dual Button in Gutenberg and make your site look outstanding. Add two separate links to each interactive button and redirect your visitors to any specific destination."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Dual Button",
+      "description": "Dual Button 2"
+    },
+    {
+      "role": "image",
+      "name": "Dual Button",
+      "description": "Dual Button 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Dual Button By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Dual Button In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Stunning Dual Button Using Preset 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Use Essential Blocks Dual Button Presets to create two separate call-to-action on your site so that visitors can easily get their destination with one click."
+    },
+    {
+      "role": "link",
+      "name": "Example 1"
+    },
+    {
+      "role": "text",
+      "name": "Or"
+    },
+    {
+      "role": "link",
+      "name": "Example 2"
+    },
+    {
+      "role": "image",
+      "name": "Dual Button",
+      "description": "Dual Button 8"
+    },
+    {
+      "role": "heading",
+      "name": "Configure Dual Button With Preset 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Try out Essential Blocks Dual Button and customize it by exploring all the exclusive features & make your website more engaging"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "link",
+      "name": "Explore More"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 9"
+    },
+    {
+      "role": "heading",
+      "name": "Use Ready Presets",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks contains ready presets to create interactive content for site visitors."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 10"
+    },
+    {
+      "role": "heading",
+      "name": "Configure Buttons",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks allows to configure the buttons to create a unique website easily."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 11"
+    },
+    {
+      "role": "heading",
+      "name": "Add Connector",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks has options for adding connectors to connect both of the buttons."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 12"
+    },
+    {
+      "role": "heading",
+      "name": "Style Text",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks allows customization of typography to create interesting texts with style."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 13"
+    },
+    {
+      "role": "heading",
+      "name": "Customize Color",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks allows to add solid or gradient color to make the content more attractive."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 14"
+    },
+    {
+      "role": "heading",
+      "name": "Attach Button Border",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "The Dual Button of Essential blocks contains different styles of borders to make the buttons more beautiful."
+    },
+    {
+      "role": "heading",
+      "name": "Get Stylish Dual Button Using Preset 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style your website with Dual Button, make it attractive by customizing button alignment, width, etc so that visitors’ can get the CTA faster"
+    },
+    {
+      "role": "link",
+      "name": "Shop Now"
+    },
+    {
+      "role": "link",
+      "name": "Quick View"
+    },
+    {
+      "role": "image",
+      "name": "Dual Button",
+      "description": "Dual Button 15"
+    },
+    {
+      "role": "heading",
+      "name": "Explore Dual Button Preset 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Check out the Essential Blocks Dual Button, customize background & typography to create your site more engaging so that visitors can easily be attracted to click on the buttons"
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now"
+    },
+    {
+      "role": "link",
+      "name": "Want To Explore More?"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 16"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your communication process."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 17"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your communication process."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Dual Button 18"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your communication process."
+    },
+    {
+      "role": "heading",
+      "name": "Customize Button With Unlimited Flexibility",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Configure the button border radius and padding from the style tab to create buttons with unique shapes that can bring a different outlook of your website"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "link",
+      "name": "Learn More"
+    },
+    {
+      "role": "heading",
+      "name": "Change Color Of Buttons For Uniqueness",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick solid colors from the wide color palette or try our gradient color to give a vibrant look to the buttons and make your site more gorgeous"
+    },
+    {
+      "role": "link",
+      "name": "Watch Now"
+    },
+    {
+      "role": "link",
+      "name": "Subscribe"
+    },
+    {
+      "role": "link",
+      "name": "Watch Now"
+    },
+    {
+      "role": "link",
+      "name": "Subscribe"
+    },
+    {
+      "role": "link",
+      "name": "Watch Now"
+    },
+    {
+      "role": "link",
+      "name": "Subscribe"
+    },
+    {
+      "role": "link",
+      "name": "Watch Now"
+    },
+    {
+      "role": "link",
+      "name": "Subscribe"
+    },
+    {
+      "role": "link",
+      "name": "Apply Now"
+    },
+    {
+      "role": "link",
+      "name": "Learn More"
+    },
+    {
+      "role": "link",
+      "name": "Apply Now"
+    },
+    {
+      "role": "link",
+      "name": "Learn More"
+    },
+    {
+      "role": "link",
+      "name": "Apply Now"
+    },
+    {
+      "role": "link",
+      "name": "Learn More"
+    },
+    {
+      "role": "link",
+      "name": "Apply Now"
+    },
+    {
+      "role": "link",
+      "name": "Learn More"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

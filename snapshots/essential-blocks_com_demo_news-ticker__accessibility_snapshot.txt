@@ -1,0 +1,396 @@
+{
+  "role": "WebArea",
+  "name": "News Ticker | Essential Gutenberg Block for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "News Ticker 1"
+    },
+    {
+      "role": "heading",
+      "name": "News Ticker",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your trending topics in Gutenberg using Essential Blocks News Ticker. With easy customization, you can feature your breaking news, headlines, or any important post anywhere on your website."
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "News Ticker",
+      "description": "News Ticker 2"
+    },
+    {
+      "role": "image",
+      "name": "News Ticker",
+      "description": "News Ticker 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "News Ticker 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "News Ticker 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "News Ticker 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "News Ticker 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Use News Ticker",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add News Ticker Block With Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "News Ticker Preset 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display trending topics on your website with color customization and ultimate styling and show your page or post titles to attract your visitors"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Breaking News"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "News Ticker Preset 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a highly interactive News Ticker on your website adding soothing animation to keep your visitors engaged on your website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Trending Today"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "News Ticker Preset 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Highlight any urgent notice or news on your website sorting from your preferred categories, tags, or authors, and take full control over the block"
+    },
+    {
+      "role": "text",
+      "name": "Tech News"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "News Ticker Custom Preset",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Customize the EB News Ticker preset according to your imagination and create your own custom preset to reuse anytime"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Trending"
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

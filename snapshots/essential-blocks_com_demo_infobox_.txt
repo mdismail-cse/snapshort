@@ -1,0 +1,691 @@
+{
+  "role": "WebArea",
+  "name": "Infobox | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 1"
+    },
+    {
+      "role": "heading",
+      "name": "Infobox",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Highlight informative content on your WordPress website with impressive Essential Blocks Infobox. You can display any information with stunning icons, images, styles, etc with this amazing block"
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Infobox",
+      "description": "Infobox 2"
+    },
+    {
+      "role": "image",
+      "name": "Infobox",
+      "description": "Infobox 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Infobox By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "Highlight Any Content With Attractive Info Boxes"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Create Infobox With Preset 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get stunning Info Boxes In Gutenberg with versatile presets styling and make your website more engaging for the viewers"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 8"
+    },
+    {
+      "role": "heading",
+      "name": "Marketing Course",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 9"
+    },
+    {
+      "role": "heading",
+      "name": "Research Course",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 10"
+    },
+    {
+      "role": "heading",
+      "name": "Language Course",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 11"
+    },
+    {
+      "role": "heading",
+      "name": "Graphic Design",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners and those who are interested in exploring the field. Everyone is welcome to learn something new."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "heading",
+      "name": "Stunning Infobox With Overlay",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Customize Infobox content appearance with stunning overlay images, basic color or gradient. Also, you can customize text & icon alignment, add animation, hover effect, etc"
+    },
+    {
+      "role": "heading",
+      "name": "Pop Music",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere."
+    },
+    {
+      "role": "link",
+      "name": " ➔ Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Heavy Metal",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere."
+    },
+    {
+      "role": "link",
+      "name": " ➔ Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Folk Music",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere."
+    },
+    {
+      "role": "link",
+      "name": " ➔ Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Classical Music",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "For Pop lovers, there is an amazing collection of soundtracks you will love to listen to anytime, anywhere."
+    },
+    {
+      "role": "link",
+      "name": " ➔ Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Design Infobox With Preset 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add beautiful images, icons to style this super useful Info Box with full creativity and engage the viewers more in your website instantly."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 12"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 13"
+    },
+    {
+      "role": "heading",
+      "name": "Virtual Reality",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 14"
+    },
+    {
+      "role": "heading",
+      "name": "Machine Learning",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 15"
+    },
+    {
+      "role": "heading",
+      "name": "Internet of Things",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "heading",
+      "name": "Customize Infobox With Preset 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You will have multiple customization options to make your Infobox more attractive, useful and impressive for your audiences."
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 16"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 17"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 18"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 19"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 20"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 5",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 21"
+    },
+    {
+      "role": "heading",
+      "name": "Features Style 6",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Defending yourself against cyber attacks is best done with advanced, self-learning artificial intelligence."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "heading",
+      "name": "Make Impressive Infobox With Preset 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You can design and style the Infobox with different colors, shape and make it more appealing for your audiences"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 22"
+    },
+    {
+      "role": "heading",
+      "name": "100% Organic",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 23"
+    },
+    {
+      "role": "heading",
+      "name": "Natural Ingredient",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Infobox 24"
+    },
+    {
+      "role": "heading",
+      "name": "Full Recyclable",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Contains a high concentration of botanical, marine, and biological extracts. Has no artificial fragrances. Contains high-quality active ingredients."
+    },
+    {
+      "role": "link",
+      "name": " Learn More ❯"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

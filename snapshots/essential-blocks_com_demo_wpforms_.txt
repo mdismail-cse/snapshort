@@ -1,0 +1,764 @@
+{
+  "role": "WebArea",
+  "name": "WPForms | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "WPForm 1"
+    },
+    {
+      "role": "heading",
+      "name": "WPForms",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Seamlessly create a contact form, subscription form, and more in Gutenberg with WPForm block. Easily create forms with labels, placeholders, background colors, etc."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "WPForm",
+      "description": "WPForm 2"
+    },
+    {
+      "role": "image",
+      "name": "WPForm",
+      "description": "WPForm 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "WPForm 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "WPForm 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "WPForm 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "WPForm 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Create WPForms",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Forms In Gutenberg With WPForms"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "WPForm Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Easily customize forms in your website with labels & personalized placeholders to make it understandable for newcomers"
+    },
+    {
+      "role": "text",
+      "name": "Name "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Name * First Name * First Name * First Name * First",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "First"
+    },
+    {
+      "role": "textbox",
+      "name": "Last Last Last Last",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Last"
+    },
+    {
+      "role": "text",
+      "name": "Email "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Email * Email * Email * Email *",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Please Select Your Product "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "combobox",
+      "name": "Please Select Your Product * Please Select Your Product * Please Select Your Product * Please Select Your Product *",
+      "haspopup": "menu",
+      "invalid": "true",
+      "children": [
+        {
+          "role": "option",
+          "name": "First Choice"
+        },
+        {
+          "role": "option",
+          "name": "Second Choice"
+        },
+        {
+          "role": "option",
+          "name": "Third Choice"
+        }
+      ],
+      "value": "– Please Select –"
+    },
+    {
+      "role": "text",
+      "name": "What Would You Like To Add?"
+    },
+    {
+      "role": "textbox",
+      "name": "What Would You Like To Add? What Would You Like To Add? What Would You Like To Add? What Would You Like To Add?"
+    },
+    {
+      "role": "text",
+      "name": "Please Explain How You’d Like "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Please Explain How You’d Like * Please Explain How You’d Like * Please Explain How You’d Like * Please Explain How You’d Like *",
+      "multiline": true,
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Submit Now"
+    },
+    {
+      "role": "heading",
+      "name": "Engaging Subscription Form",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Effortlessly create subscription forms & add labels, placeholder, and box colors in a beautiful manner to give your form a soothing look"
+    },
+    {
+      "role": "image",
+      "name": "WPForm",
+      "description": "WPForm 9"
+    },
+    {
+      "role": "heading",
+      "name": "Get The Latest Updates",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Subscribe now & join 3 Million+ users to keep updated yourself on the latest WordPress"
+    },
+    {
+      "role": "textbox",
+      "name": "",
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "WPForm Style 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add labels, placeholder, and box colors in a beautiful manner to give your contact form a stunning and comforting look to your customers"
+    },
+    {
+      "role": "text",
+      "name": "Name "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "First Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "First"
+    },
+    {
+      "role": "textbox",
+      "name": "Last Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Last"
+    },
+    {
+      "role": "text",
+      "name": "Email "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Email",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Please Select Your Product "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "combobox",
+      "name": "",
+      "haspopup": "menu",
+      "invalid": "true",
+      "children": [
+        {
+          "role": "option",
+          "name": "First Choice"
+        },
+        {
+          "role": "option",
+          "name": "Second Choice"
+        },
+        {
+          "role": "option",
+          "name": "Third Choice"
+        }
+      ],
+      "value": "– Please Select –"
+    },
+    {
+      "role": "text",
+      "name": "What Would You Like To Add?"
+    },
+    {
+      "role": "textbox",
+      "name": "Add Something"
+    },
+    {
+      "role": "text",
+      "name": "Please Explain How You’d Like "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Subject About your Inquery",
+      "multiline": true,
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Submit Now"
+    },
+    {
+      "role": "heading",
+      "name": "WPForm Style 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Maintain proper margin padding, and apply accurate border-radius on your form to properly place it on your WordPress website"
+    },
+    {
+      "role": "text",
+      "name": "Name "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "First Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "First"
+    },
+    {
+      "role": "textbox",
+      "name": "Last Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Last"
+    },
+    {
+      "role": "text",
+      "name": "Email "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Email",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Please Select Your Product "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "combobox",
+      "name": "",
+      "haspopup": "menu",
+      "invalid": "true",
+      "children": [
+        {
+          "role": "option",
+          "name": "First Choice"
+        },
+        {
+          "role": "option",
+          "name": "Second Choice"
+        },
+        {
+          "role": "option",
+          "name": "Third Choice"
+        }
+      ],
+      "value": "– Please Select –"
+    },
+    {
+      "role": "text",
+      "name": "What Would You Like To Add?"
+    },
+    {
+      "role": "textbox",
+      "name": "Add Something"
+    },
+    {
+      "role": "text",
+      "name": "Please Explain How You’d Like "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Subject About your Inquery",
+      "multiline": true,
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Submit Now"
+    },
+    {
+      "role": "heading",
+      "name": "Beautiful Subscription Forms",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create appealing subscription forms with input & text area color. Make your form more vibrant for your customer and ensure a superb user experience"
+    },
+    {
+      "role": "image",
+      "name": "WPForm",
+      "description": "WPForm 13"
+    },
+    {
+      "role": "heading",
+      "name": "Style Subscription Forms",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Customize the typography or color in the subscription forms seamlessly in Gutenberg"
+    },
+    {
+      "role": "textbox",
+      "name": "Email Address",
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "WPForm Style 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Give your Submit or Contact button a fantastic look by applying versatile color options as well as choosing interactive Border Styles"
+    },
+    {
+      "role": "text",
+      "name": "Name "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "First Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "First"
+    },
+    {
+      "role": "textbox",
+      "name": "Last Name",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Last"
+    },
+    {
+      "role": "text",
+      "name": "Email "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Email",
+      "required": true
+    },
+    {
+      "role": "text",
+      "name": "Please Select Your Product "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "combobox",
+      "name": "",
+      "haspopup": "menu",
+      "invalid": "true",
+      "children": [
+        {
+          "role": "option",
+          "name": "First Choice"
+        },
+        {
+          "role": "option",
+          "name": "Second Choice"
+        },
+        {
+          "role": "option",
+          "name": "Third Choice"
+        }
+      ],
+      "value": "– Please Select –"
+    },
+    {
+      "role": "text",
+      "name": "What Would You Like To Add?"
+    },
+    {
+      "role": "textbox",
+      "name": "Add Something"
+    },
+    {
+      "role": "text",
+      "name": "Please Explain How You’d Like "
+    },
+    {
+      "role": "text",
+      "name": "*"
+    },
+    {
+      "role": "textbox",
+      "name": "Subject About your Inquery",
+      "multiline": true,
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Submit Now"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

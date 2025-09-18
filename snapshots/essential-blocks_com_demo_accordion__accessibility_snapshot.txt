@@ -1,0 +1,766 @@
+{
+  "role": "WebArea",
+  "name": "Accordion | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Accordion",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Display Info In Collapsible Rows With Advanced Accordion",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Best-suited for creating an interactive FAQ section in WordPress. You can showcase product data and more information with versatile layouts and limitless customizations. Images, icons, nested items, and more can be displayed smartly in Essential Blocks Accordion."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 1"
+    },
+    {
+      "role": "heading",
+      "name": "Create Accordion With Innovative, Next-Gen Designs",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Step into modern design with horizontal Accordions; organize content beautifully with"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "horizontal layouts and give out-of-the-box looks."
+    },
+    {
+      "role": "text",
+      "name": "01"
+    },
+    {
+      "role": "heading",
+      "name": "Classical Piano",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Bring timeless melodies to life with expert piano compositions, arrangements, and performances."
+    },
+    {
+      "role": "link",
+      "name": "VIEW DETAILS "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 2"
+    },
+    {
+      "role": "button",
+      "name": "02 Acoustic Guitar"
+    },
+    {
+      "role": "text",
+      "name": "Craft soulful, harmonious tunes with our expert acoustic guitar services, from intricate fingerpicking to powerful strumming."
+    },
+    {
+      "role": "link",
+      "name": "VIEW DETAILS "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 3"
+    },
+    {
+      "role": "button",
+      "name": "03 Metallic Flute"
+    },
+    {
+      "role": "text",
+      "name": "Explore the rich, expressive tones of the metallic flute. We specialize in creating unique soundscapes."
+    },
+    {
+      "role": "link",
+      "name": "VIEW DETAILS "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 4"
+    },
+    {
+      "role": "button",
+      "name": "04 Orchestra Cello"
+    },
+    {
+      "role": "text",
+      "name": "Add depth and emotion to your music with professional cello arrangements and performances."
+    },
+    {
+      "role": "link",
+      "name": "VIEW DETAILS "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 5"
+    },
+    {
+      "role": "button",
+      "name": "05 Jazz Saxophone"
+    },
+    {
+      "role": "text",
+      "name": "Add depth and emotion to your music with professional cello arrangements and performances."
+    },
+    {
+      "role": "link",
+      "name": "VIEW DETAILS "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 6"
+    },
+    {
+      "role": "heading",
+      "name": "Experience Content Visually With Storyboard Accordion",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display images and texts altogether in every row of the Accordion block. Perfect for creating"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "product highlights with style & advanced possibilities."
+    },
+    {
+      "role": "button",
+      "name": " Why smartphone X is special?"
+    },
+    {
+      "role": "text",
+      "name": "The new smartphone comes with a 6.8-inch AMOLED display, a 108MP triple-lens camera system, 5G connectivity, and advanced AI-powered features for seamless multitasking."
+    },
+    {
+      "role": "button",
+      "name": " Is it compatible with wireless charging?"
+    },
+    {
+      "role": "button",
+      "name": " Is the new smartphone water-resistant?"
+    },
+    {
+      "role": "button",
+      "name": " What operating system does it run on?"
+    },
+    {
+      "role": "image",
+      "name": "Accordion 11"
+    },
+    {
+      "role": "heading",
+      "name": "Nested Accordions To Condense And Organize Long Content",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display accordions with nested content and nested tabs to make important information visually appealing and facilitate simple navigation."
+    },
+    {
+      "role": "button",
+      "name": " Advanced Candidate Filtering"
+    },
+    {
+      "role": "button",
+      "name": " Customizable Career Pages"
+    },
+    {
+      "role": "button",
+      "name": " Team Collaboration Tools"
+    },
+    {
+      "role": "button",
+      "name": " Analytics & Insights"
+    },
+    {
+      "role": "button",
+      "name": " Interview Scheduling"
+    },
+    {
+      "role": "text",
+      "name": "Streamline your interview process with our integrated scheduling tools. Organize interviews, send invites, and manage calendars effortlessly."
+    },
+    {
+      "role": "button",
+      "name": " Automated Scheduling"
+    },
+    {
+      "role": "button",
+      "name": " Calendar Integration"
+    },
+    {
+      "role": "text",
+      "name": "Sync directly with popular calendar apps like Google Calendar and Outlook for smooth planning."
+    },
+    {
+      "role": "button",
+      "name": " Automated Scheduling"
+    },
+    {
+      "role": "heading",
+      "name": "Represent Accordion Titles With Catchy Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Instantly grab the attention of visitors with meaningful icons that tell the story of each section. Get advanced icon library support with Essential Blocks Accordion & highlight key information."
+    },
+    {
+      "role": "button",
+      "name": "  Payment Methods"
+    },
+    {
+      "role": "text",
+      "name": "We accept a variety of secure payment options, including credit cards, PayPal, and digital wallets for your convenience."
+    },
+    {
+      "role": "button",
+      "name": "  International Shipping"
+    },
+    {
+      "role": "button",
+      "name": "  Order Management & Tracking"
+    },
+    {
+      "role": "button",
+      "name": "  Return & Refund Policy"
+    },
+    {
+      "role": "heading",
+      "name": "Tweak & Turn All Styling Preferences To Create Advanced Designed Accordions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "STYLE 1",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "STYLE 2",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "STYLE 3",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Create Beautifully Crafted FAQ Block To Draw Attention",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": " What is an accordion in web design?"
+    },
+    {
+      "role": "text",
+      "name": "An accordion is a UI element that allows content to expand or collapse when clicked. It helps organize large amounts of information in a compact and user-friendly way."
+    },
+    {
+      "role": "button",
+      "name": " How do I add content to an accordion?"
+    },
+    {
+      "role": "button",
+      "name": " Can I customize the appearance of an accordion?"
+    },
+    {
+      "role": "button",
+      "name": " Is it mobile-friendly to use accordions?"
+    },
+    {
+      "role": "button",
+      "name": " Can I add different types of content to each accordion section?"
+    },
+    {
+      "role": "text",
+      "name": "Project management involves planning, organizing, and managing resources to achieve specific goals within a set timeframe."
+    },
+    {
+      "role": "text",
+      "name": "The WordPress release cycle is a structured timeline for developing, testing, and launching new versions of WordPress. Each release introduces new features, enhancements, bug fixes, and security updates to improve performance and user experience."
+    },
+    {
+      "role": "heading",
+      "name": "Exclusive Accordion Block Features",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Explore versatile layouts that toggle content visibility, expanding or collapsing with a click or hover, along with FAQ schema integration and advanced customization."
+    },
+    {
+      "role": "heading",
+      "name": "FAQ Schema Integration",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Boost search engine visibility with structured FAQ schema, offering organized, quick answers that enhance user experience and accessibility."
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 13"
+    },
+    {
+      "role": "heading",
+      "name": "Nested Accordion",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Structure your content with multi-level nested options for enhanced clarity and user experience."
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 14"
+    },
+    {
+      "role": "heading",
+      "name": "Seamless Styling Options",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose from multiple layouts to expand content with a click, personalize color, padding margins, etc."
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 15"
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 16"
+    },
+    {
+      "role": "heading",
+      "name": "Include Any Gutenberg Block",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unlock advanced design possibilities by adding any Gutenberg block to your Accordion sections."
+    },
+    {
+      "role": "heading",
+      "name": "Learn How The Accordion Block Works In Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Still Need Help? Reach out to our dedicated support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
+    },
+    {
+      "role": "heading",
+      "name": "Elevate Your Web Design & Development In Gutenberg  With Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "No Worries! We Offer 100% No-Risk Money Back Guarantee Only If You’re Not Satisfied Enough.",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 17"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 1",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 2",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 3",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 4",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 5",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks- Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "This plugin, which I’ve been using for several years, brings incredible features to WordPress to enhance the look of a website, without any programming."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Furthermore, their support was very effective in fixing a bug."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Thank you again and congratulations."
+    },
+    {
+      "role": "image",
+      "name": "Accordion",
+      "description": "Accordion 18"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    }
+  ]
+}

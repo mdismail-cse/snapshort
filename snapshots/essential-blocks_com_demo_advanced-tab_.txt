@@ -1,0 +1,497 @@
+{
+  "role": "WebArea",
+  "name": "Advanced Tabs | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Tabs 1"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Tab",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Using the Essential Blocks Advanced Tabs, you can display key information interactively with nested tabs designed for Gutenberg users. This useful block reduces scroll time and presents information in one place."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Advanced Tabs",
+      "description": "Advanced Tabs 2"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Tabs",
+      "description": "Advanced Tabs 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Tabs 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Tabs 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Tabs 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Tabs 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Create Advanced Tabs",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Advanced Tabs In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Horizontal Advanced Tabs With Icon",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase necessary information with a horizontal view, add icons for each tab, images and so on to make it more lucrative & impressive for the viewers"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "ABOUT US",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "MISSION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "VISION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "GOALS",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Vertical Advanced Tabs With Icon",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Present all the key information showing them vertically. You can change colors, add icons, etc for each tab and style to make it more appealing and interactive"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "ABOUT US",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "MISSION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "VISION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "GOALS",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Stacked Icons In Advanced Tabs",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You can change the position of icons and design the appearance of the tabs with full customization options to highlight details stunningly."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "ABOUT US",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "MISSION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "VISION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "GOALS",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Tabs Without Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Spotlight on organizational achievements, goals & more using versatile styling options to make your website standout for the visitors effortlessly without any coding."
+    },
+    {
+      "role": "heading",
+      "name": "ABOUT US",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "MISSION",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "VISION",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "GOALS",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Enable Or Disable Fill Tiles’ Wrapper",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You can enable or disable fill tiles’ wrapper and try out different designs to showcase features, information, perks and benefits beautifully."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "ABOUT US",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "MISSION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "VISION",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "GOALS",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

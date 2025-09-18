@@ -1,0 +1,592 @@
+{
+  "role": "WebArea",
+  "name": "Table Of Content | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Table Of Contents 1"
+    },
+    {
+      "role": "heading",
+      "name": "Table Of Contents",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase blogs headings, titles & subtitles on the top of the article with Table Of Contents block. This block comes with exclusive styles to make blog posts easy to navigate & redirect readers to their desired sections at a glance."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Table Of Contents",
+      "description": "Table Of Contents 2"
+    },
+    {
+      "role": "image",
+      "name": "Table Of Contents",
+      "description": "Table Of Contents 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Table Of Contents 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Table Of Contents 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Table Of Contents 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Table Of Contents 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Table Of Contents By Following Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Use TOC In WordPress Posts"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Customize Table Of Contents With Versatile Styles",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase an attractive Table Of Contents to make blog posts more user-friendly on your site and grab the attention of your audience"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "button",
+      "name": "Table of Contents"
+    },
+    {
+      "role": "text",
+      "name": "Sticky Table Of Contents"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Customize With Title Separator"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Add Smooth Scroll & Underline"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Multiple Color Customization"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Fetch Every Heading"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Tag"
+    },
+    {
+      "role": "heading",
+      "name": "Table of Contents",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Exclude Or Include"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Headings"
+    },
+    {
+      "role": "heading",
+      "name": "Content Roadmap",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg: Essential Things You Need To Know"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?"
+    },
+    {
+      "role": "link",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?"
+    },
+    {
+      "role": "text",
+      "name": "Customize Table Of"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Content Title"
+    },
+    {
+      "role": "link",
+      "name": "macbook WANT MORE FEATURES? CONTACT US!"
+    },
+    {
+      "role": "heading",
+      "name": "SAMPLE COPY",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "How To Use the WordPress Block Editor Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "If you are familiar with WordPress, you would know that Gutenberg has replaced Classic Editor as the default WordPress block editor. If you’re new to Gutenberg and need help understanding how it works, you’ve come to the right place. This blog will guide you through the detailed steps of using WordPress default editor. The new WordPress editor is built around “blocks,” which have become a standard feature of the popular."
+    },
+    {
+      "role": "heading",
+      "name": "Gutenberg: Essential Things You Need To Know",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg substitutes the Classic editor and simply allows you to add text, photos, and other media to your posts and web pages using content blocks. That’s why it is called Gutenberg block editor. The old editor was text-based, which limited new users who did not know how to code."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Even in Classic Editor, you needed to go to the HTML view to make customized changes. But HTML skill was not necessary at all. To add simple features to your websites, such as tables or image galleries, you’d have to install a separate plugin. In that case,"
+    },
+    {
+      "role": "heading",
+      "name": "A Thorough Gutenberg Tutorial For WordPress User",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used inying out print, graphic or web designs. The passage is attributed to and unknown typesetter in the 15th century who is thought"
+    },
+    {
+      "role": "image",
+      "name": "Table Of Contents",
+      "description": "Table Of Contents 9"
+    },
+    {
+      "role": "heading",
+      "name": "How To Create Reusable Blocks In Gutenberg Block Editor?",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg gives you an outstanding feature with which you can create your own blocks easily. Creating your own blocks will help you reuse them whenever you need them. For instance, you regularly write food review blogs and you want to show a certain section of your website ranking that you do not want to change. Instead of creating the same content all over again, you can turn it into a reusable block and use it in your blogs."
+    },
+    {
+      "role": "image",
+      "name": "Table Of Contents",
+      "description": "Table Of Contents 10"
+    },
+    {
+      "role": "heading",
+      "name": "How To Create Block Groups Inside Of Your Block Editor?",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You might be wondering how grouping some blocks during content creation can benefit you. Consider the following scenario: you need to include a call to action section in each of your blog posts. A signup form, a call-to-action button, and a support link are commonly included in your call-to-action section. You can use this set as a single unit of the group if you can combine these form, link, and button blocks together. As a result, you will save time and effort by not having to create the same part many times for each blog post."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "To create block groups, you need to select all the blocks you want to make a group of and you will see an overlay icon. From the new menu, from the ‘Transform to’ inscription you can choose ‘Group’. Your block is ready to go. You can now change the chronology and adjust it as per your preference."
+    },
+    {
+      "role": "heading",
+      "name": "A THOROUGH GUTENBERG TUTORIAL FOR ANY WORDPRESS USER",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": "Let’s go into the details of the WordPress block editor now that we’ve covered the fundamentals. When you first open the Gutenberg editor for a page or a post, it appears to be quite blank. The first step is to place some blocks on the table."
+    },
+    {
+      "role": "heading",
+      "name": "STEP 1: INCLUDE GUTENBERG BLOCKS TO YOUR POST",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": "As you have already created a post in WordPress, now from the blank page, you need to click on the ‘+’ sign from the editor and lots of blocks will appear. To explore all the blocks, click on the ‘Browse All’ button below and all the blocks will appear."
+    },
+    {
+      "role": "heading",
+      "name": "STEP 2: CHANGE THE ORDER OF YOUR GUTENBERG BLOCKS",
+      "level": 6
+    },
+    {
+      "role": "text",
+      "name": "You can change Gutenberg block positions just by clicking and dragging them where you want them to appear, or by tapping the dots in between the directions and dragging and dropping the Gutenberg blocks."
+    },
+    {
+      "role": "image",
+      "name": "Table Of Contents",
+      "description": "Table Of Contents 11"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

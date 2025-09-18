@@ -1,0 +1,396 @@
+{
+  "role": "WebArea",
+  "name": "Advanced Heading | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Heading 1"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Heading",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a stunning heading or title in a beautiful manner by simply using the Advanced Heading block and grabbing the attention of your potential user outstandingly. With many preset designs, subtitles, and more options."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 2"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Heading 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Heading 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Heading 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Heading 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Guide To Create An Advanced Heading",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Design Advanced Heading In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Creative Heading",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Default Preset",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "We are a premium, French-style restaurant that serves whatever you enjoy about fine dining with sincerity."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "The menu includes Chinese entrees, Squid fry, and Delicious Sandwiches produced with beef and chicken. Order now and the meal will be delivered to your house in 30 minutes"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 8"
+    },
+    {
+      "role": "heading",
+      "name": "Preset 1",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Create Stunning Post Heading With Subtitle",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With the advanced Display Subtitle & Display Separator option, reveal your content in a compelling manner."
+    },
+    {
+      "role": "heading",
+      "name": "Color Advanced Heading",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your travel website gain widespread fame with the Advanced Heading"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 9"
+    },
+    {
+      "role": "heading",
+      "name": "Preset Layout 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your interior decor website with stunning hover effects by using Advanced Heading"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 10"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 11"
+    },
+    {
+      "role": "heading",
+      "name": "Creative Essential Blocks Advanced Heading",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "We have a reputation for not just making well-built furniture, but also for having an excellent design aesthetic and work ethic. And our workmanship – our mindset of striving to produce the best of anything we build–has earned us national acclaim"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With innovative Separator Style & Positioning, your Advanced Heading will look spectacular in every angle"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Heading",
+      "description": "Advanced Heading 12"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

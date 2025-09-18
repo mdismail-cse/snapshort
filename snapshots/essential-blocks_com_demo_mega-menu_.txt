@@ -1,0 +1,525 @@
+{
+  "role": "WebArea",
+  "name": "Mega Menu | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Mega Menu",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Design Fully Controllable Mega Menu For Customized Navigation",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a dropdown menu with multidimensional layouts to improve user experience & provide smooth navigation."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu Block",
+      "description": "Mega Menu 1"
+    },
+    {
+      "role": "heading",
+      "name": "Style Menu Dropdown With Icons, Highlighted Badges & Interactive Promo Banners",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 2"
+    },
+    {
+      "role": "link",
+      "name": "Products"
+    },
+    {
+      "role": "button",
+      "name": " Open Products",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Gift Cards"
+    },
+    {
+      "role": "link",
+      "name": "Help"
+    },
+    {
+      "role": "button",
+      "name": " Open Help",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Live"
+    },
+    {
+      "role": "link",
+      "name": "Register"
+    },
+    {
+      "role": "heading",
+      "name": "Your World, Reimagined in Virtual Reality",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 10"
+    },
+    {
+      "role": "heading",
+      "name": "Design Custom Multi-Column Mega Menu With Dynamic Blocks From Gutenberg Library",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 11"
+    },
+    {
+      "role": "link",
+      "name": "Home"
+    },
+    {
+      "role": "link",
+      "name": "Quick Help"
+    },
+    {
+      "role": "button",
+      "name": " Open Quick Help",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Solutions"
+    },
+    {
+      "role": "button",
+      "name": " Open Solutions",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "AI-Powered Services to Drive Growth",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Introduce the individuals from your team on your Gutenberg website with stunning layouts."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 41"
+    },
+    {
+      "role": "heading",
+      "name": "Get Mobile-Friendly Navigation Bar For Website To Display Menu Items Efficiently",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 42"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "button",
+      "name": "Services"
+    },
+    {
+      "role": "button",
+      "name": " Open Services",
+      "haspopup": "menu"
+    },
+    {
+      "role": "button",
+      "name": "Resources"
+    },
+    {
+      "role": "button",
+      "name": " Open Resources",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "Our Work"
+    },
+    {
+      "role": "link",
+      "name": "Book A Call"
+    },
+    {
+      "role": "heading",
+      "name": "Transform your Business with AI Solutions that Accelerate Growth",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Introduce the individuals from your team on your Gutenberg website with stunning layouts and detailed information. Customize avatars, fonts, colors, and social profiles"
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 54"
+    },
+    {
+      "role": "heading",
+      "name": "Build Stylish WooCommerce Store Menu And Display Product Grids & Categories With Images",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 55"
+    },
+    {
+      "role": "link",
+      "name": " Home"
+    },
+    {
+      "role": "button",
+      "name": " Shop"
+    },
+    {
+      "role": "button",
+      "name": " Open Shop",
+      "haspopup": "menu"
+    },
+    {
+      "role": "link",
+      "name": " Sale NEW"
+    },
+    {
+      "role": "link",
+      "name": "% Offer"
+    },
+    {
+      "role": "link",
+      "name": "Login"
+    },
+    {
+      "role": "text",
+      "name": "50% OFF"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "text",
+          "name": "Exclusive Deals going on – Exclusive Deals going on"
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Unfold Your Everyday Style",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "See Products"
+    },
+    {
+      "role": "link",
+      "name": "Shop Now"
+    },
+    {
+      "role": "image",
+      "name": "Frame1212",
+      "description": "Mega Menu 68"
+    },
+    {
+      "role": "heading",
+      "name": "5–9 Day Global Shipping",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Frame3434",
+      "description": "Mega Menu 69"
+    },
+    {
+      "role": "heading",
+      "name": "100+ Fashion Products",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 70"
+    },
+    {
+      "role": "heading",
+      "name": "Explore Unlimited Styling Options & Get Full Flexibility To Customize Mega Menu Based On Your Needs",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style every little thing in the menu with custom grids, sub-menu items, include multimedia, other blocks, hover effects, etc. to give organized, nested navigation."
+    },
+    {
+      "role": "image",
+      "name": "Mega Menu",
+      "description": "Mega Menu 71"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

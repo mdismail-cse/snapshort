@@ -1,0 +1,1211 @@
+{
+  "role": "WebArea",
+  "name": "Gutenberg Blocks Demo for Essential Blocks",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Get All Interactive Gutenberg Blocks In One Place",
+      "level": 1
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "19"
+    },
+    {
+      "role": "heading",
+      "name": "Content Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 1"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 3"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 5"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 7"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 9"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 11"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 13"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 15"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 17"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 19"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 21"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 23"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 25"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 27"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 29"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 31"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 33"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 35"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 37"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "14"
+    },
+    {
+      "role": "heading",
+      "name": "Creative Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 39"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 41"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 43"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 45"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 47"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 49"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 51"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 53"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 55"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 57"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 59"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 61"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 63"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 65"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "05"
+    },
+    {
+      "role": "heading",
+      "name": "Marketing Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 67"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 69"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 71"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 73"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 75"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "13"
+    },
+    {
+      "role": "heading",
+      "name": "Dynamic Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 77"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 79"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 81"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 83"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 85"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 87"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 89"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 91"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 93"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 95"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 97"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 99"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 101"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "03"
+    },
+    {
+      "role": "heading",
+      "name": "Form Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 103"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 105"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 107"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "07"
+    },
+    {
+      "role": "heading",
+      "name": "Woo Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 109"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 111"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 113"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 115"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 117"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 119"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 121"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "03"
+    },
+    {
+      "role": "heading",
+      "name": "Social Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 123"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 125"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 127"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "text",
+      "name": "02"
+    },
+    {
+      "role": "heading",
+      "name": "Layout Blocks",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 129"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "image",
+      "name": "Demo",
+      "description": "Demo 131"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Clickable infobox"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg.",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    }
+  ]
+}

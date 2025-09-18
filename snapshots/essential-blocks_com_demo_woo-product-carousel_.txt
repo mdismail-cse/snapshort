@@ -1,0 +1,548 @@
+{
+  "role": "WebArea",
+  "name": "Woo Product Carousel | Essential Gutenberg Blocks For WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Woo Product Carousel 1"
+    },
+    {
+      "role": "heading",
+      "name": "Woo Product Carousel",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Elevate your WooCommerce page with Woo Product Carousel. Choose from four captivating layouts & customize image sizes, effortlessly enhancing the visual appeal of your products for an engaging shopping experience."
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "Woo Product Carousel",
+      "description": "Woo Product Carousel 2"
+    },
+    {
+      "role": "image",
+      "name": "Woo Product Carousel",
+      "description": "Woo Product Carousel 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Woo Product Carousel 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Woo Product Carousel 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Woo Product Carousel 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Woo Product Carousel 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Easy Guide To Configure Woo Product Carousel",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Interactive Product Carousel In Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Preset 1 With Overlay Effect",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unleash the allure of your products with Preset 1 and its captivating overlay effect, enhancing the visual impact of your Woo product slider"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "6 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Preset 2 With Carousel Effect",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Experience the dynamic charm of mesmerizing carousel effect in the slider. Enjoy seamless animations, autoplay, & adjustable animation speeds for a captivating shopping journey"
+    },
+    {
+      "role": "button",
+      "name": "Previous"
+    },
+    {
+      "role": "button",
+      "name": "Next"
+    },
+    {
+      "role": "heading",
+      "name": "Preset 3 Showing Product Details",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unveil the essence of your products by showcasing enticing product details such as ratings, prices, and sales badges, & engaging customers with valuable information"
+    },
+    {
+      "role": "button",
+      "name": "Previous"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $35.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $20.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $30.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $20.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $20.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $19.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Next"
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "6 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Showcasing Popular Products With Preset 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Highlight your top products by showcasing popular items in Woo product slider, ensuring maximum visibility & driving customer engagement to boost sales"
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Popular Products",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": "Previous"
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "button",
+      "name": "Next"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "role": "WebArea",
+  "name": "Interactive Promo | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Interactive Promo 1"
+    },
+    {
+      "role": "heading",
+      "name": "Interactive Promo",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Decorate your website with Interactive Promo block and let your visitors get an attractive website outlook with its amazing promo effects. You can use this block as alternative to call to action and redirect visitors."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Interactive Promo",
+      "description": "Interactive Promo 2"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Promo",
+      "description": "Interactive Promo 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Interactive Promo 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Interactive Promo 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Interactive Promo 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Interactive Promo 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Interactive Promo By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Display Interactive Promo In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 8"
+    },
+    {
+      "role": "heading",
+      "name": "INTERACTIVE PROMO APOLLO LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "heading",
+      "name": "Design With 22 Attractive Layouts",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your website with any of these 22 attractive promo effects by creating amazing content for the audience and make your site outstanding"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 9"
+    },
+    {
+      "role": "heading",
+      "name": "CLASSY BUBBA LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 10"
+    },
+    {
+      "role": "heading",
+      "name": "ACUTE DEXTER LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 11"
+    },
+    {
+      "role": "heading",
+      "name": "BEAUTIFUL DUKE LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "heading",
+      "name": "Customize The Interactive Promo Block",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose any layout from the Interactive Promo block, customize it according to your choice and make unique pages and posts"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 12"
+    },
+    {
+      "role": "heading",
+      "name": "POLISHED GOLIATH LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 13"
+    },
+    {
+      "role": "heading",
+      "name": "SIMPLE JULIA LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Explore To Get All Promo Effects"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 14"
+    },
+    {
+      "role": "heading",
+      "name": "STUNNING LAYLA LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Explore To Get All Promo Effects"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 15"
+    },
+    {
+      "role": "heading",
+      "name": "STYLISH LEXI LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "heading",
+      "name": "Configure Interactive Promo General Tab",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick any layout from general tab and configure height, width, image alt tag, header, content text,alignments, etc, also, add links"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 16"
+    },
+    {
+      "role": "heading",
+      "name": "GORGEOUS MARKEY LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 17"
+    },
+    {
+      "role": "heading",
+      "name": "UNIQUE MING LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 18"
+    },
+    {
+      "role": "heading",
+      "name": "UNIQUE MING LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "heading",
+      "name": "Personalize Interactive Promo From Style Tab",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Decorate the Essential Blocks Interactive Promo block from the style tab with color and typography of your choice to make it stunning"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 19"
+    },
+    {
+      "role": "heading",
+      "name": "STYLISH MOSES LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 20"
+    },
+    {
+      "role": "heading",
+      "name": "PRETTY RUBY LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 21"
+    },
+    {
+      "role": "heading",
+      "name": "GLOSSY ROXY LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Explore To Get All Promo Effects"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Interactive Promo 22"
+    },
+    {
+      "role": "heading",
+      "name": "BEAUTIFUL OSCAR LAYOUT",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "EXPLORE TO GET ALL PROMO EFFECTS"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

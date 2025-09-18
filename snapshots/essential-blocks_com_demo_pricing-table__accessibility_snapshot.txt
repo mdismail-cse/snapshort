@@ -1,0 +1,983 @@
+{
+  "role": "WebArea",
+  "name": "Pricing Table | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Pricing Table 1"
+    },
+    {
+      "role": "heading",
+      "name": "Pricing Table",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase the product & service pricing with a responsive Pricing Table block and skyrocket your sales. With gorgeous pricing presets & customizable buttons, maximize your overall profit in the long run."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Pricing Table",
+      "description": "Pricing Table 2"
+    },
+    {
+      "role": "image",
+      "name": "Pricing Table",
+      "description": "Pricing Table 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Pricing Table 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Pricing Table 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Pricing Table 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Pricing Table 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Guide To Easily Create Pricing Table",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create A Responsive Pricing Table In WordPress"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Pricing Table Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Basic Access",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": "SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": "Featured"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Full Access",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "39.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Developer Access",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "49.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": "SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Pricing Table Style 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Monthly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": "Featured"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Quaterly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "49.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Yearly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "69.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Pricing Table Left Hover Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Monthly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Quaterly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "39.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Yearly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your Best Plan"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "49.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Pricing Table Style 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "The pricing table block will let you create an effective product pricing table"
+    },
+    {
+      "role": "heading",
+      "name": "Monthly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Yearly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "24/7 Support"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "69.99"
+    },
+    {
+      "role": "text",
+      "name": "/ month"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

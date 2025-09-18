@@ -1,0 +1,831 @@
+{
+  "role": "WebArea",
+  "name": "Shape Divider | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 1"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add life to your Gutenberg websites using Essential Blocks Shape Divider. With stunning presets, take your website designs to the next level and showcase different sections with stunning shape dividers that instantly grabs attention."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 2"
+    },
+    {
+      "role": "image",
+      "name": "essential blocks shape divider",
+      "description": "Shape Divider 3"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Use Shape Divider Block",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Shape Divider In Your Gutenberg Website"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Ocean Wave Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your web layout interesting with Essential Blocks Ocean Wave type Shape Diver and customize the height, and weight to fit in with your website"
+    },
+    {
+      "role": "link",
+      "name": "Get Essential Blocks"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 8"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 9"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Asymmetric Triangle Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add an Asymmetric Triangle Shape Divider on your web page and set the position as you like to take your web design capability to the next level"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 10"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Abstract Paint Brush Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Implement your creativity into web design with Essential Blocks Shape Divider to make a stunning website without any coding"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "90K+ ACTIVE INSTALLATIONS",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "21 May 2023"
+        },
+        {
+          "role": "text",
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "NEW BLOCKS RELEASED",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "12 April 2023"
+        },
+        {
+          "role": "text",
+          "name": "Development"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "NEW RELEASE: PRO VERSION",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "24 May 2023"
+        },
+        {
+          "role": "text",
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "80K ACTIVE INSTALLATIONS",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 months, we have crossed another milestone – 80K happy users are"
+        },
+        {
+          "role": "text",
+          "name": "Apr 19, 2023"
+        },
+        {
+          "role": "text",
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "6 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Asymmetric Curve Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Increase focus on your content with Essential Blocks Shape Divider and add any color you like to align with your brand and engage viewers"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "19.99"
+    },
+    {
+      "role": "heading",
+      "name": "Monthly Payment",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "heading",
+      "name": "Quarterly Payments",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "19.99"
+    },
+    {
+      "role": "heading",
+      "name": "Yearly Payments",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Unlimited Calls"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free Hosting"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "500MB Free Storage"
+    },
+    {
+      "role": "link",
+      "name": " SELECT PLAN"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Cloud Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your website appealing to your visitor with Cloud type Shape Divider and flip it as you like to adjust your web layout"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 11"
+    },
+    {
+      "role": "heading",
+      "name": "0.2M+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Active Users",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 12"
+    },
+    {
+      "role": "heading",
+      "name": "0K+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Total Downloads",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 13"
+    },
+    {
+      "role": "heading",
+      "name": "0+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Total Active",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 14"
+    },
+    {
+      "role": "heading",
+      "name": "0+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Total Reviews",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Mountain Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Separate your sections with Mountain-type Shape Divider to create a unique web "
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "layout customizing the background without any hassle"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 15"
+    },
+    {
+      "role": "heading",
+      "name": "Enjoy 20$ Off",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Marketing Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 16"
+    },
+    {
+      "role": "heading",
+      "name": "Grab 30$ Off",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "UX UI Design",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 17"
+    },
+    {
+      "role": "heading",
+      "name": "Enjoy 20$ Off",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Research Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Marketing course for beginners & those who are interested also exploring the field. Everyone Marketing course for beginners"
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Fire Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a jazzy & animated web layout with a Fire-type shape divider and make your website a bit more interesting to your visitors"
+    },
+    {
+      "role": "text",
+      "name": "Subscription Form"
+    },
+    {
+      "role": "textbox",
+      "name": "Your Email Address",
+      "required": true
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Sports Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add sports-type web layout with Essential Blocks Shape Divider and say goodbye, to boring website design with advanced control"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 18"
+    },
+    {
+      "role": "image",
+      "name": "Shape Divider",
+      "description": "Shape Divider 19"
+    },
+    {
+      "role": "heading",
+      "name": "Shape Divider Mountain Type",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Separate your sections with Mountain-type Shape Divider to create a unique web  layout customizing the background without any hassle"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Shape Divider 20"
+    },
+    {
+      "role": "text",
+      "name": "Travel Un United State"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Shape Divider 21"
+    },
+    {
+      "role": "text",
+      "name": "Travel Un United State"
+    },
+    {
+      "role": "image",
+      "name": "image",
+      "description": "Shape Divider 22"
+    },
+    {
+      "role": "text",
+      "name": "Travel Un United State"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

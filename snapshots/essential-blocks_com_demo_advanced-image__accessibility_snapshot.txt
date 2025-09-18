@@ -1,0 +1,606 @@
+{
+  "role": "WebArea",
+  "name": "Advanced Image | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Image 1"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Give your website attractive outlook by displaying images with Advanced Image block. You can use this block to showcase different styles of images to your visitors."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 2"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Image 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Image 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Image 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Image 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Create Advanced Image",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Use Advanced Image In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Image With Rounded Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your website images with your preferred style preset layouts and make your site look outstanding for your visitors"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 8"
+    },
+    {
+      "role": "heading",
+      "name": "Square Style Layout With Caption Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose a caption style from two different ‘Caption Styles’ to present the image title on the bottom by toggling on the ‘Display Caption’ button"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 9"
+    },
+    {
+      "role": "text",
+      "name": "Customize the ‘General’ tab to"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "select Style"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 10"
+    },
+    {
+      "role": "text",
+      "name": "Customize the ‘Style’ tab to choose"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "the Border and Color"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 11"
+    },
+    {
+      "role": "text",
+      "name": "Customize the ‘Advanced’ tab to fix"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Background"
+    },
+    {
+      "role": "heading",
+      "name": "Square Style Layout With Caption Style 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Set the ‘Width’ and ‘Height’ of the image according to your choice and preference so that the image can fit perfectly on your website"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 12"
+    },
+    {
+      "role": "text",
+      "name": "Configure images to make site attractive"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 13"
+    },
+    {
+      "role": "text",
+      "name": "Customize images to fit your exact needs"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Image With Circle Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Link anything to the image title when you want to redirect your visitors to any destination and keep them engaged on your site"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 14"
+    },
+    {
+      "role": "text",
+      "name": "Create various styles"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 15"
+    },
+    {
+      "role": "text",
+      "name": "Make your site unique"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 16"
+    },
+    {
+      "role": "text",
+      "name": "Boost user engagement"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 17"
+    },
+    {
+      "role": "text",
+      "name": "Increase audience interest"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 18"
+    },
+    {
+      "role": "text",
+      "name": "Showcase brand image"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 19"
+    },
+    {
+      "role": "text",
+      "name": "Engage your visitors"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 20"
+    },
+    {
+      "role": "text",
+      "name": "Make Interactive Image"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 21"
+    },
+    {
+      "role": "text",
+      "name": "Create attractive website"
+    },
+    {
+      "role": "heading",
+      "name": "Octagon Style Layout Of Advanced Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick any ‘Hover Effect’ from Zoom In, Zoom Out, Slide and Blur to make it more interactive, or you can choose No Effect"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 22"
+    },
+    {
+      "role": "text",
+      "name": "Add Hover Effects"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 23"
+    },
+    {
+      "role": "text",
+      "name": "Make Interactive Image"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 24"
+    },
+    {
+      "role": "text",
+      "name": "Create various styles"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Image With Triangle Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Decorate your Advanced Image block by selecting a ‘Border Style’ from 9 different styles and make your image more elegant"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 25"
+    },
+    {
+      "role": "text",
+      "name": "Create Unique Shape Image"
+    },
+    {
+      "role": "image",
+      "name": "Advanced Image",
+      "description": "Advanced Image 26"
+    },
+    {
+      "role": "text",
+      "name": "Add Colors"
+    },
+    {
+      "role": "heading",
+      "name": "Rhombus Style Layout Of Advanced Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add some colors to the Border and Caption to give the image a vibrant look, also choose typography to make it more glamorous"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    }
+  ]
+}

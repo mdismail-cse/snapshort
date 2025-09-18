@@ -1,0 +1,394 @@
+{
+  "role": "WebArea",
+  "name": "Call To Action | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Call To Action 1"
+    },
+    {
+      "role": "heading",
+      "name": "Call To Action",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create interactive CTA buttons without code in your website with Call To Action blocks from Essential Blocks and supercharge your conversion rate. With this Gutenberg block, grabbing your visitors’ attention will be a breeze now."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Call To Action",
+      "description": "Call To Action 2"
+    },
+    {
+      "role": "image",
+      "name": "Call To Action",
+      "description": "Call To Action 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Call To Action 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Call To Action 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Call To Action 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Call To Action 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Call To Action",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create A Call-To-Action Button In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Call To Action Basic Content Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add eye-catchy CTA buttons on your website and make it even more attractive with ultimate styling options from Essential Blocks to boost your conversion"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Marketing Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Enhance your marketing skills with our advanced marketing courses and instantly shine on your career."
+    },
+    {
+      "role": "link",
+      "name": "Sign Up Now"
+    },
+    {
+      "role": "heading",
+      "name": "Call To Action Round Button Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design your CTA buttons in round style to grab visitors attention"
+    },
+    {
+      "role": "heading",
+      "name": "Language Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Learn multiple languages from our dedicated instructors from today and hone your communication skills to easily connect with people from all around the world without any trouble."
+    },
+    {
+      "role": "link",
+      "name": "Enroll Now"
+    },
+    {
+      "role": "heading",
+      "name": "Call To Action Button With Subtitle",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Power up your CTA buttons with subtitles using Call To Action Block from Essential Blocks and catch your visitors attention on spot at ease"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Enjoy 40$ Off",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Research Course",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Supercharge your design skills and become a successful UI UX Designer by taking our course. You will get all the resources that you need to start your career from the scratch."
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Call To Action Button With Shadow",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display your CTA buttons interactively with shadow and style up to drive your visitors into immediate actions with Call To Action block"
+    },
+    {
+      "role": "heading",
+      "name": "Get 45$ Off",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "UI UX Design",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Supercharge your design skills and become a successful UI UX Designer by taking our course."
+    },
+    {
+      "role": "link",
+      "name": "Sign Up Now"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

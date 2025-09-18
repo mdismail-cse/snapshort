@@ -1,0 +1,375 @@
+{
+  "role": "WebArea",
+  "name": "Popup | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 1"
+    },
+    {
+      "role": "heading",
+      "name": "Popup",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a stunning popup in Gutenberg using Essential Blocks Popup. You can easily run marketing campaigns, collect leads, design stunning notification bars, and take full control over trigger styles while showcasing popups & much more."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 2"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 3"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "How To Create Popup In Gutenberg?",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Stunning Popup Block In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Popup By Button Click",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Instantly show a stunning popup on your website when your visitors click on the buttons. Customize the button with engaging icons and other handy controls"
+    },
+    {
+      "role": "button",
+      "name": "Click To See Demo"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 9"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 10"
+    },
+    {
+      "role": "heading",
+      "name": "Display Popup After Clicking On Any Element",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Be it a heading, image, icon, video, or any external block of your webpage, you can showcase a popup by clicking external blocks, also set auto exit time to boost your conversion rates"
+    },
+    {
+      "role": "heading",
+      "name": "Click Here To See Popup In Action",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Show Popup On Page Loading",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Grab your visitors attention right after landing on your website with attractive popups and guide them to take immediate actions using Essential Blocks’ Popup block"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 12"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 13"
+    },
+    {
+      "role": "heading",
+      "name": "Integrate Versatile Blocks In Popups",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your popup content unique by inserting any Gutenberg blocks and designing it as you wish to create a compelling popup on your WordPress website"
+    },
+    {
+      "role": "button",
+      "name": "Check Out Demo"
+    },
+    {
+      "role": "heading",
+      "name": "Apply Advanced Settings & Triggers Options",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style your popup window with advanced settings, like responsive control, animation, background type, set cookies and attract your visitors without any hassle"
+    },
+    {
+      "role": "button",
+      "name": " Check Popup"
+    },
+    {
+      "role": "image",
+      "name": "Popup",
+      "description": "Popup 15"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

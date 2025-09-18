@@ -1,0 +1,437 @@
+{
+  "role": "WebArea",
+  "name": "Lottie Animation | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Lottie Animation",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Make Your Website Standout & Engaging With Lottie Animation Block",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add Lottie animation to your WordPress site with Essential Blocks to make it interactive and visually appealing. Customize speed, loop, and more, no custom code needed."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Design Eye-Catching Websites with LottieFiles Animations",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make animations play in reverse or have them autoplay whenever visitors visit your site to"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "instantly capture their attention."
+    },
+    {
+      "role": "heading",
+      "name": "Ready to Fly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Plan with ease. Get your tickets, boarding pass, and passport ready for a hassle-free journey."
+    },
+    {
+      "role": "heading",
+      "name": "Pack & Go",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Your adventure awaits. Grab your luggage and set off on an unforgettable trip to dream destinations."
+    },
+    {
+      "role": "heading",
+      "name": "Find Your Way",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Discover breathtaking landscapes, fun places and follow the right path to new adventures."
+    },
+    {
+      "role": "heading",
+      "name": "Get Control Over Lottie Animated Graphics",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Let the Lottie JSON animation play on click. Also, control appearance on web pages"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "to create interactive moments, perfect for content attention."
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 1"
+    },
+    {
+      "role": "heading",
+      "name": "Step 1: Get Ready to Go",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get ready to take off—passport in hand, adventure awaits."
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 1"
+    },
+    {
+      "role": "heading",
+      "name": "Step 2: Fly Above Clouds",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Sit back, relax, and enjoy the journey to your dream destination."
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 1"
+    },
+    {
+      "role": "heading",
+      "name": "Step 3: Enjoy Your Traveling",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Time to explore, unwind, and create unforgettable memories."
+    },
+    {
+      "role": "heading",
+      "name": "Add Stunning Animation Effects Easily",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Increase attention with motion graphics and create an engaging experience."
+    },
+    {
+      "role": "heading",
+      "name": "Subscribe To our Weekly Mails For Updates And Promotional Mail",
+      "level": 3
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Exclusive Gutenberg Lottie Animation Block Features",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Fill your website with outstanding and lightweight animations from Lottie and customize"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "them with unlimited controls from Essential Blocks."
+    },
+    {
+      "role": "heading",
+      "name": "Multiple Trigger Options",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get access to versatile types of triggers that will help you to customize the Lottie animation with styles and interactiveness."
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 5"
+    },
+    {
+      "role": "heading",
+      "name": "Support Versatile File Formats",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Upload files like DotLottie or JSON, or use direct URLs for flexibility in your animations."
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 6"
+    },
+    {
+      "role": "image",
+      "name": "Lottie Animation",
+      "description": "Lottie Animation 7"
+    },
+    {
+      "role": "heading",
+      "name": "Custom Animation Controls",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Tailor every aspect of your LottiFiles animation from to create a unique and personalized experience."
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

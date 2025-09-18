@@ -1,0 +1,622 @@
+{
+  "role": "WebArea",
+  "name": "Testimonial | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Testimonial 1"
+    },
+    {
+      "role": "heading",
+      "name": "Testimonial",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your customer review on your website using Testimonial blocks to boost credibility and influence your customers’ decisions. You can display social proof with images, avatars, quotation sign, etc. with utmost flexible customization."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 2"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Testimonial 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Testimonial 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Testimonial 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Testimonial 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Testimonial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Showcase Customer Reviews Beautifully With Testimonial In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Testimonial Layout Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With Testimonials block from Essential Blocks, you will get the options to design an elegant customers feedback section and become reliable to your visitors"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 8"
+    },
+    {
+      "role": "text",
+      "name": "Oliver Noah"
+    },
+    {
+      "role": "text",
+      "name": "“EB is the best block library for Gutenberg. It contains all the blocks that I need to create web pages. Kudos to the developers.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 9"
+    },
+    {
+      "role": "text",
+      "name": "Ariana Gumez"
+    },
+    {
+      "role": "text",
+      "name": "“This plugin is very easy to install. It has some blocks that are only found here. Customization is simple & the entire process is smooth.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 10"
+    },
+    {
+      "role": "text",
+      "name": "Benjamin Glass"
+    },
+    {
+      "role": "text",
+      "name": "“EB is a nice plugin with 30+ page building blocks and customization options. All you have to do is install it on your website.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 11"
+    },
+    {
+      "role": "text",
+      "name": "Isabella Amelia"
+    },
+    {
+      "role": "text",
+      "name": "“Essential Blocks comes with more than 30+ exceptional page building blocks that can supercharge your Gutenberg experience.”"
+    },
+    {
+      "role": "heading",
+      "name": "Full-Width Review Section",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Ariana Gumez"
+    },
+    {
+      "role": "text",
+      "name": "CEO, AG Developers"
+    },
+    {
+      "role": "text",
+      "name": "“Essential Blocks will let you design amazing web pages with the Gutenberg editor. You will find ultimate presets, customization options, and much more on this Gutenberg block library and build stunning web pages. Besides, all of the widgets are compatible with all devices and browsers.”"
+    },
+    {
+      "role": "heading",
+      "name": "Testimonial Layout Style 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose from premade layouts to design testimonial sections in one click and convert your visitors into customers with social proof in a stunning way"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 12"
+    },
+    {
+      "role": "text",
+      "name": "John Elton"
+    },
+    {
+      "role": "text",
+      "name": "CEO, J-Strokes"
+    },
+    {
+      "role": "text",
+      "name": "“EB Testimonials will let you showcase your customer’s feedback elegantly on your website. It offers many customization options. I will recommend Essential Blocks to everyone.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 13"
+    },
+    {
+      "role": "text",
+      "name": "Selena Miller"
+    },
+    {
+      "role": "text",
+      "name": "Founder, J-Strokes"
+    },
+    {
+      "role": "text",
+      "name": "“Essential blocks comes with more than 30+ exceptional page building blocks that can supercharge your Gutenberg experience and let you build awesome web pages without any code.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 14"
+    },
+    {
+      "role": "text",
+      "name": "Emma Farguson"
+    },
+    {
+      "role": "text",
+      "name": "CEO, J-Strokes"
+    },
+    {
+      "role": "text",
+      "name": "“This plugin is very easy to install. It has some blocks that are only found here. In this plugin, customization is simple and easy, and the entire process is quick and smooth.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 15"
+    },
+    {
+      "role": "text",
+      "name": "Josh Folkner "
+    },
+    {
+      "role": "text",
+      "name": "Founder, J-Strokes"
+    },
+    {
+      "role": "text",
+      "name": "“EB is the best block library for Gutenberg. It contains all the blocks that I need to create web pages. Kudos to the developers & I Hope, they will bring more blocks soon.”"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "heading",
+      "name": "Testimonial Layout Style 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design Testimonial sections with amazing styles on your website & showcase your customer’s feedback to influence your visitors to take immediate action"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 16"
+    },
+    {
+      "role": "text",
+      "name": "Ariana Gumez"
+    },
+    {
+      "role": "text",
+      "name": "“EB is the best block library for Gutenberg. It contains all the essential blocks that I need to create web pages. Kudos to the developers”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 17"
+    },
+    {
+      "role": "text",
+      "name": "Oliver Noah"
+    },
+    {
+      "role": "text",
+      "name": "“This plugin is easy to install. It has some blocks that are only found here. Styling is simple & the entire process is smooth.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 18"
+    },
+    {
+      "role": "text",
+      "name": "Emma Farguson"
+    },
+    {
+      "role": "text",
+      "name": "“EB is a nice plugin with 30+ amazing page building blocks and many customization options. All you have to do is install it on your website.”"
+    },
+    {
+      "role": "image",
+      "name": "Testimonial",
+      "description": "Testimonial 19"
+    },
+    {
+      "role": "text",
+      "name": "Frank Maccigil"
+    },
+    {
+      "role": "text",
+      "name": "“Essential blocks comes with more than 30+ exceptional page building blocks that can easily make your Gutenberg experience better than before.”"
+    },
+    {
+      "role": "heading",
+      "name": "Style Just The Way You Want",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make adjustments to the layout of your testimonial section to make it more engaging for visitors."
+    },
+    {
+      "role": "text",
+      "name": "John Elton"
+    },
+    {
+      "role": "text",
+      "name": "Software Engineer"
+    },
+    {
+      "role": "text",
+      "name": "“Essential blocks offer an outstanding page-building experience. Now, one can design stunning web pages without using a single code.”"
+    },
+    {
+      "role": "text",
+      "name": "Benjamin Glass"
+    },
+    {
+      "role": "text",
+      "name": "Art Director"
+    },
+    {
+      "role": "text",
+      "name": "“This is the best block library for Gutenberg. It contains all the blocks that I need. Kudus to the developer team.”"
+    },
+    {
+      "role": "text",
+      "name": "Oliver Noah"
+    },
+    {
+      "role": "text",
+      "name": "Software Engineer"
+    },
+    {
+      "role": "text",
+      "name": "“Essential blocks come with more than 30+ exceptional blocks that can supercharge your Gutenberg experience.”"
+    },
+    {
+      "role": "text",
+      "name": "Frank Maccigil"
+    },
+    {
+      "role": "text",
+      "name": "UI UX Designer"
+    },
+    {
+      "role": "text",
+      "name": "“EB is a nice plugin with 30+ page building blocks and customization options. All you have to do is install it on your website.”"
+    },
+    {
+      "role": "text",
+      "name": "Ariana Gumez"
+    },
+    {
+      "role": "text",
+      "name": "Content Writer"
+    },
+    {
+      "role": "text",
+      "name": "“Essential Blocks comes with more than 30+ exceptional blocks which will let you build awesome web pages.”"
+    },
+    {
+      "role": "heading",
+      "name": "Testimonial Layout Style 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Build stunning customer feedback sections on your website with multiple alignments using Testimonials block & enhance your credibility"
+    },
+    {
+      "role": "text",
+      "name": "Oliver Noah"
+    },
+    {
+      "role": "text",
+      "name": "Digital Marketer"
+    },
+    {
+      "role": "text",
+      "name": "“Essential blocks come with more than 30+ free blocks that can easily supercharge your Gutenberg experience and let you build awesome web pages without any code.”"
+    },
+    {
+      "role": "text",
+      "name": "Frank Maccigil"
+    },
+    {
+      "role": "text",
+      "name": "Product Designer"
+    },
+    {
+      "role": "text",
+      "name": "“EB is a nice plugin with many page building blocks and customization options. All you have to do is install and start creating web pages in Gutenberg editor.”"
+    },
+    {
+      "role": "text",
+      "name": "Ariana Gumez"
+    },
+    {
+      "role": "text",
+      "name": "UX UI Designer"
+    },
+    {
+      "role": "text",
+      "name": "“This plugin is very easy to install. It has some blocks that are only found here. Customization is simple and easy, and the entire process is quick and smooth.”"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

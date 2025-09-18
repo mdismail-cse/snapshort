@@ -1,0 +1,538 @@
+{
+  "role": "WebArea",
+  "name": "Social Share - Essential Blocks",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 1"
+    },
+    {
+      "role": "heading",
+      "name": "Social Share",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Let your audience share your post content instantly on popular social platforms with the Social Share block. You can easily customize your social share icon appearances and increase engagements instantly."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 2"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 3"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "How To Use The Social Share Block In Gutenberg?",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Social Share Buttons On Your Post Using Social Share Block?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "FADE IN, SLIDE OUT, ZOOM IN",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Add Social Share Icons With Names",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your social shares with the platform names & icons with custom typography and provide the smoothest user experience for your visitors. You can easily get more social shares for your website simply by adding the Social Share block from Essential Bocks on your website."
+    },
+    {
+      "role": "link",
+      "name": " Facebook"
+    },
+    {
+      "role": "link",
+      "name": " Twitter"
+    },
+    {
+      "role": "link",
+      "name": " Linkedin"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 8"
+    },
+    {
+      "role": "heading",
+      "name": "Keep Social Share Icons In Floating Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add sticky social share icons on the right side of your website and enhance your user experience with scrolling effects at ease"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 9"
+    },
+    {
+      "role": "heading",
+      "name": "BOUNCE IN, PULSE GROW, FLOAT",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Display Social Shares In Circle Style With Animation Effects",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Present your social share icons in a circle style with custom height and margin and customize the background just the way you want. You will find ultimate styling options to make the Social Share block appealing to your visitors."
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Display Social Share Buttons In Round Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show social share buttons by customizing the height and width to get more engagement for your posts and increase visibility on the social platforms"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 10"
+    },
+    {
+      "role": "heading",
+      "name": "$ 29",
+      "level": 1
+    },
+    {
+      "role": "heading",
+      "name": "Enriched Hand & Body Wash",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 11"
+    },
+    {
+      "role": "heading",
+      "name": "(5 Customer Review)",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Affordable pearly-white, silky smooth body and hand wash, made from the goodness of natural elements to cleanse your skin thoroughly. Get rid of the daily dirt and germs and stay safe and healthy."
+    },
+    {
+      "role": "link",
+      "name": " Add to Cart"
+    },
+    {
+      "role": "link",
+      "name": "1"
+    },
+    {
+      "role": "heading",
+      "name": "SKU: Cosmetic4434",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Category: Bodycare",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Tags: Health, Skin care",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Share Now:",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 12"
+    },
+    {
+      "role": "heading",
+      "name": "Display Social Share Buttons In Round Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show social share buttons by customizing the height and width to get more engagement for your posts and increase visibility on the social platforms"
+    },
+    {
+      "role": "heading",
+      "name": "BOUNCE IN, PULSE GROW, FLOAT",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Upto 70% Discount",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get the best JBL speaker and find the smoothest hearing experience to change the mode of your small parties."
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 13"
+    },
+    {
+      "role": "image",
+      "name": "Social Share",
+      "description": "Social Share 14"
+    },
+    {
+      "role": "heading",
+      "name": "FLIP ANIMATION, BOBBLE",
+      "level": 6
+    },
+    {
+      "role": "heading",
+      "name": "Get Engaging Hover Effects For Social Share Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Apply hover effects on your social share icons from thousands of options and make the share buttons more interactive so that it attracts your visitors instantly"
+    },
+    {
+      "role": "heading",
+      "name": "Share:",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

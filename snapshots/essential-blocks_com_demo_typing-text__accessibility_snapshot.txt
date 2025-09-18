@@ -1,0 +1,374 @@
+{
+  "role": "WebArea",
+  "name": "Typing Text | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Typing Text 1"
+    },
+    {
+      "role": "heading",
+      "name": "Typing Text",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Lighten up your ordinary text to bring pleasure to your customer with Typing Text block. With interactive looping, fading & other animations, make a spectacular impression for your customers."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Typing Text",
+      "description": "Typing Text 2"
+    },
+    {
+      "role": "image",
+      "name": "Typing Text",
+      "description": "Typing Text 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Typing Text 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Typing Text 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Typing Text 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Typing Text 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Guide To Create A Typing Text",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Typing Text Effects In Gutenberg With Essential Blocks?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Create Animated Colored Texts",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Animate your website titles with versatile designs and customizations. Control proper type speed, add delay, back speed & back delay on your text",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Change Text Position & Typography",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Apply interactive color pallets on the prefix, typed text & suffix. Choose any typography that suits your style",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Give Your Interior"
+    },
+    {
+      "role": "heading",
+      "name": "Create Looped Typing Text",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Choose between 8+ interactive border styles. Articulate your box shadow with engaging color combinations with normal & hover effect",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Start Your Day With"
+    },
+    {
+      "role": "text",
+      "name": "Music"
+    },
+    {
+      "role": "heading",
+      "name": "Display Animated Text With Smart Backspace",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Text Animation Without Cursor attractive promo effects by creating amazing content for the audience and make your site outstanding",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Kickstart Your Own Startup",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Reach To Niche Customers",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With "
+    },
+    {
+      "role": "heading",
+      "name": "Skyrocket Sales",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Typing Text",
+      "description": "Typing Text 8"
+    },
+    {
+      "role": "heading",
+      "name": "Animate Suffix & Prefix Text",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Apply proper margin and padding on typing text for correct alignment. Maintain proper border radius for more perfection",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

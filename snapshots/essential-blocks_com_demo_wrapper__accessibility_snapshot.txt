@@ -1,0 +1,548 @@
+{
+  "role": "WebArea",
+  "name": "Wrapper | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Wrapper 1"
+    },
+    {
+      "role": "heading",
+      "name": "Wrapper",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show your brand information in an intriguing way with the Wrapper Block and decorate the wrapper any way you see fit. With background options & width control, persuade customers to visit your website for more content."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 2"
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Wrapper 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Wrapper 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Wrapper 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Wrapper 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Guide To Create A Block Wrapper",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Design Website In Gutenberg With Essential Blocks Wrapper"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Block Wrapper With Background Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add an interactive background image to design your content in an outstanding manner to make it more appealing. Pick your blend mode among 10 available options."
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 8"
+    },
+    {
+      "role": "heading",
+      "name": "0.2M+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Active Users",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 9"
+    },
+    {
+      "role": "heading",
+      "name": "0K+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Product Reviews",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 10"
+    },
+    {
+      "role": "heading",
+      "name": "0+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Total Products",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 11"
+    },
+    {
+      "role": "heading",
+      "name": "0+",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Awards Won",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "EB Wrapper Background Shape",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin."
+    },
+    {
+      "role": "heading",
+      "name": "EB Wrapper Background Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow"
+    },
+    {
+      "role": "heading",
+      "name": "EB Wrapper Background Gradient",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin."
+    },
+    {
+      "role": "heading",
+      "name": "Add Multiple EB Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow,"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Add icon links to your social media profiles and grow your audience with animated social icons Add icon links"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 12"
+    },
+    {
+      "role": "heading",
+      "name": "EB Wrapper Background Image",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick any background color and versatile shapes with interactive images to make your Wrapper look fascinating. Apply proper content width and margin."
+    },
+    {
+      "role": "heading",
+      "name": "Beautiful Versatile Shapes",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social icons Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience with animated social Add icon links to your social media profiles and grow Add icon links to your social media profiles and grow your audience"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Block Wrapper Overlay",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Apply an overlay effect on your background images and give our website a stunning look and appearance"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Wrapper",
+      "description": "Wrapper 13"
+    },
+    {
+      "role": "heading",
+      "name": "Block Wrapper Gradient Overlay",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose between radial or gradient color on your overlay effect and make it more amusing to your users"
+    },
+    {
+      "role": "link",
+      "name": "Wrapper"
+    },
+    {
+      "role": "link",
+      "name": "Wrapper"
+    },
+    {
+      "role": "heading",
+      "name": "Add HTML Anchor For Easy Navigation",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Easily set HTML Anchor tags for each Wrapper for easy navigation, hyperlink to other blocks, menus, etc. Long-form content can be navigated easier with anchor links, which can improve the user experience."
+    },
+    {
+      "role": "link",
+      "name": "Background Image"
+    },
+    {
+      "role": "link",
+      "name": "Background Shape"
+    },
+    {
+      "role": "link",
+      "name": "Gradient Overlay"
+    },
+    {
+      "role": "link",
+      "name": "Wrapper Overlay"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

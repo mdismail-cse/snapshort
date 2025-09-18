@@ -1,0 +1,438 @@
+{
+  "role": "WebArea",
+  "name": "Social Icons | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Social Icons 1"
+    },
+    {
+      "role": "heading",
+      "name": "Social Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Generate new leads displaying social media platforms vibrantly with Social Icons block. With versatile icon styles, shapes, and alignments, you can easily reach out to a wide range of audiences and engage them accordingly."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Social Icons",
+      "description": "Social Icons 2"
+    },
+    {
+      "role": "image",
+      "name": "Social Icons",
+      "description": "Social Icons 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Social Icons 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Social Icons 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Social Icons 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Social Icons 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Social Icons By Following This Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Social Profile Links In WordPress?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Social Share Circle Demo",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Customize social icons alignments and icons divider to place them in the proper section of your website to keep your content organized."
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Social Share Square Demo",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Attract your customer interest with interactive square-shaped social icons to boost your global fame as well as provide a sleek outlook"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Social Share Square With Hover Demo",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Generate new leads globally with an exciting hovering effect and various coloring options on your social icons"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Social Icons",
+      "description": "Social Icons 8"
+    },
+    {
+      "role": "heading",
+      "name": "Social Share Black Circle Demo",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With versatile styling, responsive layouts, and sleek black design make your social icons beautiful on any website you want"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Social Share With Shadow Effect",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Improve your site aesthetics in a trendy way with a wonderful shadow effect on your social icons and provide your users with a stunning experience"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

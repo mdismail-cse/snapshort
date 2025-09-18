@@ -1,0 +1,525 @@
+{
+  "role": "WebArea",
+  "name": "Openverse | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 1"
+    },
+    {
+      "role": "heading",
+      "name": "Openverse",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Access the Openverse library directly from your WordPress website & choose from 600 million+ royalty-free creative works In Gutenberg. Add stunning styles to images from Openverse & personalize them just the way you want."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 2"
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 3"
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Openverse",
+      "description": "Openverse 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "How To Use The Openverse Block In Gutenberg?",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Get Free Images For Site Using Essential Blocks Openverse?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Display Openverse Images In A Rounded Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Easily add royalty-free Openverse images to your website and showcase them in a stunning rounded style with customizations and proper attributions"
+    },
+    {
+      "role": "image",
+      "name": "Empire State Building from the Top of the Rock",
+      "description": "Openverse 8"
+    },
+    {
+      "role": "link",
+      "name": "Empire State Building from the Top of the Rock"
+    },
+    {
+      "role": "text",
+      "name": "By "
+    },
+    {
+      "role": "link",
+      "name": "jiuguangw"
+    },
+    {
+      "role": "text",
+      "name": "Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY-SA 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "heading",
+      "name": "Present Openverse Images In A Square Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show your Openverse images in a square style and customize to display the attribution in middle alignment with hover effects on your Gutenberg website"
+    },
+    {
+      "role": "image",
+      "name": "Lovely place",
+      "description": "Openverse 9"
+    },
+    {
+      "role": "link",
+      "name": "Lovely place"
+    },
+    {
+      "role": "text",
+      "name": " By "
+    },
+    {
+      "role": "link",
+      "name": "Natalia Romay Photography"
+    },
+    {
+      "role": "text",
+      "name": " Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY-NC-ND 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "heading",
+      "name": "Find Media Applying Versatile Filters",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get the most suitable content for your website from 600 million+ creative works by applying versatile filters without any hassle"
+    },
+    {
+      "role": "heading",
+      "name": "Show Openverse Images In A Circle Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Adjust the ‘Width’ and ‘Height’ of Openverse images and present them in a circle style to bring a unique outlook to your Gutenberg website"
+    },
+    {
+      "role": "image",
+      "name": "Sneakers",
+      "description": "Openverse 10"
+    },
+    {
+      "role": "link",
+      "name": "Sneakers"
+    },
+    {
+      "role": "text",
+      "name": " By "
+    },
+    {
+      "role": "link",
+      "name": "chixxx_studio"
+    },
+    {
+      "role": "text",
+      "name": " Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY-NC-ND 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "image",
+      "name": "MWC Barcelona 2013 - Sony SmartWatch",
+      "description": "Openverse 11"
+    },
+    {
+      "role": "link",
+      "name": "MWC Barcelona 2013 – Sony SmartWatch"
+    },
+    {
+      "role": "text",
+      "name": "By "
+    },
+    {
+      "role": "link",
+      "name": "Janitors"
+    },
+    {
+      "role": "text",
+      "name": "Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "heading",
+      "name": "Add Openverse Images In An Octagon Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Effortlessly fit your Openverse images with your website layout and showcase the open-source images in an octagon style with stylish borders & stunning colors"
+    },
+    {
+      "role": "heading",
+      "name": "Style Openverse Images In A Rhombus Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display your Openverse image in a rhombus style and make endless customization in your caption design to provide the best user experience to your visitors"
+    },
+    {
+      "role": "image",
+      "name": "Vans new 'wingtips era' sneakers",
+      "description": "Openverse 12"
+    },
+    {
+      "role": "link",
+      "name": "Vans new ‘wingtips era’ sneakers"
+    },
+    {
+      "role": "text",
+      "name": " By "
+    },
+    {
+      "role": "link",
+      "name": "rikomatic"
+    },
+    {
+      "role": "text",
+      "name": " Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY-NC-SA 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "image",
+      "name": "Abstract",
+      "description": "Openverse 13"
+    },
+    {
+      "role": "link",
+      "name": "Abstract"
+    },
+    {
+      "role": "text",
+      "name": " By "
+    },
+    {
+      "role": "link",
+      "name": "tanakawho"
+    },
+    {
+      "role": "text",
+      "name": " Is licensed under "
+    },
+    {
+      "role": "link",
+      "name": "BY-NC 2.0"
+    },
+    {
+      "role": "text",
+      "name": " ."
+    },
+    {
+      "role": "heading",
+      "name": "Customize Openverse Images In A Triangle Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Creatively present your Openverse images in a triangle style and add border shadow, background colors, or images to portray them beautifully"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

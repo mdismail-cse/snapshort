@@ -1,0 +1,753 @@
+{
+  "role": "WebArea",
+  "name": "Query Loop Builder | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Loop Builder",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Dynamic Content With Gutenberg Query Loop Builder",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create advanced, filterable content loops in Gutenberg with a powerful query builder, no custom coding needed & engage visitors of your website."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder | Essential Gutenberg Blocks for WordPress",
+      "description": "Query Loop Builder 23"
+    },
+    {
+      "role": "heading",
+      "name": "From Displaying Custom Posts To Filtering Content, Make Your Site Dynamic",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Personalize your content display with accuracy using custom taxonomies, authors, meta queries, and more to keep your audience interactive on your site."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 24"
+    },
+    {
+      "role": "heading",
+      "name": "Display Your Posts With Meta Data & Custom Taxonomy With A Fluid View",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "News"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over…"
+    },
+    {
+      "role": "text",
+      "name": "On"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "September 15, 2025"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Loop Builder in Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "Update"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg. From blog grids to product…"
+    },
+    {
+      "role": "text",
+      "name": "On"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "September 3, 2025"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "Tutorial"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "text",
+      "name": "On"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "August 27, 2025"
+    },
+    {
+      "role": "heading",
+      "name": "List Or Grid, Display Your Custom Post Types As Your Design Demands",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Featured Post",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "News"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over…"
+    },
+    {
+      "role": "text",
+      "name": "On"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "September 15, 2025"
+    },
+    {
+      "role": "heading",
+      "name": "Recent Post",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "text",
+      "name": "on "
+    },
+    {
+      "role": "text",
+      "name": "September 15, 2025"
+    },
+    {
+      "role": "link",
+      "name": "Loop Builder in Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on "
+    },
+    {
+      "role": "text",
+      "name": "September 3, 2025"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "text",
+      "name": "on "
+    },
+    {
+      "role": "text",
+      "name": "August 27, 2025"
+    },
+    {
+      "role": "link",
+      "name": "Improve Your Multilingual Website SEO"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "text",
+      "name": "on "
+    },
+    {
+      "role": "text",
+      "name": "August 13, 2025"
+    },
+    {
+      "role": "heading",
+      "name": "Your Blogs, Docs, Or Store Products Can Be Customized To Your Defined Layouts",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over…"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "News"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "link",
+      "name": "Loop Builder in Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg. From blog grids to product…"
+    },
+    {
+      "role": "link",
+      "name": "Update"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "Tutorial"
+    },
+    {
+      "role": "text",
+      "name": "1"
+    },
+    {
+      "role": "link",
+      "name": "2"
+    },
+    {
+      "role": "link",
+      "name": "3"
+    },
+    {
+      "role": "text",
+      "name": "…"
+    },
+    {
+      "role": "link",
+      "name": "57"
+    },
+    {
+      "role": "link",
+      "name": "Next"
+    },
+    {
+      "role": "heading",
+      "name": "Enhanced Query Controls Let You Display Content By Flexible Filters & Pagination",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over…"
+    },
+    {
+      "role": "link",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Loop Builder in Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "Update"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Improve Your Multilingual Website SEO"
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Query Loop Functionalities To Enhance Your Post Design Capabilities In Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Versatile Custom Post Type Query Support",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With Essential Blocks Loop builder, you can design stunning post view sections with your website blogs, webpages, documentations, templates, or other dynamic types."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 25"
+    },
+    {
+      "role": "heading",
+      "name": "Meta Query Conditions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Filter posts based on multiple complex query conditions by entering meta key, operators & type."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 26"
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 27"
+    },
+    {
+      "role": "heading",
+      "name": "Loop Pagination",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Dedicated inner block for handling numbered pagination functionality for easier navigation."
+    },
+    {
+      "role": "heading",
+      "name": "Flexible Wrapper Layouts",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Speed up your content loops design process with modular, flexible wrapper layouts."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 28"
+    },
+    {
+      "role": "heading",
+      "name": "Taxonomy Filters",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design your content query loops by highlighting tags, author, categories and more custom taxonomies."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 29"
+    },
+    {
+      "role": "heading",
+      "name": "Exclusive Ready Presets",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create stunning content loops and layouts in one click with pre-made templates without coding; skip designing from scratch."
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 30"
+    },
+    {
+      "role": "heading",
+      "name": "Alter Query Item Positions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "From meta description to feature image, categories, and authors, you can update every element’s position"
+    },
+    {
+      "role": "image",
+      "name": "Query Loop Builder",
+      "description": "Query Loop Builder 31"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

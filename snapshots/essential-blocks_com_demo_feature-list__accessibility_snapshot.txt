@@ -1,0 +1,773 @@
+{
+  "role": "WebArea",
+  "name": "Feature List | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Feature List 1"
+    },
+    {
+      "role": "heading",
+      "name": "Featured List",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display product features, information and any details beautifully with a stunning Feature List Block in Gutenberg. This useful block comes up with everything you will need to highlight features."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 2"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Feature List 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Feature List 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Feature List 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Feature List 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Tutorial To Create Feature List",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Display Information Beautifully In Gutenberg With A Feature List Block"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Square Shaped Stylish Feature List",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style the Feature List in different shapes and highlight features in the best possible way to grab the attention right away"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 8"
+    },
+    {
+      "role": "heading",
+      "name": "Expert Teachers",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "50+ highly skilled teachers from renowned universities"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 9"
+    },
+    {
+      "role": "heading",
+      "name": "Huge Resources",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Abundant study resources for our students"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 10"
+    },
+    {
+      "role": "heading",
+      "name": "Video Tutorials",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Visual learning tutorials for better learning experience"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 11"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 12"
+    },
+    {
+      "role": "heading",
+      "name": "Free Courses",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Free courses for the existing students and more"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 13"
+    },
+    {
+      "role": "heading",
+      "name": "Low Expense",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Best learning experience at the lowest possible expense"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 14"
+    },
+    {
+      "role": "heading",
+      "name": "Friendly Environment",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Friendly environment with recreational facilities"
+    },
+    {
+      "role": "heading",
+      "name": "Style Up The Feature List With Connectors",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make the feature list more vibrant with dotted, dashed, or solid connectors, and customize the colors of the connector as needed"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 15"
+    },
+    {
+      "role": "heading",
+      "name": "Non Sticky",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A non greasy formula is used to make this body mist that makes you feel fresh without leaving any stain."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 16"
+    },
+    {
+      "role": "heading",
+      "name": "Super Light",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "This lightweight mist easily gets absorbed in your skin and gets dry instantly for a more comfortable feeling."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 17"
+    },
+    {
+      "role": "heading",
+      "name": "Sweet Fragrance",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "The mild fragnance of this vanilla flavoured body mist is enough to make your day with a fresh splash."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 18"
+    },
+    {
+      "role": "heading",
+      "name": "Feature List With Customized Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Change the icon color, shape view , icon shapes and give the Feature List a beautiful outlook that best matches your website"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 19"
+    },
+    {
+      "role": "heading",
+      "name": "Lightweight & Flexible",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A very lightweight, flexible and handy gadget."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 20"
+    },
+    {
+      "role": "heading",
+      "name": "Internet Connection",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Connect with the internet and download any game."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 21"
+    },
+    {
+      "role": "heading",
+      "name": "Multiplayer Supported",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Involve multiple players without any interruption."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 22"
+    },
+    {
+      "role": "heading",
+      "name": "Display Information With Full Customization",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "This super useful block gives you full freedom to customize the borders, margin, padding and make your product features standout"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 23"
+    },
+    {
+      "role": "heading",
+      "name": "Touch-screen",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "High-end touch screen which is super swift and responsive."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 24"
+    },
+    {
+      "role": "heading",
+      "name": "Wired Headphones",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Wireless headphones with best sound quality and performance."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 25"
+    },
+    {
+      "role": "heading",
+      "name": "Security Camera",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Good resolution security camera and best quality interface."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 26"
+    },
+    {
+      "role": "heading",
+      "name": "Wireless Charging",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Wireless fast charging facility to charge it anywhere."
+    },
+    {
+      "role": "heading",
+      "name": "Present Features With Custom Images",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 27"
+    },
+    {
+      "role": "heading",
+      "name": "Eco Friendly",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 28"
+    },
+    {
+      "role": "heading",
+      "name": "Recyclable",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 29"
+    },
+    {
+      "role": "heading",
+      "name": "Lightweight & Handy",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Made from completely eco friendly elements & ingredients that do not harm the environment and are recyclable. So you won’t have to be concerned about it anymore."
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Features With Flexible Alignments",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase products with features and information in a beautiful way with full creativity and innovation to drive your viewers right away"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 30"
+    },
+    {
+      "role": "heading",
+      "name": "Lightweight & Flexible",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A very lightweight, flexible and handy gadget which is very easy to use."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 31"
+    },
+    {
+      "role": "heading",
+      "name": "Internet Connection",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Connect with the internet and download any game you want to play."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 32"
+    },
+    {
+      "role": "heading",
+      "name": "Multiplayer Supported",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Involve multiple players without any interruption and obstacles"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 33"
+    },
+    {
+      "role": "heading",
+      "name": "Lightweight & Flexible",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A very lightweight, flexible and handy gadget which is very easy to use."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 34"
+    },
+    {
+      "role": "heading",
+      "name": "Internet Connection",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Connect with the internet and download any game you want to play."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 35"
+    },
+    {
+      "role": "heading",
+      "name": "Multiplayer Supported",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Involve multiple players without any interruption and obstacles"
+    },
+    {
+      "role": "heading",
+      "name": "Highlight Features With Rhombus Shaped List",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display the feature lists with a rhombus shape to make them more stylish and customize them with different colors, icons, and much more."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 36"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 37"
+    },
+    {
+      "role": "heading",
+      "name": "No Added Preservatives",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "No preservatives have been added to this sauce. It contains no harmful preservatives rather completely natural ingredients"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 38"
+    },
+    {
+      "role": "heading",
+      "name": "No Artificial Coloring",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "No colors have been added to this sauce. It has no harmful preservatives, rather completely natural ingredients are used."
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 39"
+    },
+    {
+      "role": "heading",
+      "name": "No Added Sugar",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "No preservatives have been added to this sauce. It contains no harmful preservatives rather completely natural ingredients"
+    },
+    {
+      "role": "image",
+      "name": "Feature List",
+      "description": "Feature List 40"
+    },
+    {
+      "role": "heading",
+      "name": "No Artificial Flavors",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "EB Advanced Accordion will let you add beautiful accordions in your page posts, and anywhere. It also supports."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

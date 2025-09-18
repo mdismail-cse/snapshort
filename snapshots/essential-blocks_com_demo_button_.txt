@@ -1,0 +1,445 @@
+{
+  "role": "WebArea",
+  "name": "Button | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Button 1"
+    },
+    {
+      "role": "heading",
+      "name": "Button",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design your call to action section with beautiful Essential Blocks Buttons in Gutenberg. Make your site look outstanding with exclusive button styles and redirect visitors to a specific destination."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Button",
+      "description": "Button 2"
+    },
+    {
+      "role": "image",
+      "name": "Button",
+      "description": "Button 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Button 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Button 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Button 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Button 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Button By Following This Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Call To Action Button Using Gutenberg In One Click?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Design The Button Using Icons",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Try out the Default, Info, Success, Warning, or Danger button from the ‘Type’ dropdown and make website more interactive with Essential Blocks"
+    },
+    {
+      "role": "heading",
+      "name": "Rectangular Shape Button",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "Example 1"
+    },
+    {
+      "role": "heading",
+      "name": "Button With Left Icon",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": " Example 2"
+    },
+    {
+      "role": "heading",
+      "name": "Button With Right Icon",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "Example 3 "
+    },
+    {
+      "role": "heading",
+      "name": "Rounded Shape Button",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "Example 4"
+    },
+    {
+      "role": "heading",
+      "name": "Explore Gradient Color For Upbeat Look",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick gradient color mo de and make your website buttons more eye-catchy to attract your site visitors’ attention"
+    },
+    {
+      "role": "link",
+      "name": "Example 1"
+    },
+    {
+      "role": "link",
+      "name": "Example 5 "
+    },
+    {
+      "role": "link",
+      "name": " Example 9"
+    },
+    {
+      "role": "link",
+      "name": "Example 13"
+    },
+    {
+      "role": "link",
+      "name": "Example 2"
+    },
+    {
+      "role": "link",
+      "name": "Example 6 "
+    },
+    {
+      "role": "link",
+      "name": " Example 10"
+    },
+    {
+      "role": "link",
+      "name": "Example 14"
+    },
+    {
+      "role": "link",
+      "name": "Example 3"
+    },
+    {
+      "role": "link",
+      "name": "Example 7 "
+    },
+    {
+      "role": "link",
+      "name": " Example 11"
+    },
+    {
+      "role": "link",
+      "name": "Example 15"
+    },
+    {
+      "role": "link",
+      "name": "Example 4"
+    },
+    {
+      "role": "link",
+      "name": "Example 8 "
+    },
+    {
+      "role": "link",
+      "name": " Example 12"
+    },
+    {
+      "role": "link",
+      "name": "Example 16"
+    },
+    {
+      "role": "heading",
+      "name": "Configure Button Block With Flexible Customization",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display an outstanding Button for your call to action text with fully customizable options from general, style and advanced tabs of block settings"
+    },
+    {
+      "role": "link",
+      "name": "Example 1 "
+    },
+    {
+      "role": "image",
+      "name": "Button",
+      "description": "Button 8"
+    },
+    {
+      "role": "heading",
+      "name": "Create Unique Button With Text And Icon",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display unique call to action for your site visitors to grab their attention by customizing lots of options from the block setting panel"
+    },
+    {
+      "role": "link",
+      "name": " Example 1"
+    },
+    {
+      "role": "link",
+      "name": " Example 2"
+    },
+    {
+      "role": "link",
+      "name": "Example 3 "
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

@@ -1,0 +1,3667 @@
+{
+  "role": "WebArea",
+  "name": "Filterable Gallery | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Filterable Gallery",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Transform Media Gallery Into An Aesthetic Showcase With Filterable Gallery",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get outstanding design layouts to highlight the product prices better on your WooCommerce single product page. With this block, you can easily draw customers’ attention with customized pricing styles & boost sales."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 1"
+    },
+    {
+      "role": "heading",
+      "name": "Filter Gallery Images With Categories, Tags And Showcase Organizedly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "All Images"
+    },
+    {
+      "role": "text",
+      "name": "Wearables"
+    },
+    {
+      "role": "text",
+      "name": "Audio Gadgets"
+    },
+    {
+      "role": "text",
+      "name": "Accessories"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 2"
+    },
+    {
+      "role": "text",
+      "name": "SonicPods Pro"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 3"
+    },
+    {
+      "role": "text",
+      "name": "SnapPix One"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 4"
+    },
+    {
+      "role": "text",
+      "name": "Ivory Pulse"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 5"
+    },
+    {
+      "role": "text",
+      "name": "EchoMax Pro"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 6"
+    },
+    {
+      "role": "text",
+      "name": "Obsidian Edge"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 7"
+    },
+    {
+      "role": "text",
+      "name": "SonicWave 360"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 8"
+    },
+    {
+      "role": "text",
+      "name": "AeroVision X1"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 9"
+    },
+    {
+      "role": "text",
+      "name": "ClearTone Ultra"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 10"
+    },
+    {
+      "role": "text",
+      "name": "AeroVision X1"
+    },
+    {
+      "role": "text",
+      "name": "Image Not Found! Try Again"
+    },
+    {
+      "role": "heading",
+      "name": "Turn Your Image Gallery Into A Flipbook & Display Details Altogether",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "All"
+    },
+    {
+      "role": "text",
+      "name": "Mountains"
+    },
+    {
+      "role": "text",
+      "name": "Tropical"
+    },
+    {
+      "role": "text",
+      "name": "Heritage"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 11"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Island Escape"
+    },
+    {
+      "role": "text",
+      "name": "Relax on pristine beaches with stunning views."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 12"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Explore lush jungles and vibrant coastal areas."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 13"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Relax amidst tranquil mountain landscapes."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 14"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Discover UNESCO sites and rich heritage tours."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 15"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Adventure-packed journey to breathtaking peaks."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 16"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Discover ancient fortresses and breathtaking views."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 17"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Adventure-packed journey to breathtaking peaks."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 18"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Discover ancient fortresses and breathtaking views."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 19"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Discover UNESCO sites and rich heritage tours."
+    },
+    {
+      "role": "text",
+      "name": "Image Not Found! Try Again"
+    },
+    {
+      "role": "heading",
+      "name": "Provide Easy Navigation To Your Gallery Block With A Search & Filter",
+      "level": 2
+    },
+    {
+      "role": "searchbox",
+      "name": "Search Here..."
+    },
+    {
+      "role": "button",
+      "name": "All"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 20"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Savory Feast"
+    },
+    {
+      "role": "text",
+      "name": "Loaded with peanut butter, apple jam, freshly baked bread."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 21"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Spinach Pasta"
+    },
+    {
+      "role": "text",
+      "name": "Healthy, flavorful pasta with spinach goodness."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 22"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Spaghetti Marinara"
+    },
+    {
+      "role": "text",
+      "name": "Classic pasta with rich white sauce."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 23"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Herb Saslik"
+    },
+    {
+      "role": "text",
+      "name": "Juicy skewered meat with aromatic garlic seasoning."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 24"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Delight Pizza"
+    },
+    {
+      "role": "text",
+      "name": "Fresh tomatoes, basil, and mozzarella perfection."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 25"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Beast Burger"
+    },
+    {
+      "role": "text",
+      "name": "Stacked with juicy patties, melted cheese."
+    },
+    {
+      "role": "text",
+      "name": "Image Not Found! Try Again"
+    },
+    {
+      "role": "heading",
+      "name": "Make A Harmonious Rhythm Using The Advanced Grid View Gallery",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 26"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 27"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 28"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 29"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 30"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 31"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 32"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 33"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 34"
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Golden Hour Portrait",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "half-body"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "portrait"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "capturing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "subject’s"
+    },
+    {
+      "role": "text",
+      "name": "radiant"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "smile"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "under"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "warm"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "hues"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": "setting"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "sun,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "highlighting"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "natural"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "beauty"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": "soft,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "golden"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "lighting"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "for"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "timeless"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "portrait."
+    },
+    {
+      "role": "heading",
+      "name": "Mystic Gaze",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "headshot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "featuring"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "piercing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "eyes"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "traditional"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "scarf,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "creating"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "mystery"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": "soft,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "dramatic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "shadows"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "minimalist,"
+    },
+    {
+      "role": "text",
+      "name": "monochromatic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "backdrop"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "for"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "added"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "depth"
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "intrigue."
+    },
+    {
+      "role": "heading",
+      "name": "Eclipsed Gaze",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "captivating"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "headshot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "man"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "glaring"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "at"
+    },
+    {
+      "role": "text",
+      "name": "you"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "upfront"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "black"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "backdrop,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "highlighting"
+    },
+    {
+      "role": "text",
+      "name": "sharp"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "features"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "confident"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "pose"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": "dramatic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "lighting"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "accents."
+    },
+    {
+      "role": "heading",
+      "name": "Adventurer’s Essence",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "captivating"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "outdoor"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "shot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "featuring"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "wanderer"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "amidst"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "scenic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "backdrop,"
+    },
+    {
+      "role": "text",
+      "name": "blending"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "human"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "emotion"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "nature’s"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "raw"
+    },
+    {
+      "role": "text",
+      "name": "beauty,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "emphasizing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "thrill"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "exploration"
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "connection"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "environment."
+    },
+    {
+      "role": "heading",
+      "name": "Through the Window",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "captivating"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "shot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "taken"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "from"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "outside"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": "train,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "capturing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "engine"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "driver"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "holding"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "walkie-talkie"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "through"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "window,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "framed"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "train’s"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "body,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "evoking"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "sense"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": "movement"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "purpose."
+    },
+    {
+      "role": "heading",
+      "name": "Abstract Focus",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "creative"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "close-up"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "capturing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "half"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": "subject’s"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "face"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "bold"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "eyeliner"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "unique"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "hairstyle,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "blending"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "artistic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "flair"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": "high-fashion"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "editorial"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "aesthetics"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "for"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "standout"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "portfolio"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "piece."
+    },
+    {
+      "role": "heading",
+      "name": "Whispered Grace",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "captivating"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "shot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "girl"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "wearing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "hat,"
+    },
+    {
+      "role": "text",
+      "name": "her"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "head"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "tilted"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "slightly,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "exuding"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "elegance"
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "soft"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "lighting"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "serene"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "expression."
+    },
+    {
+      "role": "heading",
+      "name": "Urban Elegance",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "stunning"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "close-up"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "featuring"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "subject"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "in"
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "stylish"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "urban"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "setting,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "showcasing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "their"
+    },
+    {
+      "role": "text",
+      "name": "confident"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "pose,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "complementing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "attire,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "dynamic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "interplay"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "of"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "light"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "shadows"
+    },
+    {
+      "role": "text",
+      "name": "in"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "background."
+    },
+    {
+      "role": "heading",
+      "name": "Bold Vision",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "striking"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "headshot"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "featuring"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "woman"
+    },
+    {
+      "role": "text",
+      "name": "confidently"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "gazing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "through"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "monocular"
+    },
+    {
+      "role": "text",
+      "name": "pointed"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "at"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "camera,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "exuding"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "mystery"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": "elegance"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "perfectly"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "composed"
+    },
+    {
+      "role": "text",
+      "name": "backdrop"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "sharp"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "focus."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 35"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 36"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 37"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 38"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 39"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 40"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 41"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 42"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 43"
+    },
+    {
+      "role": "heading",
+      "name": "Bring Out The Retro Appearance To Photo Gallery With New Presets",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pop"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 44"
+    },
+    {
+      "role": "text",
+      "name": "Catchy melodies and mainstream appeal."
+    },
+    {
+      "role": "text",
+      "name": "Rock"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 45"
+    },
+    {
+      "role": "text",
+      "name": "Energetic rhythms with powerful guitar riffs."
+    },
+    {
+      "role": "text",
+      "name": "Jazz"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 46"
+    },
+    {
+      "role": "text",
+      "name": "Improvised tunes with smooth instrumentals."
+    },
+    {
+      "role": "text",
+      "name": "Classical"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 47"
+    },
+    {
+      "role": "text",
+      "name": "A city is more than a place in space, it is a drama in time."
+    },
+    {
+      "role": "text",
+      "name": "Electronic"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 48"
+    },
+    {
+      "role": "text",
+      "name": "Synthesized beats for modern, upbeat tracks."
+    },
+    {
+      "role": "text",
+      "name": "Classical"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 49"
+    },
+    {
+      "role": "text",
+      "name": "Orchestral music with timeless compositions."
+    },
+    {
+      "role": "text",
+      "name": "Reggae"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 50"
+    },
+    {
+      "role": "text",
+      "name": "Relaxed rhythms with Jamaican influences."
+    },
+    {
+      "role": "text",
+      "name": "Blues"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 51"
+    },
+    {
+      "role": "text",
+      "name": "Soulful music expressing deep emotions."
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 44"
+    },
+    {
+      "role": "heading",
+      "name": "Pop",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Catchy"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "melodies"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "and"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "mainstream"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "appeal."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 45"
+    },
+    {
+      "role": "heading",
+      "name": "Rock",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Energetic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "rhythms"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "powerful"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "guitar"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "riffs."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 46"
+    },
+    {
+      "role": "heading",
+      "name": "Jazz",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Improvised"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "tunes"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "smooth"
+    },
+    {
+      "role": "text",
+      "name": "instrumentals."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 47"
+    },
+    {
+      "role": "heading",
+      "name": "Classical",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "city"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "is"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "more"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "than"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "place"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "in"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "space,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "it"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "is"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "a"
+    },
+    {
+      "role": "text",
+      "name": "drama"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "in"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "time."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 48"
+    },
+    {
+      "role": "heading",
+      "name": "Electronic",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Synthesized"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "beats"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "for"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "modern,"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "upbeat"
+    },
+    {
+      "role": "text",
+      "name": "tracks."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 49"
+    },
+    {
+      "role": "heading",
+      "name": "Classical",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Orchestral"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "music"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "timeless"
+    },
+    {
+      "role": "text",
+      "name": "compositions."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 50"
+    },
+    {
+      "role": "heading",
+      "name": "Reggae",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Relaxed"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "rhythms"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "Jamaican"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "influences."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 51"
+    },
+    {
+      "role": "heading",
+      "name": "Blues",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Soulful"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "music"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "expressing"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "deep"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "emotions."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 52"
+    },
+    {
+      "role": "heading",
+      "name": "R&B",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Smooth"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "vocals"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "rhythmic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "grooves."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 53"
+    },
+    {
+      "role": "heading",
+      "name": "Folk",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Traditional"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "tunes"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "cultural"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "roots."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 54"
+    },
+    {
+      "role": "heading",
+      "name": "Metal",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Intense"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "music"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "heavy"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "guitar"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "sounds."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 55"
+    },
+    {
+      "role": "heading",
+      "name": "Country",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Storytelling"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "songs"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "with"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "acoustic"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "vibes."
+    },
+    {
+      "role": "button",
+      "name": "Load More"
+    },
+    {
+      "role": "heading",
+      "name": "Bring Out The Retro Appearance To Photo Gallery With New Presets",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "All"
+    },
+    {
+      "role": "text",
+      "name": "Moisturizers"
+    },
+    {
+      "role": "text",
+      "name": "Serums"
+    },
+    {
+      "role": "text",
+      "name": "Exfoliators"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 68"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "GlowRadiance Serum"
+    },
+    {
+      "role": "text",
+      "name": "Brightens skin and reduces dark spots."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 69"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Body Wash Set"
+    },
+    {
+      "role": "text",
+      "name": "Lightweight formula for smooth, nourished skin."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 70"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "PureGlow Scrub"
+    },
+    {
+      "role": "text",
+      "name": "Gently removes dead skin for radiance."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 71"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "SmoothEssence Exfoliator"
+    },
+    {
+      "role": "text",
+      "name": "Refines texture and brightens dull skin."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 72"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "HydraGlow Cream"
+    },
+    {
+      "role": "text",
+      "name": "Deep hydration for soft, radiant skin."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 73"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "RevivaMoist Balm"
+    },
+    {
+      "role": "text",
+      "name": "Restores moisture and rejuvenates dry skin."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 74"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "AgeDefy Serum"
+    },
+    {
+      "role": "text",
+      "name": "Firms and smooths fine lines effectively."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 75"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "FreshSkin Polish"
+    },
+    {
+      "role": "text",
+      "name": "Exfoliates deeply, leaving skin refreshed and smooth."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 76"
+    },
+    {
+      "role": "link",
+      "name": "+"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "HydraBoost Serum"
+    },
+    {
+      "role": "text",
+      "name": "Deeply nourishes and locks in moisture."
+    },
+    {
+      "role": "text",
+      "name": "Image Not Found! Try Again"
+    },
+    {
+      "role": "heading",
+      "name": "Create A Clean And Sleek Filterable Gallery With Exclusive Features",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Search Within Gallery",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Use search and filter functionality within the gallery, to quickly locate specific images by names, tags, or categories. Ensuring efficient navigation and enhancing content discoverability."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 77"
+    },
+    {
+      "role": "heading",
+      "name": "Images Lightbox Preview",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Enable an interactive lightbox feature to display images in a full-screen mode. This allows you to view high-resolution images without leaving the page."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 78"
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 79"
+    },
+    {
+      "role": "heading",
+      "name": "Drag & Rearrange Items",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Organize your WordPress gallery block effortlessly by dragging and rearranging gallery items."
+    },
+    {
+      "role": "image",
+      "name": "Filterable Gallery",
+      "description": "Filterable Gallery 80"
+    },
+    {
+      "role": "heading",
+      "name": "Load More, Captions, Hover Effects And Links",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display images in gallery with captions, hover effects links and load more options, letting them be right in fingertip distance."
+    },
+    {
+      "role": "heading",
+      "name": "Learn How The Filterable Gallery Works In Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Still Need Help? Reach out to our dedicated support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    }
+  ]
+}

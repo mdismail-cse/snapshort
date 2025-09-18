@@ -1,0 +1,989 @@
+{
+  "role": "WebArea",
+  "name": "Team Member | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Team Member",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Shine The Spotlight On Your Teammates With Team Members Block",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Introduce the individuals from your team on your Gutenberg website with stunning layouts and detailed information. Customize avatars, fonts, colors, and social profiles effortlessly for enhanced personalization."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Team Member",
+      "description": "Team Member 1"
+    },
+    {
+      "role": "image",
+      "name": "Emma Oliviana",
+      "description": "Team Member 2"
+    },
+    {
+      "role": "heading",
+      "name": "Emma Oliviana",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "UX UI Designer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Charlotte Ava",
+      "description": "Team Member 3"
+    },
+    {
+      "role": "heading",
+      "name": "Charlotte Ava",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Digital Marketer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Benjamin",
+      "description": "Team Member 4"
+    },
+    {
+      "role": "heading",
+      "name": "Benjamin",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "CTO XYZ Company",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Isabella Amelia",
+      "description": "Team Member 5"
+    },
+    {
+      "role": "heading",
+      "name": "Isabella Amelia",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Web Developer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Emma Oliviana",
+      "description": "Team Member 6"
+    },
+    {
+      "role": "heading",
+      "name": "Emma Oliviana",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "UX UI Designer",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A create developer, graduated from MIT, has many award winning WordPress projects"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Charlotte Ava",
+      "description": "Team Member 7"
+    },
+    {
+      "role": "heading",
+      "name": "Charlotte Ava",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Digital Marketer",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A video expert, graduated from MIT, has many award winning video projects"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Benjamin",
+      "description": "Team Member 8"
+    },
+    {
+      "role": "heading",
+      "name": "Benjamin",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Web Developer",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A PHP genius, graduated from MIT, has many award winning PHP projects"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Ethan White",
+      "description": "Team Member 9"
+    },
+    {
+      "role": "heading",
+      "name": "Digital Marketer",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Ethan White",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A seasoned digital marketer, leverages innovative strategies to enhance online presence. His creativity drives successful campaigns."
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "LinkedIn"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Emma Brooks",
+      "description": "Team Member 10"
+    },
+    {
+      "role": "heading",
+      "name": "Product Designer",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Emma Brooks",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A visionary product designer, combines aesthetics with functionality. Her designs seamlessly blend user experience, creating captivating products."
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "LinkedIn"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Esther Howard",
+      "description": "Team Member 11"
+    },
+    {
+      "role": "heading",
+      "name": "Digital Marketer",
+      "level": 4
+    },
+    {
+      "role": "heading",
+      "name": "Esther Howard",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "A skilled motion designer, crafts dynamic visual narratives. His creativity in animation brings ideas to life with captivating motion."
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "LinkedIn"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Avery Parker",
+      "description": "Team Member 12"
+    },
+    {
+      "role": "heading",
+      "name": "Avery Parker",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Graphic Designer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Esther Howard",
+      "description": "Team Member 13"
+    },
+    {
+      "role": "heading",
+      "name": "Esther Howard",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Motion Designer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Emma Brooks",
+      "description": "Team Member 14"
+    },
+    {
+      "role": "heading",
+      "name": "Emma Brooks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Product Designers",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Ethan White",
+      "description": "Team Member 15"
+    },
+    {
+      "role": "heading",
+      "name": "Ethan White",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Digital Marketer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Carter Nguyen",
+      "description": "Team Member 16"
+    },
+    {
+      "role": "heading",
+      "name": "Carter Nguyen",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Cybersecurity Analyst",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Casey Murphy",
+      "description": "Team Member 17"
+    },
+    {
+      "role": "heading",
+      "name": "Casey Murphy",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Technical Writer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Ryan Walker",
+      "description": "Team Member 18"
+    },
+    {
+      "role": "heading",
+      "name": "Ryan Walker",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "QA Tester",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Riley Thompson",
+      "description": "Team Member 19"
+    },
+    {
+      "role": "heading",
+      "name": "Riley Thompson",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Mobile App Developer",
+      "level": 4
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Facebook"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Twitter"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "Instagram"
+    },
+    {
+      "role": "link",
+      "name": "",
+      "description": "YouTube"
+    },
+    {
+      "role": "image",
+      "name": "Esther Howard",
+      "description": "Team Member 20"
+    },
+    {
+      "role": "heading",
+      "name": "Esther Howard",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Motion Designer",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A skilled motion designer, crafts dynamic visual narratives. His creativity in animation brings ideas to life with captivating motion."
+    },
+    {
+      "role": "link",
+      "name": " Facebook"
+    },
+    {
+      "role": "link",
+      "name": " Twitter"
+    },
+    {
+      "role": "link",
+      "name": " LinkedIn"
+    },
+    {
+      "role": "image",
+      "name": "Casey Murphy",
+      "description": "Team Member 21"
+    },
+    {
+      "role": "heading",
+      "name": "Casey Murphy",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Technical Writer",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A meticulous technical writer, distills complex concepts into clear documentation. Her clarity enhances user understanding and product usability."
+    },
+    {
+      "role": "link",
+      "name": " Facebook"
+    },
+    {
+      "role": "link",
+      "name": " Twitter"
+    },
+    {
+      "role": "link",
+      "name": " LinkedIn"
+    },
+    {
+      "role": "image",
+      "name": "Jordan Patel",
+      "description": "Team Member 22"
+    },
+    {
+      "role": "heading",
+      "name": "Jordan Patel",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Data Analyst",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": "A skilled data analyst, employs statistical insights to unravel trends and enhance business strategies."
+    },
+    {
+      "role": "link",
+      "name": " Facebook"
+    },
+    {
+      "role": "link",
+      "name": " Twitter"
+    },
+    {
+      "role": "link",
+      "name": " LinkedIn"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

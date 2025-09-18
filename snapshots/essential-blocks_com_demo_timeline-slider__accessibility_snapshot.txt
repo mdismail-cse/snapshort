@@ -1,0 +1,710 @@
+{
+  "role": "WebArea",
+  "name": "Timeline Slider | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Timeline Slider 1"
+    },
+    {
+      "role": "heading",
+      "name": "Timeline Slider",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your growth, accomplishments, or product updates in a fascinating way with the Timeline Slider Block from Essential Blocks. Use three attractive Style presets and reveal the fascinating chapters of your progress."
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "Timeline Slider",
+      "description": "Timeline Slider 2"
+    },
+    {
+      "role": "image",
+      "name": "Timeline Slider",
+      "description": "Timeline Slider 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Timeline Slider 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Timeline Slider 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Timeline Slider 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Timeline Slider 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Tutorial To Use EB Timeline Slider",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add A Timeline Slider Block In Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Preset Style 1 With A Mesmerizing Chronicle",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show the journey through captivating milestones, unfolding stories that you can show with slides in an engaging manner."
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "21 May 2023"
+        },
+        {
+          "role": "heading",
+          "name": "90k+ Active Installations",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "12 April 2023"
+        },
+        {
+          "role": "heading",
+          "name": "New Blocks Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "24 May 2023"
+        },
+        {
+          "role": "heading",
+          "name": "New Release: Pro Version",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "21 May 2023"
+        },
+        {
+          "role": "heading",
+          "name": "WordPress 6.2 Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "6 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Preset Style 2 With Interactive Timeline Slider",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Let the audience dive deep into the past, present, and future, showing engaging advancements that leave your audience craving more."
+    },
+    {
+      "role": "button",
+      "name": "Previous"
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Blocks Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Jan 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "WordPress 6.2 Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "90k+ Active Installations",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Mar 29, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "WordPress 6.2 Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Apr 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Next"
+    },
+    {
+      "role": "heading",
+      "name": "Preset Style 3 To Ignite Audience’s Curiosity",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Explore the evolution of ideas, innovations, and experiences in a visually interactive way to capture the attention of the visitors"
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "90K+ ACTIVE INSTALLATIONS",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "21 May 2023"
+        },
+        {
+          "role": "text",
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "NEW BLOCKS RELEASED",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "12 April 2023"
+        },
+        {
+          "role": "text",
+          "name": "Development"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "NEW RELEASE: PRO VERSION",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "24 May 2023"
+        },
+        {
+          "role": "text",
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "80K ACTIVE INSTALLATIONS",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 months, we have crossed another milestone – 80K happy users are"
+        },
+        {
+          "role": "text",
+          "name": "Apr 19, 2023"
+        },
+        {
+          "role": "text",
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "6 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Customized Style To Engage The Visitors",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Customize the timeline slider with attractive colors and highlight your progress in a mesmerizing chronicle that engages the viewers."
+    },
+    {
+      "role": "button",
+      "name": "Previous"
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Blocks Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Jan 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "WordPress 6.2 Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "90k+ Active Installations",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Mar 29, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "WordPress 6.2 Released",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": "Apr 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Next"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "role": "WebArea",
+  "name": "Advanced Search | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Search 1"
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Search",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Enhance user experience on your site by using the Advanced Search block for Gutenberg from Essential Blocks. Explore a diverse range of interactive layouts and styles that seamlessly integrate into your website."
+    },
+    {
+      "role": "link",
+      "name": "Get Started Now "
+    },
+    {
+      "role": "image",
+      "name": "Advanced Search",
+      "description": "Advanced Search 2"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks advanced search",
+      "description": "Advanced Search 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Search 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Search 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Search 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Advanced Search 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Guide To Configure Advanced Search",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Configure Advanced Search Block Of Essential Blocks?"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Classic Layout With Taxonomy Filter",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Streamline your search results effortlessly with the intuitive Taxonomy Filter in the Classic Layout of Essential Blocks advanced search block"
+    },
+    {
+      "role": "searchbox",
+      "name": "Search ...."
+    },
+    {
+      "role": "button",
+      "name": "Search"
+    },
+    {
+      "role": "heading",
+      "name": "Classic Layout Showing Total Results",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Stay informed & empowered with the Classic Layout showcasing Total Results with Essential Blocks, ensuring you never miss a single search result"
+    },
+    {
+      "role": "searchbox",
+      "name": "Search ...."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "combobox",
+      "name": "",
+      "haspopup": "menu",
+      "children": [
+        {
+          "role": "option",
+          "name": "All Categories",
+          "selected": true
+        },
+        {
+          "role": "option",
+          "name": "Announcement"
+        },
+        {
+          "role": "option",
+          "name": "Gutenberg"
+        },
+        {
+          "role": "option",
+          "name": "News"
+        },
+        {
+          "role": "option",
+          "name": "Tutorial"
+        },
+        {
+          "role": "option",
+          "name": "Uncategorized"
+        },
+        {
+          "role": "option",
+          "name": "Update"
+        },
+        {
+          "role": "option",
+          "name": "WordPress"
+        }
+      ],
+      "value": "All Categories"
+    },
+    {
+      "role": "button",
+      "name": " Search"
+    },
+    {
+      "role": "heading",
+      "name": "Modern Layout With Viewing All Button",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Unlock a seamless browsing experience with the Modern Layout’s Viewing All Button, granting you quick & effortless access to explore all search results"
+    },
+    {
+      "role": "searchbox",
+      "name": "Search ...."
+    },
+    {
+      "role": "heading",
+      "name": "Modern Layout Showing All Content Images",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Immerse yourself in a visually rich search experience with the Modern Layout, featuring the inclusion of captivating content images in the Advanced Search of Essential Blocks"
+    },
+    {
+      "role": "searchbox",
+      "name": "Search ...."
+    },
+    {
+      "role": "heading",
+      "name": "Modern Layout Showcasing Custom Post Types",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Discover the power of Essential Blocks’ Advanced Search feature to effortlessly navigate and explore your custom post types."
+    },
+    {
+      "role": "searchbox",
+      "name": "Search ...."
+    },
+    {
+      "role": "button",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

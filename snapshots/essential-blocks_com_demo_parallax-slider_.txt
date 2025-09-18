@@ -1,0 +1,448 @@
+{
+  "role": "WebArea",
+  "name": "Parallax Slider | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Parallax Slider 1"
+    },
+    {
+      "role": "heading",
+      "name": "Parallax Slider",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add motion effects to your website with the Parallax Slider block from Essential Blocks & make your website lively. Using this interactive block, you can easily keep your visitors engaged with your website and reduce bounce rates at ease."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 2"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Parallax Slider 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Parallax Slider 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Parallax Slider 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Parallax Slider 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Parallax Slider",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add Stunning Motion Effects With Parallax Slider In WordPress"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Parallax Slider With Ultimate Styles",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Engage your audiences with dynamic content and lead them to your call to action buttons to boost up your conversions using Parallax Slider Block in Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 8"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 9"
+    },
+    {
+      "role": "heading",
+      "name": "Sneaker Max 2216 – On Sale",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": "Get Now"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 10"
+    },
+    {
+      "role": "heading",
+      "name": "Numerous Customizing Options",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Grab instant attention of your visitors with Parallax Slider block from Essential Block and drive them to your CTA buttons by adding powerful copies"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 11"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 12"
+    },
+    {
+      "role": "button",
+      "name": "Buy Now"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 13"
+    },
+    {
+      "role": "heading",
+      "name": "Parallax Border Customization",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your image just the way you want while adding motion effects to your website and make your visitors interested to click your CTA buttons"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 14"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 15"
+    },
+    {
+      "role": "heading",
+      "name": "Slider 2",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": "Grab Now"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 16"
+    },
+    {
+      "role": "heading",
+      "name": "Stunning Custom Background",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Design customized backgrounds with unlimited coloring options and highlight your content easily with Parallax Slider block from Essential Blocks"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 17"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 18"
+    },
+    {
+      "role": "heading",
+      "name": "Slider 2",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": "Buy Now"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 19"
+    },
+    {
+      "role": "heading",
+      "name": "Amazing Custom Background Overlay",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add stunning background overly on your images using Parallax Slider from Essential Blocks and attract your visitors instantly with motion effects"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 20"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 21"
+    },
+    {
+      "role": "heading",
+      "name": "Slider 2",
+      "level": 2
+    },
+    {
+      "role": "button",
+      "name": "Button"
+    },
+    {
+      "role": "image",
+      "name": "Parallax Slider",
+      "description": "Parallax Slider 22"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

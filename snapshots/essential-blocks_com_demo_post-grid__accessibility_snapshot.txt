@@ -1,0 +1,1039 @@
+{
+  "role": "WebArea",
+  "name": "Post Grid | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Post Grid 1"
+    },
+    {
+      "role": "heading",
+      "name": "Post Grid",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display all exciting blogs on your website with stunning appearance using Post Grid of Essential Blocks for Gutenberg. Make your blog page or posts look outstanding with stunning and interactive visualization for your blogs in versatile layouts."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Post Grid",
+      "description": "Post Grid 2"
+    },
+    {
+      "role": "image",
+      "name": "Post Grid",
+      "description": "Post Grid 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Post Grid 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Post Grid 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Post Grid 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Post Grid 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Create Post Grid By Following Easy Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Custom Post Grids In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Display Post Grid With Default Layout Style 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your latest blogs with an interactive post grid showing category, author name, and author image on the website landing page"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites",
+      "description": "Post Grid 8"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "News"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "Loop Builder in Essential Blocks",
+      "description": "Post Grid 10"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "Update"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg."
+    },
+    {
+      "role": "link",
+      "name": "Abdullah Mamun"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Abdullah Mamun"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "image",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?",
+      "description": "Post Grid 12"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "Tutorial"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "link",
+      "name": "Fatin"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Fatin"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "image",
+      "name": "Improve Your Multilingual Website SEO",
+      "description": "Post Grid 14"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "link",
+      "name": "Guide"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "text",
+      "name": "Use multilingual website SEO to expand your reach internationally and learn best practices that will"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "image",
+      "name": "Otter vs Essential Blocks: Choose Best Gutenberg Library for Your Website",
+      "description": "Post Grid 16"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "text",
+      "name": "Otter vs Essential Blocks – which Gutenberg block library should you pick for your WordPress"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "gutenberg ai image generator",
+      "description": "Post Grid 18"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg",
+      "description": "[New] Introducing AI Image Generator in Essential Blocks - Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Announcement"
+    },
+    {
+      "role": "link",
+      "name": "Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Update"
+    },
+    {
+      "role": "link",
+      "name": "WordPress"
+    },
+    {
+      "role": "text",
+      "name": "Introducing the AI Image Generator in Essential Blocks—an innovative tool for creating high-quality, customized images"
+    },
+    {
+      "role": "link",
+      "name": "Shahidul Islam"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Shahidul Islam"
+    },
+    {
+      "role": "heading",
+      "name": "Highlight Taxonomy In Post Grid",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your post and pages categories, post types, tags, keywords, etc Taxonomies filter to feature important ones on your website with absolute ease"
+    },
+    {
+      "role": "text",
+      "name": "All"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "Tutorial"
+    },
+    {
+      "role": "text",
+      "name": "News"
+    },
+    {
+      "role": "text",
+      "name": "WordPress"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites",
+      "description": "Post Grid 8"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "text",
+      "name": "on September 15, 2025"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "8 minutes read"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+ WordPress websites worldwide. With over"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "Loop Builder in Essential Blocks",
+      "description": "Post Grid 10"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on September 3, 2025"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "8 minutes read"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg. From blog grids to product"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "image",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?",
+      "description": "Post Grid 12"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "text",
+      "name": "on August 27, 2025"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "9 minutes read"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Preset 2 & Customize General Settings",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Configure the post grid and showcase it on your website landing page with the date, also customize the excerpt size accordingly"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "image",
+      "name": "Improve Your Multilingual Website SEO",
+      "description": "Post Grid 14"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "text",
+      "name": "on August 13, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Use multilingual website SEO to expand your reach internationally and learn best practices that will help you rank higher and"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "image",
+      "name": "Otter vs Essential Blocks: Choose Best Gutenberg Library for Your Website",
+      "description": "Post Grid 16"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "text",
+      "name": "on August 6, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Otter vs Essential Blocks – which Gutenberg block library should you pick for your WordPress site? Discover their key differences,"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "gutenberg ai image generator",
+      "description": "Post Grid 18"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg",
+      "description": "[New] Introducing AI Image Generator in Essential Blocks - Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on July 29, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Introducing the AI Image Generator in Essential Blocks—an innovative tool for creating high-quality, customized images in seconds directly within Gutenberg."
+    },
+    {
+      "role": "link",
+      "name": "Shahidul Islam"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Shahidul Islam"
+    },
+    {
+      "role": "button",
+      "name": "<",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "name": "1"
+    },
+    {
+      "role": "button",
+      "name": "2"
+    },
+    {
+      "role": "button",
+      "name": "3"
+    },
+    {
+      "role": "button",
+      "name": "..."
+    },
+    {
+      "role": "button",
+      "name": "57"
+    },
+    {
+      "role": "button",
+      "name": ">"
+    },
+    {
+      "role": "heading",
+      "name": "Create Post Grid With Layout Style 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style Post Grid by showcasing date, author name, and author image, also add a ‘Load More’ button to give a CTA to the audience"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "Loop Builder in Essential Blocks",
+      "description": "Post Grid 10"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on September 3, 2025"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg."
+    },
+    {
+      "role": "link",
+      "name": "Abdullah Mamun"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Abdullah Mamun"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "image",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?",
+      "description": "Post Grid 12"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "text",
+      "name": "on August 27, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "link",
+      "name": "Fatin"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Fatin"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "image",
+      "name": "Improve Your Multilingual Website SEO",
+      "description": "Post Grid 14"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "text",
+      "name": "on August 13, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Use multilingual website SEO to expand your reach internationally and learn best practices that will"
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "text",
+      "name": "by "
+    },
+    {
+      "role": "link",
+      "name": "Faguni"
+    },
+    {
+      "role": "button",
+      "name": "Load More"
+    },
+    {
+      "role": "heading",
+      "name": "Display A List View Post Grid With Style 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Pick Preset 4 Layout for displaying a list view Post Grid to create an elegant look on your site so that audience can easily choose one"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "image",
+      "name": "Essential Blocks New Milestone: Elevating Web Design Flow for 200k+ WordPress Websites",
+      "description": "Post Grid 8"
+    },
+    {
+      "role": "link",
+      "name": "New Milestone for Essential Blocks: Elevating Gutenberg Web Design Flow for 200k+ WordPress Websites"
+    },
+    {
+      "role": "text",
+      "name": "on September 15, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks has reached a remarkable milestone — powering the web design flow of 200,000+"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "Loop Builder in Essential Blocks",
+      "description": "Post Grid 10"
+    },
+    {
+      "role": "link",
+      "name": "[New] Loop Builder in Essential Blocks: Create Dynamic Layout in WordPress with Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on September 3, 2025"
+    },
+    {
+      "role": "text",
+      "name": "The new Loop Builder in Essential Blocks lets you design dynamic layouts visually inside Gutenberg."
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "image",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?",
+      "description": "Post Grid 12"
+    },
+    {
+      "role": "link",
+      "name": "How to Design Your Website Mega Menu in Gutenberg?"
+    },
+    {
+      "role": "text",
+      "name": "on August 27, 2025"
+    },
+    {
+      "role": "text",
+      "name": "Step-by-step guide to create a professional Mega Menu in Gutenberg for WordPress websites."
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Style 5 With Content Overlay",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display Post Grid on your website with content overlay, date, load more button, etc, and create a stunning section to showcase an exclusive CTA for your blogs"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "image",
+      "name": "Improve Your Multilingual Website SEO",
+      "description": "Post Grid 14"
+    },
+    {
+      "role": "link",
+      "name": "10 Best Practices to Improve Your Multilingual Website SEO [With Tips]"
+    },
+    {
+      "role": "text",
+      "name": "on August 13, 2025"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "image",
+      "name": "Otter vs Essential Blocks: Choose Best Gutenberg Library for Your Website",
+      "description": "Post Grid 16"
+    },
+    {
+      "role": "link",
+      "name": "Otter vs Essential Blocks: Choose the Best Gutenberg Library for Your Website"
+    },
+    {
+      "role": "text",
+      "name": "on August 6, 2025"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "image",
+      "name": "gutenberg ai image generator",
+      "description": "Post Grid 18"
+    },
+    {
+      "role": "link",
+      "name": "[New] Introducing AI Image Generator in Essential Blocks – Transform the Way You Build in Gutenberg",
+      "description": "[New] Introducing AI Image Generator in Essential Blocks - Transform the Way You Build in Gutenberg"
+    },
+    {
+      "role": "text",
+      "name": "on July 29, 2025"
+    },
+    {
+      "role": "button",
+      "name": "Load More"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

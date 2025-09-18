@@ -1,0 +1,677 @@
+{
+  "role": "WebArea",
+  "name": "Progress Bar | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Progress Bar 1"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Represent stats interestingly on your website to grab visitors’ attention instantly with stunning Progress Bar block. You can show your progress rate, percentage, latest success rate, etc. dynamically without a single line of code."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Progress Bar",
+      "description": "Progress Bar 2"
+    },
+    {
+      "role": "image",
+      "name": "Progress Bar",
+      "description": "Progress Bar 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Progress Bar 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Progress Bar 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Progress Bar 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Progress Bar 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Follow This Tutorial To Create Progress Bar",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Add A Progress Bar In Gutenberg"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Line Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display your important statistics interactively with Line layout from Progress Bar block to catch your visitors’ attention right after coming to your website"
+    },
+    {
+      "role": "image",
+      "name": "Progress Bar",
+      "description": "Progress Bar 8"
+    },
+    {
+      "role": "text",
+      "name": "Adobe Photoshop Skill"
+    },
+    {
+      "role": "text",
+      "name": "80"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Web Development"
+    },
+    {
+      "role": "text",
+      "name": "90"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Digital Marketing"
+    },
+    {
+      "role": "text",
+      "name": "75"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "UX UI Design"
+    },
+    {
+      "role": "text",
+      "name": "92"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Line Rainbow Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase your data with stunning Line Rainbow layout and customize just the way you want to make your important statistics noticeable to the visitors"
+    },
+    {
+      "role": "text",
+      "name": "Sewing skills"
+    },
+    {
+      "role": "text",
+      "name": "80"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Clothing design skills"
+    },
+    {
+      "role": "text",
+      "name": "90"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Cutting skills"
+    },
+    {
+      "role": "text",
+      "name": "75"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Pattern-making skills"
+    },
+    {
+      "role": "text",
+      "name": "92"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "image",
+      "name": "Progress Bar",
+      "description": "Progress Bar 9"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Circle Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Present your key informations in Circle layout and control the animation duration to make your monotonous data interesting to your website visitors"
+    },
+    {
+      "role": "text",
+      "name": "Communication Tools"
+    },
+    {
+      "role": "text",
+      "name": "85"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Social Media"
+    },
+    {
+      "role": "text",
+      "name": "85"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Spreadsheets"
+    },
+    {
+      "role": "text",
+      "name": "75"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Presentation Tools"
+    },
+    {
+      "role": "text",
+      "name": "59"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Circle Fill Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Attract visitors by dynamically displaying your data using beautiful Circle Fill layout with ultimate coloring options to make your website lively"
+    },
+    {
+      "role": "heading",
+      "name": "Creativity",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "74%"
+    },
+    {
+      "role": "heading",
+      "name": "Confidence",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "85%"
+    },
+    {
+      "role": "heading",
+      "name": "Organization",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "75%"
+    },
+    {
+      "role": "heading",
+      "name": "Conflict resolution",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "59%"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Half Circle Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Show your important data creatively with amazing Half Circle layout and set HTML Tags for your progress bar to make your website interactive instantly"
+    },
+    {
+      "role": "text",
+      "name": "Motivation"
+    },
+    {
+      "role": "text",
+      "name": "100"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Trustworthiness"
+    },
+    {
+      "role": "text",
+      "name": "69"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Responsibility"
+    },
+    {
+      "role": "text",
+      "name": "75"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "text",
+      "name": "Communication"
+    },
+    {
+      "role": "text",
+      "name": "59"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Half Circle Fill Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Visualize your key-information with creative Half Circle Fill layout and stunning typography to keep your visitors engaged to your website"
+    },
+    {
+      "role": "heading",
+      "name": "Product Knowledge",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "60%"
+    },
+    {
+      "role": "heading",
+      "name": "Client Engagement",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "90%"
+    },
+    {
+      "role": "heading",
+      "name": "Active Listening",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "75%"
+    },
+    {
+      "role": "heading",
+      "name": "Sales Presentations",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "59%"
+    },
+    {
+      "role": "heading",
+      "name": "Progress Bar Box Layout",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Exhibit your key statistics interestingly with beautiful Box layout and control height width of your progress bar to grab your reader’s attention instantly"
+    },
+    {
+      "role": "text",
+      "name": "70"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Plugin Development",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "90"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Elementor",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "75"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Digital marketing",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "50"
+    },
+    {
+      "role": "text",
+      "name": "%"
+    },
+    {
+      "role": "heading",
+      "name": "Site Architecture",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

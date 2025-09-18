@@ -1,0 +1,654 @@
+{
+  "role": "WebArea",
+  "name": "Countdown | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 1"
+    },
+    {
+      "role": "heading",
+      "name": "Countdown",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Seamlessly build a countdown-timer on your WordPress website by using the Countdown block to influence your users for a purchase. With versatile design presets and labeling, make your website an exemplary tool for promotion."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 2"
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 3"
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Guide To Create An Advanced Countdown",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create A Countdown In Gutenberg With Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Default Design Preset",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your schedule with the built-in calendar of this Countdown block. Apply versatile color pallets and customisation to make your countdown widget more appealing to your customers"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 8"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 1",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add your custom label for date, hours, minutes, etc to build your next goal. Make space between your timers by maintaining proper margin and padding. Apply engaging colors on each timer to give a beautiful look "
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 2",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make your countdown block beautiful with a versatile grid view and list view. Give your preferred custom labels on all your timers. Maintain proper max-width and space between timer boxes to keep your block neat"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "image",
+      "name": "Countdown",
+      "description": "Countdown 9"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 3",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Put your timer in 4 directions to increase the site readability. Choose your column direction between 4 available options and put your content in proper alignment"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": ":"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": ":"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": ":"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 4",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Choose between a normal background or a hover background to give a stunning outlook. Articulate your background type between linear or radial options to give your countdown block a vibrant look"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "DAYS"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "HOURS"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "MINUTES"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "SECONDS"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 5",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Change your background type between classic and gradient to give it an awesome look. Properly position your first and second colors on your countdown block. Choose your preferred angle for the color position"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "|"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "|"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "|"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 6",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With 8 advanced border styles make your countdown block beautiful. Change your box-shadow between normal or hover effect. Choose versatile shadow colors to style our countdown block"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "heading",
+      "name": "Design Preset 7",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Change your Label Color & Typography to give your countdown a charming look. Customize individual box styling for your timers. Choose a gorgeous color pallet for your digit color and label color."
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Days"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Hours"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Minutes"
+    },
+    {
+      "role": "text",
+      "name": "00"
+    },
+    {
+      "role": "text",
+      "name": "Seconds"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "role": "WebArea",
+  "name": "Interactive Animation | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "heading",
+      "name": "Interactive Animation",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Bring Your Content To Life With Interactive Animation",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Animate elements on your website effortlessly with Essential Blocks to create dynamic and engaging web content in Gutenberg. Customize animation properties and more."
+    },
+    {
+      "role": "link",
+      "name": "Get Started "
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation | Essential Gutenberg Blocks for WordPress",
+      "description": "Interactive Animation 1"
+    },
+    {
+      "role": "heading",
+      "name": "Animate Content Elements To Create Dynamic & Responsive Designs That Captivate Your Visitors",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Interactive",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Animations",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 2"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 3"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 4"
+    },
+    {
+      "role": "heading",
+      "name": "Match every effect with precise controls over color, speed, easing…",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 5"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 6"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 7"
+    },
+    {
+      "role": "heading",
+      "name": "And transitions for perfect customized animations for your brand.",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 8"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 9"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 10"
+    },
+    {
+      "role": "heading",
+      "name": "DISPLAY PRODUCTS",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 11"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 12"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 13"
+    },
+    {
+      "role": "heading",
+      "name": "Display Products",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Highlight Features With Style",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 14"
+    },
+    {
+      "role": "heading",
+      "name": "Continuous Motion",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Make elements move endlessly and create stunning effects to keep visitors interested."
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 15"
+    },
+    {
+      "role": "heading",
+      "name": "Animation Timing",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add a delay before animation starts for a smoother and more professional look on your site"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 16"
+    },
+    {
+      "role": "heading",
+      "name": "Fine-Tune Animation",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Adjust each animation (e.g., fast or slow flicker) to create the perfect effect for your site."
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Testimonials Creatively",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add smooth transitions to customer reviews, making social proof more engaging and trustworthy."
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 17"
+    },
+    {
+      "role": "heading",
+      "name": "Jane Wilson",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Web Designer"
+    },
+    {
+      "role": "text",
+      "name": "This feature brings life to my Webflow projects! Smooth animations without the hassle of complex coding."
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 18"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 19"
+    },
+    {
+      "role": "heading",
+      "name": "Michael Smith",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Marketing Manager"
+    },
+    {
+      "role": "text",
+      "name": "Interactive Animation makes my designs more engaging effortlessly. No coding needed—just pure creativity!"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 20"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 21"
+    },
+    {
+      "role": "heading",
+      "name": "Emily Johnson",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Freelancer"
+    },
+    {
+      "role": "text",
+      "name": "A game-changer! The easiest way to create eye-catching animations while keeping performance optimized."
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 18"
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 23"
+    },
+    {
+      "role": "heading",
+      "name": "David Brown",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "Small Business Owner"
+    },
+    {
+      "role": "text",
+      "name": "Adding animations is now seamless! It’s a must-have for anyone looking to enhance user experience."
+    },
+    {
+      "role": "image",
+      "name": "Interactive Animation",
+      "description": "Interactive Animation 20"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+    },
+    {
+      "role": "text",
+      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+    },
+    {
+      "role": "text",
+      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+    },
+    {
+      "role": "text",
+      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+    },
+    {
+      "role": "text",
+      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+    },
+    {
+      "role": "text",
+      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}

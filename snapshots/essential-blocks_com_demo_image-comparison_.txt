@@ -1,0 +1,343 @@
+{
+  "role": "WebArea",
+  "name": "Image Comparison | Essential Gutenberg Blocks for WordPress",
+  "children": [
+    {
+      "role": "link",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "link",
+              "name": "HOME"
+            },
+            {
+              "role": "link",
+              "name": "BLOG"
+            },
+            {
+              "role": "link",
+              "name": "DOCS"
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "ALL BLOCKS"
+                },
+                {
+                  "role": "button",
+                  "name": "All Blocks submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "FEATURES"
+                },
+                {
+                  "role": "button",
+                  "name": "Features submenu"
+                }
+              ]
+            },
+            {
+              "role": "listitem",
+              "name": "",
+              "level": 1,
+              "children": [
+                {
+                  "role": "link",
+                  "name": "GET HELP"
+                },
+                {
+                  "role": "button",
+                  "name": "Get Help submenu"
+                }
+              ]
+            },
+            {
+              "role": "link",
+              "name": "GET THE PLUGIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Image Comparison",
+      "description": "Image Comparison 1"
+    },
+    {
+      "role": "heading",
+      "name": "Image Comparison",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Let your potential customers compare easily between multiple product images to influence the decision in a positive way with Essential Blocks Image Comparison. It’s an amazing block to visualize major changes."
+    },
+    {
+      "role": "link",
+      "name": "Get Started FREE "
+    },
+    {
+      "role": "image",
+      "name": "Image Comparison",
+      "description": "Image Comparison 2"
+    },
+    {
+      "role": "image",
+      "name": "Image Comparison",
+      "description": "Image Comparison 3"
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Image Comparison 4"
+    },
+    {
+      "role": "heading",
+      "name": "Limitless Content Customization",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Image Comparison 5"
+    },
+    {
+      "role": "heading",
+      "name": "Responsive Preview Controls",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Image Comparison 6"
+    },
+    {
+      "role": "heading",
+      "name": "Infinite Styling Possibilities",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "macbook",
+      "description": "Image Comparison 7"
+    },
+    {
+      "role": "heading",
+      "name": "45+ Advanced Gutenberg Blocks",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Quick Tutorial To Create Image Comparison",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Create Responsive Image Comparison Slider In WordPress"
+    },
+    {
+      "role": "link",
+      "name": "Read Documentation "
+    },
+    {
+      "role": "heading",
+      "name": "Full Width Style",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Create a stunning image comparison with full-width style and adjust slider position to make your web page more stunning"
+    },
+    {
+      "role": "heading",
+      "name": "Animated Hover Effect",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Image comparison with an amazing hover effect to compare between images, to add more credibility and to make it more impressive."
+    },
+    {
+      "role": "heading",
+      "name": "Vertical Image Comparison",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You can put up an Image comparison vertically with a move on hover effect and compare between two images beautifully"
+    },
+    {
+      "role": "heading",
+      "name": "Unique Style And Effect",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "You can try out the swap effect, add a handle to the Image Comparison block and make your comparison more appealing"
+    },
+    {
+      "role": "heading",
+      "name": "No Handle Effect",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Swap Effect",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Show Before – After Labels",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Style the Image Comparison block, add before-after labels to make the comparison even better and understandable for your audiences"
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Advanced Blocks Library For"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Gutenberg To Power Up Your Site"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "With Interactive Content"
+    },
+    {
+      "role": "textbox",
+      "name": "Enter your email here..."
+    },
+    {
+      "role": "button",
+      "name": "Subscribe"
+    },
+    {
+      "role": "heading",
+      "name": "Resources",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Privacy Policy"
+    },
+    {
+      "role": "link",
+      "name": "Blog"
+    },
+    {
+      "role": "link",
+      "name": "Docs"
+    },
+    {
+      "role": "heading",
+      "name": "Get Help",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Affiliates"
+    },
+    {
+      "role": "link",
+      "name": "Support"
+    },
+    {
+      "role": "link",
+      "name": "Career"
+    },
+    {
+      "role": "heading",
+      "name": "Company",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Contact"
+    },
+    {
+      "role": "link",
+      "name": "About Us"
+    },
+    {
+      "role": "link",
+      "name": "Community"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "link",
+      "name": "social link"
+    },
+    {
+      "role": "text",
+      "name": "Copyright © 2025 | A "
+    },
+    {
+      "role": "link",
+      "name": "WPDeveloper"
+    },
+    {
+      "role": "text",
+      "name": " Product from "
+    },
+    {
+      "role": "link",
+      "name": "startise-logo"
+    },
+    {
+      "role": "text",
+      "name": " family"
+    },
+    {
+      "role": "text",
+      "name": "Hosted with "
+    },
+    {
+      "role": "link",
+      "name": "xCloud-logo"
+    }
+  ]
+}
