@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Visualize Your Data With Fancy Chart",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -100,6 +100,16 @@
     {
       "role": "link",
       "name": "Read Documentation "
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 1"
+    },
+    {
+      "role": "heading",
+      "name": "Present Your Data In A Compelling Way With Fancy Chart Block",
+      "level": 2
     },
     {
       "role": "image",
@@ -163,27 +173,484 @@
     },
     {
       "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "name": "Dataset 1"
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": "Dataset 2"
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": "Dataset 3"
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": "200"
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": "150"
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": "100"
+    },
+    {
+      "role": "text",
+      "name": "50"
+    },
+    {
+      "role": "text",
+      "name": "0"
+    },
+    {
+      "role": "text",
+      "name": "Item 1"
+    },
+    {
+      "role": "text",
+      "name": "Item 2"
+    },
+    {
+      "role": "text",
+      "name": "Item 3"
+    },
+    {
+      "role": "text",
+      "name": "Item 4"
+    },
+    {
+      "role": "text",
+      "name": "Item 5"
+    },
+    {
+      "role": "text",
+      "name": "Item 6"
+    },
+    {
+      "role": "heading",
+      "name": "Bar Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Display comprehensive information while comparing them under different categories or data points in an eye-catching format"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 1"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 2"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 3"
+    },
+    {
+      "role": "text",
+      "name": "200"
+    },
+    {
+      "role": "text",
+      "name": "150"
+    },
+    {
+      "role": "text",
+      "name": "100"
+    },
+    {
+      "role": "text",
+      "name": "50"
+    },
+    {
+      "role": "text",
+      "name": "0"
+    },
+    {
+      "role": "text",
+      "name": "Item 1"
+    },
+    {
+      "role": "text",
+      "name": "Item 2"
+    },
+    {
+      "role": "text",
+      "name": "Item 3"
+    },
+    {
+      "role": "text",
+      "name": "Item 4"
+    },
+    {
+      "role": "text",
+      "name": "Item 5"
+    },
+    {
+      "role": "text",
+      "name": "Item 6"
+    },
+    {
+      "role": "heading",
+      "name": "Smooth Line Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Exhibit trends and variations over time by enabling a clear depiction of data fluctuations and patterns with line charts effortlessly"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 1"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 2"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 3"
+    },
+    {
+      "role": "text",
+      "name": "200"
+    },
+    {
+      "role": "text",
+      "name": "150"
+    },
+    {
+      "role": "text",
+      "name": "100"
+    },
+    {
+      "role": "text",
+      "name": "50"
+    },
+    {
+      "role": "text",
+      "name": "0"
+    },
+    {
+      "role": "text",
+      "name": "Item 1"
+    },
+    {
+      "role": "text",
+      "name": "Item 2"
+    },
+    {
+      "role": "text",
+      "name": "Item 3"
+    },
+    {
+      "role": "text",
+      "name": "Item 4"
+    },
+    {
+      "role": "text",
+      "name": "Item 5"
+    },
+    {
+      "role": "text",
+      "name": "Item 6"
+    },
+    {
+      "role": "heading",
+      "name": "Area Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Highlight patterns and trends in your data or research points with stunning area charts that are simple and easy-to-understand"
+    },
+    {
+      "role": "heading",
+      "name": "Pie Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Showcase individual percentages and data proportions of a particular dataset with visually appealing pie charts"
+    },
+    {
+      "role": "text",
+      "name": "Total"
+    },
+    {
+      "role": "text",
+      "name": "480"
+    },
+    {
+      "role": "heading",
+      "name": "Donut Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Portray your charts with precise data with a donut shape that avoids data overlap and helps to keep information organized"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 1"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 2"
+    },
+    {
+      "role": "text",
+      "name": "Dataset 3"
+    },
+    {
+      "role": "text",
+      "name": "200"
+    },
+    {
+      "role": "text",
+      "name": "150"
+    },
+    {
+      "role": "text",
+      "name": "100"
+    },
+    {
+      "role": "text",
+      "name": "50"
+    },
+    {
+      "role": "text",
+      "name": "0"
+    },
+    {
+      "role": "text",
+      "name": "Item 1"
+    },
+    {
+      "role": "text",
+      "name": "Item 2"
+    },
+    {
+      "role": "text",
+      "name": "Item 3"
+    },
+    {
+      "role": "text",
+      "name": "Item 4"
+    },
+    {
+      "role": "text",
+      "name": "Item 5"
+    },
+    {
+      "role": "text",
+      "name": "Item 6"
+    },
+    {
+      "role": "heading",
+      "name": "Straight Line Chart",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Portray a concise representation of data trends over time by offering a clear visual insight into progression or fluctuations of variables"
+    },
+    {
+      "role": "heading",
+      "name": "Import Your Datasets From Multiple Sources Effortlessly In Gutenberg Editor",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 8"
+    },
+    {
+      "role": "heading",
+      "name": "Static Data",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Ease your static data importing workflow"
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 9"
+    },
+    {
+      "role": "heading",
+      "name": "CSV Data",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Seamlessly import CSV dataset"
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 10"
+    },
+    {
+      "role": "heading",
+      "name": "JSON Data",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Boost development with JSON import"
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 11"
+    },
+    {
+      "role": "heading",
+      "name": "Google Sheets",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Import Google Sheets data at ease"
+    },
+    {
+      "role": "heading",
+      "name": "Create Fancy Charts In Gutenberg By Following This Step-By-Step Video Tutorial",
+      "level": 2
+    },
+    {
+      "role": "generic",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Still Need Help? Reach out to our dedicated"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 12"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 1",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 2",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 3",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 4",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Feature Item 5",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Essential Blocks- Gutenberg",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "This plugin, which I’ve been using for several years, brings incredible features to WordPress to enhance the look of a website, without any programming."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Furthermore, their support was very effective in fixing a bug."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "Thank you again and congratulations."
+    },
+    {
+      "role": "image",
+      "name": "Fancy Chart",
+      "description": "Fancy Chart 13"
     },
     {
       "role": "heading",
@@ -308,6 +775,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

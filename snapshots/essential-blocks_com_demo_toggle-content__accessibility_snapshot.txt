@@ -179,12 +179,216 @@
     },
     {
       "role": "heading",
+      "name": "Premium",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "299.99"
+    },
+    {
+      "role": "text",
+      "name": "/ Year"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
+    },
+    {
+      "role": "heading",
+      "name": "Enterprise",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "499.99"
+    },
+    {
+      "role": "text",
+      "name": "/ Year"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
+    },
+    {
+      "role": "heading",
       "name": "Rounded Switch 2",
       "level": 2
     },
     {
       "role": "text",
       "name": "Switch between your primary or secondary content in an easy way. Display your prioritized content with a stylish rounded switch"
+    },
+    {
+      "role": "heading",
+      "name": "Monthly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
+    },
+    {
+      "role": "heading",
+      "name": "Yearly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "189.99"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
     },
     {
       "role": "heading",
@@ -205,6 +409,112 @@
     },
     {
       "role": "heading",
+      "name": "Monthly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Auto Upgradable, Cencel Anytime"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "29.99"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
+    },
+    {
+      "role": "heading",
+      "name": "Yearly",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Auto Upgradable, Cencel Anytime"
+    },
+    {
+      "role": "text",
+      "name": "$"
+    },
+    {
+      "role": "text",
+      "name": "189.99"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "1 Website"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "30 GB SSD Storage"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "100000 Visits Monthly"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Free SSL"
+    },
+    {
+      "role": "link",
+      "name": "Select Plan"
+    },
+    {
+      "role": "heading",
       "name": "Effortlessly Showcase Product Comparison",
       "level": 2
     },
@@ -219,6 +529,114 @@
     {
       "role": "text",
       "name": "Upcoming Features"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 8"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 9"
+    },
+    {
+      "role": "heading",
+      "name": "Vartual Reality",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 10"
+    },
+    {
+      "role": "heading",
+      "name": "Machine Learning",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 11"
+    },
+    {
+      "role": "heading",
+      "name": "Internet of Things",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 11"
+    },
+    {
+      "role": "heading",
+      "name": "Internet of Things",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
+    },
+    {
+      "role": "image",
+      "name": "Toggle Content",
+      "description": "Toggle Content 8"
+    },
+    {
+      "role": "heading",
+      "name": "Automated AI Chatbots",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "We create AI chatbots for any kind of website to help you streamline your lorem ipsu, dammy text communication process."
+    },
+    {
+      "role": "link",
+      "name": " Read More"
     },
     {
       "role": "heading",
@@ -343,6 +761,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Call To Action",
       "description": "Call To Action 1"
     },
     {
       "role": "heading",
       "name": "Call To Action",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -268,6 +268,23 @@
     },
     {
       "role": "heading",
+      "name": "Best Gutenberg Library For Advanced Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get Everything You Need For Web Designing In Gutenberg With "
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "link",
+      "name": "Get Essential Blocks Now"
+    },
+    {
+      "role": "heading",
       "name": "Essential Blocks",
       "level": 2
     },
@@ -389,6 +406,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -185,17 +185,15 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2"
+      "description": "3 of 2"
     },
     {
-      "role": "tabpanel",
-      "name": "",
-      "description": "2 of 2"
+      "role": "generic",
+      "name": ""
     },
     {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -203,12 +201,13 @@
     },
     {
       "role": "tab",
-      "name": "3 of 2"
+      "name": "3 of 2",
+      "selected": true
     },
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 3",
+      "description": "3 of 3",
       "children": [
         {
           "role": "heading",
@@ -227,8 +226,7 @@
     },
     {
       "role": "tab",
-      "name": "1 of 3",
-      "selected": true
+      "name": "1 of 3"
     },
     {
       "role": "tab",
@@ -236,7 +234,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 3"
+      "name": "3 of 3",
+      "selected": true
     },
     {
       "role": "tabpanel",
@@ -323,12 +322,12 @@
     },
     {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
-      "name": "2 of 2"
+      "name": "2 of 2",
+      "selected": true
     },
     {
       "role": "tabpanel",
@@ -352,12 +351,12 @@
     },
     {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
-      "name": "2 of 2"
+      "name": "2 of 2",
+      "selected": true
     },
     {
       "role": "heading",
@@ -371,23 +370,7 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2",
-      "children": [
-        {
-          "role": "heading",
-          "name": "Cookbook",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "Tasty, yummy and delicious"
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
-      "description": "2 of 2",
+      "description": "5 of 2",
       "children": [
         {
           "role": "heading",
@@ -401,9 +384,38 @@
       ]
     },
     {
-      "role": "tabpanel",
+      "role": "generic",
       "name": "",
-      "description": "3 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Cookbook",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Tasty, yummy and delicious"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "Home Decor",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Essential Blocks Slider Subtitle Goes Here"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
       "children": [
         {
           "role": "heading",
@@ -417,25 +429,8 @@
       ]
     },
     {
-      "role": "tabpanel",
-      "name": "",
-      "description": "4 of 2",
-      "children": [
-        {
-          "role": "heading",
-          "name": "Paintings",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "Essential Blocks Slider Subtitle Goes Here"
-        }
-      ]
-    },
-    {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -447,7 +442,8 @@
     },
     {
       "role": "tab",
-      "name": "4 of 2"
+      "name": "4 of 2",
+      "selected": true
     },
     {
       "role": "tab",
@@ -465,12 +461,11 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 3"
+      "description": "3 of 3"
     },
     {
       "role": "tab",
-      "name": "1 of 3",
-      "selected": true
+      "name": "1 of 3"
     },
     {
       "role": "tab",
@@ -478,7 +473,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 3"
+      "name": "3 of 3",
+      "selected": true
     },
     {
       "role": "heading",
@@ -603,6 +599,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Transform Media Gallery Into An Aesthetic Showcase With Filterable Gallery",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -3469,43 +3469,6 @@
     {
       "role": "generic",
       "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Frequently Asked Questions",
-      "level": 2
-    },
-    {
-      "role": "text",
-      "name": "Still Need Help? Reach out to our dedicated support team anytime"
-    },
-    {
-      "role": "link",
-      "name": "Chat With Us "
-    },
-    {
-      "role": "button",
-      "name": " What themes does Essential Blocks for Gutenberg work with?"
-    },
-    {
-      "role": "button",
-      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
-    },
-    {
-      "role": "button",
-      "name": " Will Essential Blocks slow down my website?"
-    },
-    {
-      "role": "button",
-      "name": " Can I use Essential Blocks PRO on multiple websites?"
-    },
-    {
-      "role": "button",
-      "name": " Do you have a refund option?"
-    },
-    {
-      "role": "button",
-      "name": " What will happen after my license expires?"
     },
     {
       "role": "heading",

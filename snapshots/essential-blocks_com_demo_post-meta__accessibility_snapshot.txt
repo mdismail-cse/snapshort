@@ -107,28 +107,19 @@
       "description": "Post Meta 1"
     },
     {
-      "role": "text",
-      "name": ""
+      "role": "heading",
+      "name": "Pick Up Pages And Posts Author, Publishing Details & Display Them Perfectly Aligned Way",
+      "level": 2
     },
     {
-      "role": "text",
-      "name": "Author:"
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 2"
     },
     {
-      "role": "link",
-      "name": "Shariful Islam"
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "text",
-      "name": "Published Date: "
-    },
-    {
-      "role": "text",
-      "name": "September 12, 2024"
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 3"
     },
     {
       "role": "text",
@@ -155,28 +146,145 @@
       "name": "September 12, 2024"
     },
     {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 4"
+    },
+    {
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 5"
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": "Author:"
+    },
+    {
+      "role": "link",
+      "name": "Shariful Islam"
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": "Published Date: "
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": "September 12, 2024"
+    },
+    {
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 6"
+    },
+    {
+      "role": "heading",
+      "name": "Pick Up Pages And Posts Author, Publishing Details & Display Them Perfectly Aligned Way",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 7"
+    },
+    {
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 8"
+    },
+    {
+      "role": "heading",
+      "name": "Display Post Metadata In An Organized Way By Sorting Custom Fields",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Marvin McKinney"
+    },
+    {
+      "role": "text",
+      "name": "One of the Best WooComerce Marketing Plugin. I just love using This plugin. If you have an online store you need this plugin! Nowadays social proof is the new digital currency."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "September 12, 2024"
+    },
+    {
+      "role": "text",
+      "name": "Jenny Wilson"
+    },
+    {
+      "role": "text",
+      "name": "One of the Best WooComerce Marketing Plugin. I just love using This plugin. If you have an online store you need this plugin! Nowadays social proof is the new digital currency."
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "September 12, 2024"
+    },
+    {
+      "role": "image",
+      "name": "Post Meta",
+      "description": "Post Meta 9"
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Still Need Help? Reach out to our dedicated"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
     },
     {
       "role": "heading",
@@ -301,6 +409,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

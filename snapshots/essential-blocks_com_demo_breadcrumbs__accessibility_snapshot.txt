@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Enhance Website Navigation With Breadcrumb",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -117,28 +117,126 @@
       "level": 2
     },
     {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "role": "link",
+      "name": "Blog"
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "Business"
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": "Critical Investment For Our Nation’s Future"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 3"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 4"
+    },
+    {
+      "role": "heading",
+      "name": "Simplify Customer Navigation For WooCommerce With Clickable Breadcrumb Links",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Home"
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": "/"
+    },
+    {
+      "role": "link",
+      "name": "All Products"
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": "/"
+    },
+    {
+      "role": "link",
+      "name": "Wooden"
+    },
+    {
+      "role": "text",
+      "name": "/"
+    },
+    {
+      "role": "text",
+      "name": "Bed"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 5"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 6"
+    },
+    {
+      "role": "heading",
+      "name": "Display Hierarchical Paths To The Visitors For A Smoother And Intuitive User Experience",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "Home"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "link",
+      "name": "Business"
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": "Critical Investment For Our Nation’s Future"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 7"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 8"
+    },
+    {
+      "role": "image",
+      "name": "Breadcrumbs",
+      "description": "Breadcrumbs 9"
+    },
+    {
+      "role": "heading",
+      "name": "Improve Clarity For Browsing Complex Pages To Enhance Search Engine Visibility",
+      "level": 2
     },
     {
       "role": "heading",
@@ -263,6 +361,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

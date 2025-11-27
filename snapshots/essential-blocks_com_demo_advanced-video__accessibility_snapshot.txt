@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Advanced Video",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -172,6 +172,10 @@
     {
       "role": "text",
       "name": "Adjust margin, padding, border style, background color, and more to give the Advanced video block your preferred beautiful look"
+    },
+    {
+      "role": "text",
+      "name": "×"
     },
     {
       "role": "generic",
@@ -335,6 +339,74 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Nishan B"
+    },
+    {
+      "role": "text",
+      "name": "Nishan B"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "just purchased"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks Pro — Visionary LTD"
+    },
+    {
+      "role": "text",
+      "name": "2 days ago"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

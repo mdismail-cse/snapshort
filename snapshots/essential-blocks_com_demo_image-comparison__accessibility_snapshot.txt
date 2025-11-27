@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Image Comparison",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -109,7 +109,7 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Image Comparison",
       "description": "Image Comparison 4"
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Image Comparison",
       "description": "Image Comparison 5"
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Image Comparison",
       "description": "Image Comparison 6"
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Image Comparison",
       "description": "Image Comparison 7"
     },
     {
@@ -214,6 +214,14 @@
     {
       "role": "text",
       "name": "Style the Image Comparison block, add before-after labels to make the comparison even better and understandable for your audiences"
+    },
+    {
+      "role": "text",
+      "name": "Before"
+    },
+    {
+      "role": "text",
+      "name": "After"
     },
     {
       "role": "heading",
@@ -338,6 +346,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

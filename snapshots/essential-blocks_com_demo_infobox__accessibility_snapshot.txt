@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Infobox",
       "description": "Infobox 1"
     },
     {
       "role": "heading",
       "name": "Infobox",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -261,7 +261,7 @@
     },
     {
       "role": "link",
-      "name": " ➔ Get Started"
+      "name": "➔ Get Started"
     },
     {
       "role": "heading",
@@ -274,7 +274,7 @@
     },
     {
       "role": "link",
-      "name": " ➔ Get Started"
+      "name": "➔ Get Started"
     },
     {
       "role": "heading",
@@ -287,7 +287,7 @@
     },
     {
       "role": "link",
-      "name": " ➔ Get Started"
+      "name": "➔ Get Started"
     },
     {
       "role": "heading",
@@ -300,7 +300,7 @@
     },
     {
       "role": "link",
-      "name": " ➔ Get Started"
+      "name": "➔ Get Started"
     },
     {
       "role": "heading",
@@ -686,6 +686,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

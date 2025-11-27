@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Data Table",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -104,7 +104,7 @@
     },
     {
       "role": "image",
-      "name": "Essential Blocks data table",
+      "name": "Data Table",
       "description": "Data Table 3"
     },
     {
@@ -170,6 +170,198 @@
       "name": "Effortlessly showcase important data in a beautifully structured and customizable format with the EB Data Table and highlight all even column."
     },
     {
+      "role": "columnheader",
+      "name": "ID ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Name ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Address ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "City ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Country ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Zip Code ▲"
+    },
+    {
+      "role": "text",
+      "name": "01"
+    },
+    {
+      "role": "text",
+      "name": "Wade Warren"
+    },
+    {
+      "role": "text",
+      "name": "6391 Elgin St. Celina, Delaware 188"
+    },
+    {
+      "role": "text",
+      "name": "Berlin"
+    },
+    {
+      "role": "text",
+      "name": "Germany"
+    },
+    {
+      "role": "text",
+      "name": "69822"
+    },
+    {
+      "role": "text",
+      "name": "02"
+    },
+    {
+      "role": "text",
+      "name": "Floyd Miles"
+    },
+    {
+      "role": "text",
+      "name": "8502 Preston Rd. Inglewood, Maine 9838"
+    },
+    {
+      "role": "text",
+      "name": "Paris"
+    },
+    {
+      "role": "text",
+      "name": "France"
+    },
+    {
+      "role": "text",
+      "name": "52152"
+    },
+    {
+      "role": "text",
+      "name": "03"
+    },
+    {
+      "role": "text",
+      "name": "Wade Warren"
+    },
+    {
+      "role": "text",
+      "name": "2464 Royal Ln. Mesa, New Jersey 4556"
+    },
+    {
+      "role": "text",
+      "name": "New York"
+    },
+    {
+      "role": "text",
+      "name": "United State"
+    },
+    {
+      "role": "text",
+      "name": "45463"
+    },
+    {
+      "role": "text",
+      "name": "04"
+    },
+    {
+      "role": "text",
+      "name": "Cody Fisher"
+    },
+    {
+      "role": "text",
+      "name": "2972 Westheimer Rd. Santa Ana"
+    },
+    {
+      "role": "text",
+      "name": "Lisbon"
+    },
+    {
+      "role": "text",
+      "name": "Portugal"
+    },
+    {
+      "role": "text",
+      "name": "35697"
+    },
+    {
+      "role": "text",
+      "name": "05"
+    },
+    {
+      "role": "text",
+      "name": "Annette Black"
+    },
+    {
+      "role": "text",
+      "name": "1901 Thornridge Cir. Shiloh, Hawaii 81063"
+    },
+    {
+      "role": "text",
+      "name": "Dhaka"
+    },
+    {
+      "role": "text",
+      "name": "Bangladesh"
+    },
+    {
+      "role": "text",
+      "name": "20441"
+    },
+    {
+      "role": "text",
+      "name": "06"
+    },
+    {
+      "role": "text",
+      "name": "Annette Black"
+    },
+    {
+      "role": "text",
+      "name": "6391 Elgin St. Celina, Delaware 102"
+    },
+    {
+      "role": "text",
+      "name": "Mumbai"
+    },
+    {
+      "role": "text",
+      "name": "India"
+    },
+    {
+      "role": "text",
+      "name": "25138"
+    },
+    {
+      "role": "text",
+      "name": "07"
+    },
+    {
+      "role": "text",
+      "name": "Esther Howard"
+    },
+    {
+      "role": "text",
+      "name": "2464 Royal Ln. Mesa, New Jersey 4546"
+    },
+    {
+      "role": "text",
+      "name": "Fairfield"
+    },
+    {
+      "role": "text",
+      "name": "United State"
+    },
+    {
+      "role": "text",
+      "name": "48144"
+    },
+    {
       "role": "heading",
       "name": "Data Table With Highlighted Even Row & Pagination",
       "level": 2
@@ -177,6 +369,315 @@
     {
       "role": "text",
       "name": "Add pagination and highlight even rows to allow visitors easily navigate through the table and transform raw data into visually appealing insights."
+    },
+    {
+      "role": "columnheader",
+      "name": "# ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Employee ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Working Days ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Hours ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Rate ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Email ID ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Payment ▲"
+    },
+    {
+      "role": "text",
+      "name": "#"
+    },
+    {
+      "role": "text",
+      "name": "Employee"
+    },
+    {
+      "role": "text",
+      "name": "Working Days"
+    },
+    {
+      "role": "text",
+      "name": "Hours "
+    },
+    {
+      "role": "text",
+      "name": "Rate"
+    },
+    {
+      "role": "text",
+      "name": "Email ID"
+    },
+    {
+      "role": "text",
+      "name": "Payment"
+    },
+    {
+      "role": "text",
+      "name": "01"
+    },
+    {
+      "role": "text",
+      "name": "Alex Morgan"
+    },
+    {
+      "role": "text",
+      "name": "Attend"
+    },
+    {
+      "role": "text",
+      "name": "9:30:00"
+    },
+    {
+      "role": "text",
+      "name": "$15:00"
+    },
+    {
+      "role": "text",
+      "name": "Willie@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$1,280.00"
+    },
+    {
+      "role": "text",
+      "name": "02"
+    },
+    {
+      "role": "text",
+      "name": "Floyd Miles"
+    },
+    {
+      "role": "text",
+      "name": "1 Day Absent"
+    },
+    {
+      "role": "text",
+      "name": "7:59:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Jackson@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$180.78"
+    },
+    {
+      "role": "text",
+      "name": "03"
+    },
+    {
+      "role": "text",
+      "name": "Wade Warren"
+    },
+    {
+      "role": "text",
+      "name": "Attend"
+    },
+    {
+      "role": "text",
+      "name": "9:59:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Debra.@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$4,080.00"
+    },
+    {
+      "role": "text",
+      "name": "04"
+    },
+    {
+      "role": "text",
+      "name": "Cody Fisher"
+    },
+    {
+      "role": "text",
+      "name": "Attend"
+    },
+    {
+      "role": "text",
+      "name": "10:30:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Lawson@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$1,480.00"
+    },
+    {
+      "role": "text",
+      "name": "05"
+    },
+    {
+      "role": "text",
+      "name": "Annette Black"
+    },
+    {
+      "role": "text",
+      "name": "2 Days Absent"
+    },
+    {
+      "role": "text",
+      "name": "11:29:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Dolores@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$1,280.00"
+    },
+    {
+      "role": "text",
+      "name": "06"
+    },
+    {
+      "role": "text",
+      "name": "Wade Warren"
+    },
+    {
+      "role": "text",
+      "name": "Attend"
+    },
+    {
+      "role": "text",
+      "name": "12:30:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Weaver@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$960.50"
+    },
+    {
+      "role": "text",
+      "name": "07"
+    },
+    {
+      "role": "text",
+      "name": "Esther Howard"
+    },
+    {
+      "role": "text",
+      "name": "Half Day Absent"
+    },
+    {
+      "role": "text",
+      "name": "8:30:00"
+    },
+    {
+      "role": "text",
+      "name": "$20:50"
+    },
+    {
+      "role": "text",
+      "name": "Sanders@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "$1,280.42"
+    },
+    {
+      "role": "text",
+      "name": "Rows Per Page:"
+    },
+    {
+      "role": "combobox",
+      "name": "Rows per page:",
+      "haspopup": "menu",
+      "children": [
+        {
+          "role": "option",
+          "name": "10",
+          "selected": true
+        },
+        {
+          "role": "option",
+          "name": "15"
+        },
+        {
+          "role": "option",
+          "name": "20"
+        },
+        {
+          "role": "option",
+          "name": "25"
+        },
+        {
+          "role": "option",
+          "name": "30"
+        }
+      ],
+      "value": "10"
+    },
+    {
+      "role": "text",
+      "name": "1-8 Of 8"
+    },
+    {
+      "role": "button",
+      "name": "First Page",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "name": "Previous Page",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "name": "Next Page",
+      "disabled": true
+    },
+    {
+      "role": "button",
+      "name": "Last Page",
+      "disabled": true
     },
     {
       "role": "heading",
@@ -188,6 +689,202 @@
       "name": "Deliver an immersive data browsing experience with an advanced search bar and present data in a way that improves user experience."
     },
     {
+      "role": "textbox",
+      "name": "Search input"
+    },
+    {
+      "role": "columnheader",
+      "name": "ID ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Name ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Position ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Department ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Email ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Status ▲"
+    },
+    {
+      "role": "text",
+      "name": "201"
+    },
+    {
+      "role": "text",
+      "name": "Alex Morgan"
+    },
+    {
+      "role": "text",
+      "name": "Product Designer"
+    },
+    {
+      "role": "text",
+      "name": "Design"
+    },
+    {
+      "role": "text",
+      "name": "Willie@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Full Time"
+    },
+    {
+      "role": "text",
+      "name": "208"
+    },
+    {
+      "role": "text",
+      "name": "Floyd Miles"
+    },
+    {
+      "role": "text",
+      "name": "UX UI Designer"
+    },
+    {
+      "role": "text",
+      "name": "Floyd Design"
+    },
+    {
+      "role": "text",
+      "name": "Jackson@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Remote"
+    },
+    {
+      "role": "text",
+      "name": "222"
+    },
+    {
+      "role": "text",
+      "name": "Wade Warren"
+    },
+    {
+      "role": "text",
+      "name": "Marketing Manager"
+    },
+    {
+      "role": "text",
+      "name": "Marketing"
+    },
+    {
+      "role": "text",
+      "name": "Debra.@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Full Time"
+    },
+    {
+      "role": "text",
+      "name": "204"
+    },
+    {
+      "role": "text",
+      "name": "Cody Fisher"
+    },
+    {
+      "role": "text",
+      "name": "Full Stack Developer"
+    },
+    {
+      "role": "text",
+      "name": "Development"
+    },
+    {
+      "role": "text",
+      "name": "Lawson@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Part Time"
+    },
+    {
+      "role": "text",
+      "name": "301"
+    },
+    {
+      "role": "text",
+      "name": "Annette Black"
+    },
+    {
+      "role": "text",
+      "name": "Data Scientist"
+    },
+    {
+      "role": "text",
+      "name": "Development"
+    },
+    {
+      "role": "text",
+      "name": "Dolores@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Full Time"
+    },
+    {
+      "role": "text",
+      "name": "345"
+    },
+    {
+      "role": "text",
+      "name": "Howard"
+    },
+    {
+      "role": "text",
+      "name": "Creative Designer"
+    },
+    {
+      "role": "text",
+      "name": "Paris"
+    },
+    {
+      "role": "text",
+      "name": "Weaver@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Remote"
+    },
+    {
+      "role": "text",
+      "name": "207"
+    },
+    {
+      "role": "text",
+      "name": "Esther Howard"
+    },
+    {
+      "role": "text",
+      "name": "Lead IOS Developer"
+    },
+    {
+      "role": "text",
+      "name": "Lisbon"
+    },
+    {
+      "role": "text",
+      "name": "Sanders@Example.Com"
+    },
+    {
+      "role": "text",
+      "name": "Full Time"
+    },
+    {
       "role": "heading",
       "name": "Customized Data Table",
       "level": 2
@@ -195,6 +892,118 @@
     {
       "role": "text",
       "name": "Take control of your data presentation and customize the design with the feature-rich block to add details as needed stunningly."
+    },
+    {
+      "role": "columnheader",
+      "name": "Layer Cake ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Cup Cake ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Fruit Cake ▲"
+    },
+    {
+      "role": "columnheader",
+      "name": "Dan Cake ▲"
+    },
+    {
+      "role": "text",
+      "name": "Choco Delight"
+    },
+    {
+      "role": "text",
+      "name": "Dutch Chocolate"
+    },
+    {
+      "role": "text",
+      "name": "Mango Delight"
+    },
+    {
+      "role": "text",
+      "name": "Detroit Livonia"
+    },
+    {
+      "role": "text",
+      "name": "Black Forest"
+    },
+    {
+      "role": "text",
+      "name": "Boneless Wings"
+    },
+    {
+      "role": "text",
+      "name": "Tyngsboro"
+    },
+    {
+      "role": "text",
+      "name": "Walnut Punch"
+    },
+    {
+      "role": "text",
+      "name": "Choco Chip"
+    },
+    {
+      "role": "text",
+      "name": "Vanilla"
+    },
+    {
+      "role": "text",
+      "name": "Passion Choco"
+    },
+    {
+      "role": "text",
+      "name": "Schaumburg"
+    },
+    {
+      "role": "text",
+      "name": "Choco Vanilla"
+    },
+    {
+      "role": "text",
+      "name": "Altamonte Springs"
+    },
+    {
+      "role": "text",
+      "name": "Choco Delight"
+    },
+    {
+      "role": "text",
+      "name": "Pembroke Pines"
+    },
+    {
+      "role": "text",
+      "name": "Choco Bite"
+    },
+    {
+      "role": "text",
+      "name": "Dutch Chocolate"
+    },
+    {
+      "role": "text",
+      "name": "Wolfchase Galleria"
+    },
+    {
+      "role": "text",
+      "name": "Flake Chocolate"
+    },
+    {
+      "role": "text",
+      "name": "Chocolate Mocha"
+    },
+    {
+      "role": "text",
+      "name": "Velvy Choco"
+    },
+    {
+      "role": "text",
+      "name": "Layer Cake"
+    },
+    {
+      "role": "text",
+      "name": "Dark Dan"
     },
     {
       "role": "heading",
@@ -319,6 +1128,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

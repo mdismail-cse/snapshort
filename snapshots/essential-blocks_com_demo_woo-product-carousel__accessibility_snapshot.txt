@@ -172,27 +172,130 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2"
+      "description": "3 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Diamond Necklace"
+        },
+        {
+          "role": "link",
+          "name": "Diamond Necklace"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $25.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $20.00."
+        },
+        {
+          "role": "link",
+          "name": " View Product"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Diamond Necklace”"
+        }
+      ]
     },
     {
       "role": "tabpanel",
       "name": "",
-      "description": "2 of 2"
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Golden Rings"
+        },
+        {
+          "role": "link",
+          "name": "Golden Rings"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $22.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $19.00."
+        },
+        {
+          "role": "link",
+          "name": " View Product"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Golden Rings”"
+        }
+      ]
     },
     {
       "role": "tabpanel",
       "name": "",
-      "description": "3 of 2"
+      "description": "5 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Rings"
+        },
+        {
+          "role": "link",
+          "name": "Rings"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $19.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $17.00."
+        },
+        {
+          "role": "link",
+          "name": " View Product"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Rings”"
+        }
+      ]
     },
     {
       "role": "tabpanel",
       "name": "",
-      "description": "4 of 2"
+      "description": "6 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Long Necklace"
+        },
+        {
+          "role": "link",
+          "name": "Long Necklace"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $19.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $13.00."
+        },
+        {
+          "role": "link",
+          "name": " View Product"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Long Necklace”"
+        }
+      ]
     },
     {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -200,7 +303,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 2"
+      "name": "3 of 2",
+      "selected": true
     },
     {
       "role": "tab",
@@ -228,6 +332,80 @@
       "name": "Previous"
     },
     {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Logitech Mx Master 2"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Logitech Mx Master 2”"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "text",
+          "name": "Original price was: $50.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $20.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "link",
+          "name": "Advanced Gaming Pod"
+        },
+        {
+          "role": "link",
+          "name": "Advanced Gaming Pod"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Advanced Gaming Pod”"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Logitech mx Master 3"
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Logitech mx Master 3”"
+        }
+      ]
+    },
+    {
       "role": "button",
       "name": "Next"
     },
@@ -247,89 +425,19 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2",
-      "children": [
-        {
-          "role": "text",
-          "name": "SALE"
-        },
-        {
-          "role": "text",
-          "name": "Original price was: $35.00."
-        },
-        {
-          "role": "text",
-          "name": "Current price is: $20.00."
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
-      "description": "2 of 2",
-      "children": [
-        {
-          "role": "text",
-          "name": "SALE"
-        },
-        {
-          "role": "text",
-          "name": "Original price was: $30.00."
-        },
-        {
-          "role": "text",
-          "name": "Current price is: $20.00."
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        },
-        {
-          "role": "text",
-          "name": ""
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
       "description": "3 of 2",
       "children": [
         {
+          "role": "link",
+          "name": "Orange T-Shirt"
+        },
+        {
           "role": "text",
           "name": "SALE"
+        },
+        {
+          "role": "link",
+          "name": "Orange T-Shirt"
         },
         {
           "role": "text",
@@ -358,6 +466,112 @@
         {
           "role": "text",
           "name": ""
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Orange T-Shirt”"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "4 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Blue Vintage Cap"
+        },
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "link",
+          "name": "Blue Vintage Cap"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $20.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $19.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Blue Vintage Cap”"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "5 of 2",
+      "children": [
+        {
+          "role": "link",
+          "name": "Fitted Hoodie"
+        },
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "link",
+          "name": "Fitted Hoodie"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $20.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $19.00."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Fitted Hoodie”"
         }
       ]
     },
@@ -367,8 +581,7 @@
     },
     {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -376,7 +589,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 2"
+      "name": "3 of 2",
+      "selected": true
     },
     {
       "role": "tab",
@@ -401,7 +615,33 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Logitech Master Mx3"
+        },
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "link",
+          "name": "Logitech Master Mx3"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $20.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $15.00."
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Logitech Master Mx3”"
+        }
+      ]
     },
     {
       "role": "heading",
@@ -414,7 +654,33 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Canon Digital Camera"
+        },
+        {
+          "role": "text",
+          "name": "SALE"
+        },
+        {
+          "role": "link",
+          "name": "Canon Digital Camera"
+        },
+        {
+          "role": "text",
+          "name": "Original price was: $20.00."
+        },
+        {
+          "role": "text",
+          "name": "Current price is: $19.00."
+        },
+        {
+          "role": "button",
+          "name": "Add to cart: “Canon Digital Camera”"
+        }
+      ]
     },
     {
       "role": "button",
@@ -543,6 +809,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

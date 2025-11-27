@@ -122,28 +122,125 @@
       "description": "Text 4"
     },
     {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "role": "heading",
+      "name": "Decorate The Informative Text Of Your Website & Present It In An Engaging Way",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 5"
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 6"
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 7"
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": "The Text Block in Gutenberg is a fundamental building block in WordPress, designed to help you create and format text content with ease. The Text Block is perfect for adding structure and clarity to your content. It’s versatile enough for everything from brief introductions to long-form articles."
+    },
+    {
+      "role": "heading",
+      "name": "Divide Your Website Text Within Multiple Columns & Make It More Readable",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 8"
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 9"
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 10"
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": "Whether you’re writing a simple paragraph, a blog post, or a detailed web copy, the Text Block provides all. It’s easy to use, making it accessible to both beginners and experienced WordPress users."
+    },
+    {
+      "role": "heading",
+      "name": "Customise Your Text The Way You Prefer & Draw Attention Of Your Website Visitors",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 11"
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": "The Text Block is perfect for adding structure and clarity to your content. It’s versatile enough for everything from brief introductions to long-form articles."
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 12"
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": "It’s easy to use, making it accessible to both beginners and experienced WordPress users."
+    },
+    {
+      "role": "image",
+      "name": "Text",
+      "description": "Text 13"
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": "Still Need Help? Reach out to our dedicated"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
     },
     {
       "role": "heading",
@@ -268,6 +365,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

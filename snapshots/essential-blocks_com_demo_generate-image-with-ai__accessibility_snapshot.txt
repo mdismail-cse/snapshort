@@ -168,6 +168,20 @@
     },
     {
       "role": "heading",
+      "name": "Get Realistic Photos In Seconds From Your Selected AI Engine",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Generate high-resolution, lifelike photographic AI images with just a text prompt. Perfect for blog covers, hero sections, or social content."
+    },
+    {
+      "role": "image",
+      "name": "Generate Image With AI",
+      "description": "Generate Image With AI 7"
+    },
+    {
+      "role": "heading",
       "name": "Get AI-Generated Image For Default Gutenberg Blocks Right From Editor",
       "level": 2
     },
@@ -239,30 +253,6 @@
       "role": "image",
       "name": "Generate Image With AI",
       "description": "Generate Image With AI 18"
-    },
-    {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
-    },
-    {
-      "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
-    },
-    {
-      "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
-    },
-    {
-      "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
-    },
-    {
-      "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
-    },
-    {
-      "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
     },
     {
       "role": "heading",
@@ -387,6 +377,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

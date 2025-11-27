@@ -102,28 +102,406 @@
       "name": "Read Documentation "
     },
     {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "role": "image",
+      "name": "Testimonial Slider",
+      "description": "Testimonial Slider 1"
+    },
+    {
+      "role": "heading",
+      "name": "Display Beautiful Testimonial Sliders In A Horizontal View Using Dot Swipers",
+      "level": 2
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 6"
+        },
+        {
+          "role": "text",
+          "name": "One of the Best WooComerce Marketing Plugin. I just love using This plugin. If you have an online store you need this plugin. Nowadays social proof is the new digital currency. There isn’t a better way to do it than showing them that others already made that decision."
+        },
+        {
+          "role": "text",
+          "name": "Perk Goldsmith"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 2"
+        },
+        {
+          "role": "text",
+          "name": "Purchased a dress from them and it has swiftly become my favorite piece in my wardrobe! The quality of the fabric is outstanding, offering both comfort and durability. The staff at the shop were incredibly helpful, making my shopping experience truly personalized and enjoyable."
+        },
+        {
+          "role": "text",
+          "name": "Anna Marie"
+        },
+        {
+          "role": "text",
+          "name": "Digital Marketer"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 3"
+        },
+        {
+          "role": "text",
+          "name": "I’m thrilled with my latest purchase from there! The dress I picked out has quickly taken the top spot as the go-to item in my closet. The material is fantastic – it feels luxurious and has proven to be really hard-wearing. This dress is a testament to the quality that they deliver."
+        },
+        {
+          "role": "text",
+          "name": "Gary Harnold"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Showcase Eye-Catching Testimonial Sliders Vertically Using Arrow Swipers",
+      "level": 2
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 7"
+        },
+        {
+          "role": "text",
+          "name": "Purchased a dress from them and it has swiftly become my favorite piece in my wardrobe! The quality of the fabric is outstanding, offering both comfort and durability. The staff at the shop were incredibly helpful, making my shopping experience truly personalized and enjoyable."
+        },
+        {
+          "role": "text",
+          "name": "Perk Goldsmith"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Highlight Customer Ratings In Testimonial Sliders And Enhance Credibility",
+      "level": 2
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 6"
+        },
+        {
+          "role": "text",
+          "name": "This plugin is amazing and really helps a lot in website conversion with social proof notifications. The support is also the best part. Nowadays social proof is the new digital currency. There isn’t a better way to do"
+        },
+        {
+          "role": "text",
+          "name": "Perk Goldsmith"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 2",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 4"
+        },
+        {
+          "role": "text",
+          "name": "I’m thrilled with my latest purchase from there! The dress I picked out has quickly taken the top spot as the go-to item in my closet. The material is fantastic – it feels luxurious and has proven to be really hard-wearing."
+        },
+        {
+          "role": "text",
+          "name": "Anna Marie"
+        },
+        {
+          "role": "text",
+          "name": "Digital Marketer"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "2 of 2",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 3"
+        },
+        {
+          "role": "text",
+          "name": "I Really Love This Plugin. I Looked For Something To Make My Gutenberg Pages Look As Close To My Elementor Pages As Possible And This Was The Best Plugin I Could Find And Completely Free!"
+        },
+        {
+          "role": "text",
+          "name": "Gary Harnold"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 2",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 2"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 2"
+    },
+    {
+      "role": "heading",
+      "name": "Enjoy Absolute Styling Freedom & Customization With Sortable Content",
+      "level": 2
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "1 of 5",
+      "children": [
+        {
+          "role": "image",
+          "name": "Avatar",
+          "description": "Testimonial Slider 3"
+        },
+        {
+          "role": "heading",
+          "name": "Best For WooCommerce",
+          "level": 3
+        },
+        {
+          "role": "text",
+          "name": "One of the Best WooComerce Marketing Plugin. I just love using This plugin. If you have an online store you need this plugin! Nowadays social proof is the new digital currency. There isn’t a better way to do it than showing them that others already made that decision."
+        },
+        {
+          "role": "text",
+          "name": "Perk Goldsmith"
+        },
+        {
+          "role": "text",
+          "name": "Digital Marketer"
+        }
+      ]
+    },
+    {
+      "role": "tab",
+      "name": "1 of 5",
+      "selected": true
+    },
+    {
+      "role": "tab",
+      "name": "2 of 5"
+    },
+    {
+      "role": "tab",
+      "name": "3 of 5"
+    },
+    {
+      "role": "tab",
+      "name": "4 of 5"
+    },
+    {
+      "role": "tab",
+      "name": "5 of 5"
+    },
+    {
+      "role": "heading",
+      "name": "Display Stacked Testimonial Sliders And Play Around With Different Dot Styles",
+      "level": 2
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": ""
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "text",
+          "name": "This plugin is amazing and really helps a lot in website conversion with social proof notifications. The support is also the best part. Nowadays social proof is the new digital currency. There isn’t a better way to do"
+        },
+        {
+          "role": "text",
+          "name": "Perk Goldsmith"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "text",
+          "name": "One of the Best WooComerce Marketing Plugin. I just love using This plugin. If you have an online store you need this plugin! Nowadays social proof is the new digital currency. There isn’t a better way to do it than showing them."
+        },
+        {
+          "role": "text",
+          "name": "Anna Marie"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
+    },
+    {
+      "role": "generic",
+      "name": "",
+      "children": [
+        {
+          "role": "text",
+          "name": "I Really Love This Plugin. I Looked For Something To Make My Gutenberg Pages Look As Close To My Elementor Pages As Possible And This Was The Best Plugin I Could Find And Completely Free!"
+        },
+        {
+          "role": "text",
+          "name": "Gary Harnold"
+        },
+        {
+          "role": "text",
+          "name": "Product Designer"
+        }
+      ]
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": "Still Need Help? Reach out to our dedicated"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
     },
     {
       "role": "heading",
@@ -248,6 +626,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

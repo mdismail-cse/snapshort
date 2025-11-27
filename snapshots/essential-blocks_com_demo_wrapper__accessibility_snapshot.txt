@@ -176,7 +176,7 @@
     },
     {
       "role": "heading",
-      "name": "0.2M+",
+      "name": "3.2M+",
       "level": 4
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "role": "heading",
-      "name": "0K+",
+      "name": "250K+",
       "level": 4
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "role": "heading",
-      "name": "0+",
+      "name": "30+",
       "level": 4
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "role": "heading",
-      "name": "0+",
+      "name": "120+",
       "level": 4
     },
     {
@@ -543,6 +543,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

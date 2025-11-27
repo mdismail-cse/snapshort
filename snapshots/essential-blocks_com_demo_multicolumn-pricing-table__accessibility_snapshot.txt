@@ -104,6 +104,16 @@
     {
       "role": "image",
       "name": "Multicolumn Pricing Table",
+      "description": "Multicolumn Pricing Table 1"
+    },
+    {
+      "role": "heading",
+      "name": "Present Your Pricing Plan In A Compelling Way With Multicolumn Pricing Block",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Multicolumn Pricing Table",
       "description": "Multicolumn Pricing Table 2"
     },
     {
@@ -162,8 +172,48 @@
       "level": 6
     },
     {
+      "role": "heading",
+      "name": "Elevate Your Profits With Dynamic Pricing Plans",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Real-Time Analytics",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Customizable Templates",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Multi-Platform Compatibility",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Advanced Security",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "Auto-Sync Capability",
+      "level": 3
+    },
+    {
+      "role": "heading",
+      "name": "AI-Powered Suggestions",
+      "level": 3
+    },
+    {
       "role": "text",
       "name": "24/7 Customer Support"
+    },
+    {
+      "role": "heading",
+      "name": "Basic",
+      "level": 2
     },
     {
       "role": "heading",
@@ -176,6 +226,44 @@
       "level": 3
     },
     {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Unlimited",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Standard",
+      "level": 2
+    },
+    {
       "role": "heading",
       "name": "$240",
       "level": 3
@@ -184,6 +272,44 @@
       "role": "heading",
       "name": "$260",
       "level": 3
+    },
+    {
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Unlimited",
+      "level": 4
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Premium",
+      "level": 2
     },
     {
       "role": "heading",
@@ -196,28 +322,152 @@
       "level": 3
     },
     {
-      "role": "text",
-      "name": "Essential Blocks for Gutenberg supports almost all themes that are compatible with Gutenberg."
+      "role": "link",
+      "name": "Get Started"
+    },
+    {
+      "role": "heading",
+      "name": "Unlimited",
+      "level": 4
     },
     {
       "role": "text",
-      "name": "To use Essential Blocks you need to have a WordPress website that uses the default Gutenberg editor."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "No, Essential Blocks will not slow down your website. It brings you the outstanding facility of complete modular control over the activation of each individual block. We have also used optimized codes for this plugin which helps to load only the resources that are currently using. These advanced facilities will boost your site speed even further."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "Yes! Once you upgrade your plan accordingly, you can use Essential Blocks PRO on multiple websites."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "Absolutely! We take pride in customer satisfaction. Thus, we are offering you a risk-free 14-day money-back guarantee. If you are not happy with Essential Blocks PRO within this period, we will happily refund your money."
+      "name": ""
     },
     {
       "role": "text",
-      "name": "You can still use all of our premium features once the license expires, except you will just not get new premium updates and support. Don’t worry, we will notify you to renew your license."
+      "name": ""
+    },
+    {
+      "role": "text",
+      "name": ""
+    },
+    {
+      "role": "heading",
+      "name": "Make Your Pricing Plan Stand Out Effortlessly With Advanced Features In Gutenberg Editor",
+      "level": 2
+    },
+    {
+      "role": "image",
+      "name": "Multicolumn Pricing Table",
+      "description": "Multicolumn Pricing Table 10"
+    },
+    {
+      "role": "heading",
+      "name": "Additional Blocks",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add blocks within the block with ease"
+    },
+    {
+      "role": "image",
+      "name": "Multicolumn Pricing Table",
+      "description": "Multicolumn Pricing Table 11"
+    },
+    {
+      "role": "heading",
+      "name": "Collapse Rows",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Enable & disable collapse rows in 1-click"
+    },
+    {
+      "role": "image",
+      "name": "Multicolumn Pricing Table",
+      "description": "Multicolumn Pricing Table 12"
+    },
+    {
+      "role": "heading",
+      "name": "Best Plan",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Put a spotlight on your best pricing plan"
+    },
+    {
+      "role": "image",
+      "name": "Multicolumn Pricing Table",
+      "description": "Multicolumn Pricing Table 13"
+    },
+    {
+      "role": "heading",
+      "name": "Customization",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Build the pricing table the way you want"
+    },
+    {
+      "role": "heading",
+      "name": "Create Multicolumn Pricing In Gutenberg By Following This Step-By-Step Video Tutorial",
+      "level": 2
+    },
+    {
+      "role": "Iframe",
+      "name": "How To Show Multicolumn Pricing In Gutenberg?"
+    },
+    {
+      "role": "heading",
+      "name": "Frequently Asked Questions",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Still Need Help? Reach out to our dedicated"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n"
+    },
+    {
+      "role": "text",
+      "name": "support team anytime"
+    },
+    {
+      "role": "link",
+      "name": "Chat With Us "
+    },
+    {
+      "role": "button",
+      "name": " What themes does Essential Blocks for Gutenberg work with?"
+    },
+    {
+      "role": "button",
+      "name": " What are the requirements to use Essential Blocks for Gutenberg?"
+    },
+    {
+      "role": "button",
+      "name": " Will Essential Blocks slow down my website?"
+    },
+    {
+      "role": "button",
+      "name": " Can I use Essential Blocks PRO on multiple websites?"
+    },
+    {
+      "role": "button",
+      "name": " Do you have a refund option?"
+    },
+    {
+      "role": "button",
+      "name": " What will happen after my license expires?"
     },
     {
       "role": "heading",
@@ -342,6 +592,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

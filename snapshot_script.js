@@ -96,7 +96,6 @@ const path = require('path');
     // Scroll to trigger lazy loading (optimized)
     try {
       await page.evaluate(async () => {
-        // Smooth scroll to bottom to trigger lazy loading
         const scrollHeight = document.documentElement.scrollHeight;
         const viewportHeight = window.innerHeight;
         const scrollStep = Math.max(viewportHeight / 4, 200);
@@ -106,12 +105,43 @@ const path = require('path');
           await new Promise(resolve => setTimeout(resolve, 100));
         }
 
-        // Scroll back to top
         window.scrollTo(0, 0);
         await new Promise(resolve => setTimeout(resolve, 500));
       });
+      console.log('✅ Lazy loading triggered');
     } catch (error) {
-      console.log('Scroll loading failed, continuing...');
+      console.log('⚠️ Scroll loading failed, continuing...');
+    }
+
+    // Freeze animations and transitions for consistent snapshots
+    console.log('🧊 Disabling animations and transitions...');
+    try {
+      await page.addStyleTag({
+        content: `
+          *, *::before, *::after {
+            animation: none !important;
+            transition: none !important;
+            animation-play-state: paused !important;
+            transition-duration: 0s !important;
+            animation-duration: 0s !important;
+            animation-delay: 0s !important;
+            transition-delay: 0s !important;
+          }
+        `
+      });
+
+      await page.evaluate(() => {
+        const elements = Array.from(document.querySelectorAll('*'));
+        elements.forEach((el) => {
+          el.style.animationPlayState = 'paused';
+        });
+        if (typeof window.requestAnimationFrame === 'function') {
+          window.requestAnimationFrame(() => {});
+        }
+      });
+      console.log('✅ Animations disabled');
+    } catch (error) {
+      console.log('⚠️ Failed to disable animations:', error);
     }
 
     // Generate base filename

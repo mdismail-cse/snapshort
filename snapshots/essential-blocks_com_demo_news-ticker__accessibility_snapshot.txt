@@ -183,11 +183,23 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Introducing Release"
+        }
+      ]
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Introducing Our Latest Release: PRO v 1.0"
+        }
+      ]
     },
     {
       "role": "text",
@@ -216,7 +228,13 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "WordCamp Europe 2023: Happening This June"
+        }
+      ]
     },
     {
       "role": "text",
@@ -241,7 +259,13 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "Introducing Our Latest Release: PRO v 1.0"
+        }
+      ]
     },
     {
       "role": "text",
@@ -266,7 +290,13 @@
     },
     {
       "role": "generic",
-      "name": ""
+      "name": "",
+      "children": [
+        {
+          "role": "link",
+          "name": "WordCamp Europe 2023: Happening This June"
+        }
+      ]
     },
     {
       "role": "heading",
@@ -391,6 +421,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -237,7 +237,7 @@
     },
     {
       "role": "text",
-      "name": "80"
+      "name": "75"
     },
     {
       "role": "text",
@@ -249,7 +249,7 @@
     },
     {
       "role": "text",
-      "name": "90"
+      "name": "81"
     },
     {
       "role": "text",
@@ -261,7 +261,7 @@
     },
     {
       "role": "text",
-      "name": "75"
+      "name": "64"
     },
     {
       "role": "text",
@@ -273,7 +273,7 @@
     },
     {
       "role": "text",
-      "name": "92"
+      "name": "77"
     },
     {
       "role": "text",
@@ -299,7 +299,7 @@
     },
     {
       "role": "text",
-      "name": "85"
+      "name": "42"
     },
     {
       "role": "text",
@@ -311,7 +311,7 @@
     },
     {
       "role": "text",
-      "name": "85"
+      "name": "42"
     },
     {
       "role": "text",
@@ -323,7 +323,7 @@
     },
     {
       "role": "text",
-      "name": "75"
+      "name": "37"
     },
     {
       "role": "text",
@@ -335,7 +335,7 @@
     },
     {
       "role": "text",
-      "name": "59"
+      "name": "29"
     },
     {
       "role": "text",
@@ -401,7 +401,7 @@
     },
     {
       "role": "text",
-      "name": "100"
+      "name": "35"
     },
     {
       "role": "text",
@@ -413,7 +413,7 @@
     },
     {
       "role": "text",
-      "name": "69"
+      "name": "24"
     },
     {
       "role": "text",
@@ -425,7 +425,7 @@
     },
     {
       "role": "text",
-      "name": "75"
+      "name": "26"
     },
     {
       "role": "text",
@@ -437,7 +437,7 @@
     },
     {
       "role": "text",
-      "name": "59"
+      "name": "20"
     },
     {
       "role": "text",
@@ -672,6 +672,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Google Maps",
       "description": "Google Maps 1"
     },
     {
       "role": "heading",
       "name": "Google Maps",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -104,7 +104,7 @@
     },
     {
       "role": "image",
-      "name": "Essential Blocks Google Maps",
+      "name": "Google Maps",
       "description": "Google Maps 3"
     },
     {
@@ -170,6 +170,107 @@
       "name": "Showcase Google Maps with versatile layout types and let your visitors find you at the exact location easily and effortlessly"
     },
     {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "roledescription": "map"
+    },
+    {
+      "role": "button",
+      "name": "New York, NY, USA",
+      "description": "New York, NY, USA"
+    },
+    {
+      "role": "dialog",
+      "name": "",
+      "children": [
+        {
+          "role": "button",
+          "name": "Close",
+          "description": "Close"
+        },
+        {
+          "role": "heading",
+          "name": "New York, NY, USA",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "checked": true,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "checked": false,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View"
+    },
+    {
+      "role": "button",
+      "name": "Zoom in",
+      "description": "Zoom in"
+    },
+    {
+      "role": "button",
+      "name": "Zoom out",
+      "description": "Zoom out"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts"
+    },
+    {
+      "role": "text",
+      "name": "Map data ©2025 Google"
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google"
+    },
+    {
       "role": "heading",
       "name": "Satellite View Layout",
       "level": 2
@@ -177,6 +278,113 @@
     {
       "role": "text",
       "name": "Display Google Maps on your website pointing to the Latitude & Longitude and let your visitors reach you effortlessly in your location"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "roledescription": "map"
+    },
+    {
+      "role": "button",
+      "name": "New York, NY, USA",
+      "description": "New York, NY, USA"
+    },
+    {
+      "role": "dialog",
+      "name": "",
+      "children": [
+        {
+          "role": "button",
+          "name": "Close",
+          "description": "Close"
+        },
+        {
+          "role": "heading",
+          "name": "New York, NY, USA",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "checked": false,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "checked": true,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "Tilt map",
+      "description": "Tilt map"
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View"
+    },
+    {
+      "role": "button",
+      "name": "Zoom in",
+      "description": "Zoom in"
+    },
+    {
+      "role": "button",
+      "name": "Zoom out",
+      "description": "Zoom out"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "text",
+      "name": "Imagery ©2025 Airbus, Landsat / Copernicus, Maxar Technologies, Vexcel Imaging US, Inc."
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google"
     },
     {
       "role": "heading",
@@ -188,6 +396,112 @@
       "name": "Adjust the map zoom level and map height to perfectly fit the Google Maps on your company website while showing it to your visitors"
     },
     {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "roledescription": "map"
+    },
+    {
+      "role": "button",
+      "name": "New York, NY, USA",
+      "description": "New York, NY, USA"
+    },
+    {
+      "role": "dialog",
+      "name": "",
+      "children": [
+        {
+          "role": "button",
+          "name": "Close",
+          "description": "Close"
+        },
+        {
+          "role": "heading",
+          "name": "New York, NY, USA",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "checked": false,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "checked": true,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "Tilt map",
+      "description": "Tilt map"
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View"
+    },
+    {
+      "role": "button",
+      "name": "Zoom in",
+      "description": "Zoom in"
+    },
+    {
+      "role": "button",
+      "name": "Zoom out",
+      "description": "Zoom out"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts"
+    },
+    {
+      "role": "text",
+      "name": "Map data ©2025 Google Imagery ©2025 Airbus, Maxar Technologies, Vexcel Imaging US, Inc."
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google"
+    },
+    {
       "role": "heading",
       "name": "Google Maps Terrain Layout",
       "level": 2
@@ -197,6 +511,107 @@
       "name": "Style Google Maps according to your choice to match the color and style theme with your website so that it looks good to the visitors"
     },
     {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "roledescription": "map"
+    },
+    {
+      "role": "button",
+      "name": "New York, NY, USA",
+      "description": "New York, NY, USA"
+    },
+    {
+      "role": "dialog",
+      "name": "",
+      "children": [
+        {
+          "role": "button",
+          "name": "Close",
+          "description": "Close"
+        },
+        {
+          "role": "heading",
+          "name": "New York, NY, USA",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "checked": true,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "checked": false,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View"
+    },
+    {
+      "role": "button",
+      "name": "Zoom in",
+      "description": "Zoom in"
+    },
+    {
+      "role": "button",
+      "name": "Zoom out",
+      "description": "Zoom out"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts"
+    },
+    {
+      "role": "text",
+      "name": "Map data ©2025 Google"
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google"
+    },
+    {
       "role": "heading",
       "name": "Marker To Pin Location",
       "level": 2
@@ -204,6 +619,112 @@
     {
       "role": "text",
       "name": "Mark the location where you want to pin it on Google Maps with exclusive styling features. Add as many markers as you want to provide your desired location to visitors"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts",
+      "description": "Keyboard shortcuts"
+    },
+    {
+      "role": "region",
+      "name": "Map",
+      "description": "Left arrow Move left. Right arrow Move right. Up arrow Move up. Down arrow Move down. + Zoom in. - Zoom out. Home Jump left by 75%. End Jump right by 75%. Page Up Jump up by 75%. Page Down Jump down by 75%.",
+      "roledescription": "map"
+    },
+    {
+      "role": "button",
+      "name": "Marker 1",
+      "description": "Marker 1"
+    },
+    {
+      "role": "button",
+      "name": "Marker 2",
+      "description": "Marker 2"
+    },
+    {
+      "role": "dialog",
+      "name": "",
+      "children": [
+        {
+          "role": "button",
+          "name": "Close",
+          "description": "Close"
+        },
+        {
+          "role": "heading",
+          "name": "Marker 1",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "role": "menubar",
+      "name": "",
+      "orientation": "horizontal",
+      "children": [
+        {
+          "role": "menuitemradio",
+          "name": "Show street map",
+          "description": "Show street map",
+          "checked": true,
+          "haspopup": "menu"
+        },
+        {
+          "role": "menuitemradio",
+          "name": "Show satellite imagery",
+          "description": "Show satellite imagery",
+          "checked": false,
+          "haspopup": "menu"
+        }
+      ]
+    },
+    {
+      "role": "button",
+      "name": "Toggle fullscreen view",
+      "description": "Toggle fullscreen view",
+      "pressed": false
+    },
+    {
+      "role": "button",
+      "name": "Map camera controls",
+      "description": "Map camera controls"
+    },
+    {
+      "role": "button",
+      "name": "Drag Pegman onto the map to open Street View",
+      "description": "Drag Pegman onto the map to open Street View"
+    },
+    {
+      "role": "button",
+      "name": "Zoom in",
+      "description": "Zoom in"
+    },
+    {
+      "role": "button",
+      "name": "Zoom out",
+      "description": "Zoom out"
+    },
+    {
+      "role": "link",
+      "name": "Open this area in Google Maps (opens a new window)",
+      "description": "Open this area in Google Maps (opens a new window)"
+    },
+    {
+      "role": "button",
+      "name": "Keyboard shortcuts"
+    },
+    {
+      "role": "text",
+      "name": "Map data ©2025 Google"
+    },
+    {
+      "role": "link",
+      "name": "Terms (opens in new tab)"
+    },
+    {
+      "role": "link",
+      "name": "Report a map error",
+      "description": "Report errors in the road map or imagery to Google"
     },
     {
       "role": "heading",
@@ -328,6 +849,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

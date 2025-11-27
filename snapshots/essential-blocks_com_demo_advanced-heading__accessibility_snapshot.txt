@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Advanced Heading",
       "description": "Advanced Heading 1"
     },
     {
       "role": "heading",
       "name": "Advanced Heading",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -215,13 +215,13 @@
       "name": "Make your travel website gain widespread fame with the Advanced Heading"
     },
     {
-      "role": "link",
-      "name": ""
-    },
-    {
       "role": "image",
       "name": "Advanced Heading",
       "description": "Advanced Heading 9"
+    },
+    {
+      "role": "link",
+      "name": ""
     },
     {
       "role": "heading",

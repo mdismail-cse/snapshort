@@ -172,51 +172,15 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2",
-      "children": [
-        {
-          "role": "text",
-          "name": "21 May 2023"
-        },
-        {
-          "role": "heading",
-          "name": "90k+ Active Installations",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
-      "description": "2 of 2",
-      "children": [
-        {
-          "role": "text",
-          "name": "12 April 2023"
-        },
-        {
-          "role": "heading",
-          "name": "New Blocks Released",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
       "description": "3 of 2",
       "children": [
         {
           "role": "text",
           "name": "24 May 2023"
+        },
+        {
+          "role": "text",
+          "name": ""
         },
         {
           "role": "heading",
@@ -239,6 +203,10 @@
           "name": "21 May 2023"
         },
         {
+          "role": "text",
+          "name": ""
+        },
+        {
           "role": "heading",
           "name": "WordPress 6.2 Released",
           "level": 2
@@ -250,9 +218,56 @@
       ]
     },
     {
+      "role": "tabpanel",
+      "name": "",
+      "description": "5 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "May 19, 2023"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "heading",
+          "name": "New Blocks Released!",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Introducing our 6 new Gutenberg blocks to help you design stunning websites with ease."
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "6 of 2",
+      "children": [
+        {
+          "role": "text",
+          "name": "Jun 29, 2023"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "heading",
+          "name": "New Release: PRO Version",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "We’re going PRO: We’re bringing you an array of EXCLUSIVE premium blocks for Gutenberg."
+        }
+      ]
+    },
+    {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -260,7 +275,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 2"
+      "name": "3 of 2",
+      "selected": true
     },
     {
       "role": "tab",
@@ -293,46 +309,16 @@
       "children": [
         {
           "role": "heading",
-          "name": "New Blocks Released",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        },
-        {
-          "role": "text",
-          "name": "Jan 19, 2023"
-        }
-      ]
-    },
-    {
-      "role": "article",
-      "name": "",
-      "children": [
-        {
-          "role": "heading",
-          "name": "WordPress 6.2 Released",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        }
-      ]
-    },
-    {
-      "role": "article",
-      "name": "",
-      "children": [
-        {
-          "role": "heading",
           "name": "90k+ Active Installations",
           "level": 2
         },
         {
           "role": "text",
           "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": ""
         },
         {
           "role": "text",
@@ -355,7 +341,57 @@
         },
         {
           "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
           "name": "Apr 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Blocks Released!",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Introducing our 6 new Gutenberg blocks to help you design stunning websites with ease."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "May 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Release: PRO Version",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "We’re going PRO: We’re bringing you an array of EXCLUSIVE premium blocks for Gutenberg."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "Jun 29, 2023"
         }
       ]
     },
@@ -375,54 +411,6 @@
     {
       "role": "tabpanel",
       "name": "",
-      "description": "1 of 2",
-      "children": [
-        {
-          "role": "heading",
-          "name": "90K+ ACTIVE INSTALLATIONS",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        },
-        {
-          "role": "text",
-          "name": "21 May 2023"
-        },
-        {
-          "role": "text",
-          "name": "Design"
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
-      "description": "2 of 2",
-      "children": [
-        {
-          "role": "heading",
-          "name": "NEW BLOCKS RELEASED",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        },
-        {
-          "role": "text",
-          "name": "12 April 2023"
-        },
-        {
-          "role": "text",
-          "name": "Development"
-        }
-      ]
-    },
-    {
-      "role": "tabpanel",
-      "name": "",
       "description": "3 of 2",
       "children": [
         {
@@ -433,6 +421,10 @@
         {
           "role": "text",
           "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": ""
         },
         {
           "role": "text",
@@ -460,6 +452,10 @@
         },
         {
           "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
           "name": "Apr 19, 2023"
         },
         {
@@ -469,9 +465,64 @@
       ]
     },
     {
+      "role": "tabpanel",
+      "name": "",
+      "description": "5 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "WORDPRESS 6.2 RELEASED",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "21 May 2023"
+        },
+        {
+          "role": "text",
+          "name": "Content Writing"
+        }
+      ]
+    },
+    {
+      "role": "tabpanel",
+      "name": "",
+      "description": "6 of 2",
+      "children": [
+        {
+          "role": "heading",
+          "name": "NEW RELEASE: PRO VERSION",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "We’re going PRO: We’re bringing you an array of EXCLUSIVE premium blocks for Gutenberg."
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "Jun 29, 2023"
+        },
+        {
+          "role": "text",
+          "name": "Design"
+        }
+      ]
+    },
+    {
       "role": "tab",
-      "name": "1 of 2",
-      "selected": true
+      "name": "1 of 2"
     },
     {
       "role": "tab",
@@ -479,7 +530,8 @@
     },
     {
       "role": "tab",
-      "name": "3 of 2"
+      "name": "3 of 2",
+      "selected": true
     },
     {
       "role": "tab",
@@ -512,46 +564,20 @@
       "children": [
         {
           "role": "heading",
-          "name": "New Blocks Released",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        },
-        {
-          "role": "text",
-          "name": "Jan 19, 2023"
-        }
-      ]
-    },
-    {
-      "role": "article",
-      "name": "",
-      "children": [
-        {
-          "role": "heading",
-          "name": "WordPress 6.2 Released",
-          "level": 2
-        },
-        {
-          "role": "text",
-          "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
-        }
-      ]
-    },
-    {
-      "role": "article",
-      "name": "",
-      "children": [
-        {
-          "role": "heading",
           "name": "90k+ Active Installations",
           "level": 2
         },
         {
           "role": "text",
           "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
+        },
+        {
+          "role": "link",
+          "name": "Read More"
+        },
+        {
+          "role": "text",
+          "name": ""
         },
         {
           "role": "text",
@@ -573,8 +599,70 @@
           "name": "In just 4 month, we have crossed another milestone 90K Happy Users"
         },
         {
+          "role": "link",
+          "name": "Read More"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
           "role": "text",
           "name": "Apr 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Blocks Released!",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "Introducing our 6 new Gutenberg blocks to help you design stunning websites with ease."
+        },
+        {
+          "role": "link",
+          "name": "Read More"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "May 19, 2023"
+        }
+      ]
+    },
+    {
+      "role": "article",
+      "name": "",
+      "children": [
+        {
+          "role": "heading",
+          "name": "New Release: PRO Version",
+          "level": 2
+        },
+        {
+          "role": "text",
+          "name": "We’re going PRO: We’re bringing you an array of EXCLUSIVE premium blocks for Gutenberg."
+        },
+        {
+          "role": "link",
+          "name": "Read More"
+        },
+        {
+          "role": "text",
+          "name": ""
+        },
+        {
+          "role": "text",
+          "name": "Jun 29, 2023"
         }
       ]
     },
@@ -705,6 +793,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

@@ -87,7 +87,7 @@
     {
       "role": "heading",
       "name": "Display Info In Collapsible Rows With Advanced Accordion",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -511,100 +511,6 @@
     {
       "role": "button",
       "name": " What will happen after my license expires?"
-    },
-    {
-      "role": "heading",
-      "name": "Elevate Your Web Design & Development In Gutenberg  With Essential Blocks",
-      "level": 2
-    },
-    {
-      "role": "heading",
-      "name": "No Worries! We Offer 100% No-Risk Money Back Guarantee Only If You’re Not Satisfied Enough.",
-      "level": 2
-    },
-    {
-      "role": "link",
-      "name": "Get Started Now "
-    },
-    {
-      "role": "image",
-      "name": "Accordion",
-      "description": "Accordion 17"
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Feature Item 1",
-      "level": 3
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Feature Item 2",
-      "level": 3
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Feature Item 3",
-      "level": 3
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Feature Item 4",
-      "level": 3
-    },
-    {
-      "role": "text",
-      "name": ""
-    },
-    {
-      "role": "heading",
-      "name": "Feature Item 5",
-      "level": 3
-    },
-    {
-      "role": "heading",
-      "name": "Essential Blocks- Gutenberg",
-      "level": 2
-    },
-    {
-      "role": "text",
-      "name": "This plugin, which I’ve been using for several years, brings incredible features to WordPress to enhance the look of a website, without any programming."
-    },
-    {
-      "role": "LineBreak",
-      "name": "\n"
-    },
-    {
-      "role": "text",
-      "name": "Furthermore, their support was very effective in fixing a bug."
-    },
-    {
-      "role": "LineBreak",
-      "name": "\n"
-    },
-    {
-      "role": "text",
-      "name": "Thank you again and congratulations."
-    },
-    {
-      "role": "image",
-      "name": "Accordion",
-      "description": "Accordion 18"
     },
     {
       "role": "heading",

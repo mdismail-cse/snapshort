@@ -170,6 +170,78 @@
       "name": "Easily show your NFT items & collections with an interactive call-to-action button with hover effect, enabling or disabling the creator or owner, and organize the order as you want"
     },
     {
+      "role": "image",
+      "name": "The Hopeful #5533"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5533",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5508"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5508",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5528"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5528",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5474"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5474",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5543"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5543",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5520"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5520",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5497"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5497",
+      "level": 3
+    },
+    {
+      "role": "image",
+      "name": "The Hopeful #5517"
+    },
+    {
+      "role": "heading",
+      "name": "The Hopeful #5517",
+      "level": 3
+    },
+    {
       "role": "heading",
       "name": "NFT Gallery Grid Preset 2",
       "level": 2
@@ -177,6 +249,82 @@
     {
       "role": "text",
       "name": "Present your NFTs with a fixed eye-catchy call-to-action button, price, and title, & guide your visitors to your NFT collection to boost your conversion rates"
+    },
+    {
+      "role": "image",
+      "name": "NFT OCS Collection #252 DRIFTING HOME"
+    },
+    {
+      "role": "heading",
+      "name": "NFT OCS Collection #252 DRIFTING HOME",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "NFT OCS Collection #507 DRIFTING HOME"
+    },
+    {
+      "role": "heading",
+      "name": "NFT OCS Collection #507 DRIFTING HOME",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "NFT OCS Collection #105 DRIFTING HOME"
+    },
+    {
+      "role": "heading",
+      "name": "NFT OCS Collection #105 DRIFTING HOME",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "NFT OCS Collection #910 DRIFTING HOME"
+    },
+    {
+      "role": "heading",
+      "name": "NFT OCS Collection #910 DRIFTING HOME",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
     },
     {
       "role": "heading",
@@ -188,6 +336,82 @@
       "name": "Showcase your NFT items & collections section in the list layout and personalize the gallery using stunning colors, typography, and more with absolute ease"
     },
     {
+      "role": "image",
+      "name": "Egao #5498"
+    },
+    {
+      "role": "heading",
+      "name": "Egao #5498",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Uzachi #5491"
+    },
+    {
+      "role": "heading",
+      "name": "Uzachi #5491",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Ku'roi #5479"
+    },
+    {
+      "role": "heading",
+      "name": "Ku'roi #5479",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "Gureji #5492"
+    },
+    {
+      "role": "heading",
+      "name": "Gureji #5492",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
       "role": "heading",
       "name": "NFT Gallery Grid Preset 3",
       "level": 2
@@ -197,6 +421,22 @@
       "name": "Present your NFTs with a fixed eye-catchy call-to-action button, price, and title, & guide your visitors to your NFT collection to boost your conversion rates"
     },
     {
+      "role": "image",
+      "name": "#7776"
+    },
+    {
+      "role": "image",
+      "name": "#7777"
+    },
+    {
+      "role": "image",
+      "name": "#7764"
+    },
+    {
+      "role": "image",
+      "name": "#7770"
+    },
+    {
       "role": "heading",
       "name": "Endless Customizations To NFT Gallery",
       "level": 2
@@ -204,6 +444,82 @@
     {
       "role": "text",
       "name": "Make your NFT gallery appearance stunning with customized typography & colors, interactive animation, beautiful backgrounds, and more"
+    },
+    {
+      "role": "image",
+      "name": "#9975"
+    },
+    {
+      "role": "heading",
+      "name": "#9975",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "#9950"
+    },
+    {
+      "role": "heading",
+      "name": "#9950",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "#9948"
+    },
+    {
+      "role": "heading",
+      "name": "#9948",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
+    },
+    {
+      "role": "image",
+      "name": "#9956"
+    },
+    {
+      "role": "heading",
+      "name": "#9956",
+      "level": 3
+    },
+    {
+      "role": "button",
+      "name": "See Details",
+      "children": [
+        {
+          "role": "link",
+          "name": "See Details"
+        }
+      ]
     },
     {
       "role": "heading",
@@ -328,6 +644,74 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Nishan B"
+    },
+    {
+      "role": "text",
+      "name": "Nishan B"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "just purchased"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks Pro — Visionary LTD"
+    },
+    {
+      "role": "text",
+      "name": "2 days ago"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

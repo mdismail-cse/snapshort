@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Advanced Navigation",
       "description": "Advanced Navigation 1"
     },
     {
       "role": "heading",
       "name": "Advanced Navigation",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -104,7 +104,7 @@
     },
     {
       "role": "image",
-      "name": "essential blocks advanced navigation",
+      "name": "Advanced Navigation",
       "description": "Advanced Navigation 3"
     },
     {
@@ -491,6 +491,38 @@
     {
       "role": "link",
       "name": "xCloud-logo"
+    },
+    {
+      "role": "image",
+      "name": "Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks &amp; Patterns"
+    },
+    {
+      "role": "text",
+      "name": "200K+"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "people are actively using"
+    },
+    {
+      "role": "text",
+      "name": "Essential Blocks"
+    },
+    {
+      "role": "text",
+      "name": "by"
+    },
+    {
+      "role": "link",
+      "name": "NotificationX"
+    },
+    {
+      "role": "link",
+      "name": ""
     }
   ]
 }

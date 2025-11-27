@@ -81,13 +81,13 @@
     },
     {
       "role": "image",
-      "name": "macbook",
+      "name": "Advanced Tabs",
       "description": "Advanced Tabs 1"
     },
     {
       "role": "heading",
       "name": "Advanced Tab",
-      "level": 2
+      "level": 1
     },
     {
       "role": "text",
@@ -216,19 +216,19 @@
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "image",
@@ -291,19 +291,19 @@
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "heading",
@@ -466,19 +466,19 @@
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "link",
-      "name": ""
+      "name": "social link"
     },
     {
       "role": "image",
